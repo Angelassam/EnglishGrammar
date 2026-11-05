@@ -259,7 +259,7 @@
    "id": "1-20-b02",
    "type": "blank",
    "q": "두 문장을 that을 써서 한 문장으로 만들 때 빈칸에 알맞은 말을 쓰세요. (세 단어)<br>I know. + She is a good singer.<br>→ I know ____ ____ ____ a good singer.",
-   "ko": "나는 그녀가 노래를 잘하는 것을 안다.",
+   "ko": "나는 그녀가 훌륭한 가수라는 것을 안다.",
    "ans": [
     "that she is"
    ],
