@@ -87,8 +87,8 @@
    "ref":"1. 예문"},
   {"id":"2-03-H-a03","type":"arrange","ko":"그녀는 내가 모든 것에 대해 이야기할 수 있는 유일한 친구이다.",
    "words":["talk","the only friend","I","to","She","can","whom","is","about everything"],
-   "ans":["She is the only friend whom I can talk to about everything."],
-   "e":"talk to a friend에서 a friend가 전치사 to의 목적어라서 whom + 주어 + 동사 뒤에 전치사 to를 남겨요.",
+   "ans":["She is the only friend whom I can talk to about everything.","She is the only friend to whom I can talk about everything."],
+   "e":"talk to a friend에서 a friend가 전치사 to의 목적어라서 whom + 주어 + 동사 뒤에 전치사 to를 남겨요. 전치사를 앞으로 보내 to whom I can talk으로 써도 돼요.",
    "ref":"4. 전치사의 목적어가 빠진 경우 (심화)"}
  ]
 }

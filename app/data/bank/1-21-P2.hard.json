@@ -77,7 +77,7 @@
   {"id":"1-21-P2-H-a02","type":"arrange","ko":"그는 이 학교에 온 이후로 많은 상을 받았다.",
    "cond":"주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
    "words":["he","win","many prizes","since","he","come","to this school"],
-   "ans":["He has won many prizes since he came to this school."],
+   "ans":["He has won many prizes since he came to this school.","Since he came to this school, he has won many prizes."],
    "e":"'~한 이후로'의 since는 주절의 현재완료(has won)와 함께 쓰고, since절은 과거시제(came)로 써요.","ref":"5. since — ~ 때문에 (이유) / ~한 이후로 (시간)"},
   {"id":"1-21-P2-H-a03","type":"arrange","ko":"비록 그 문제가 어려웠지만, 그녀는 그것을 5분 만에 풀었다.",
    "cond":"주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
