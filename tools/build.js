@@ -3,9 +3,10 @@ const fs=require('fs'),path=require('path');
 const app=path.join(__dirname,'..','app');
 const units=JSON.parse(fs.readFileSync(path.join(app,'data','units.json')));
 const bank={};
-for(const f of fs.readdirSync(path.join(app,'data','bank')).filter(f=>f.endsWith('.json'))){
+for(const f of fs.readdirSync(path.join(app,'data','bank')).filter(f=>f.endsWith('.json')).sort()){
   const b=JSON.parse(fs.readFileSync(path.join(app,'data','bank',f)));
-  bank[b.unit]=b.questions.map(q=>{const {ref,...rest}=q;return {...rest,ref};});
+  const lv=b.level==='hard'?'hard':'basic';
+  bank[b.unit]=(bank[b.unit]||[]).concat(b.questions.map(q=>({...q,lv})));
 }
 const data=JSON.stringify({units:units.units,publishers:units.publishers,bank}).replace(/<\//g,'<\\/');
 const html=fs.readFileSync(path.join(app,'src','template.html'),'utf8').replace('__DATA__',data);
