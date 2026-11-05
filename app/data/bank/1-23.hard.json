@@ -23,7 +23,7 @@
    "ref":"핵심 개념"},
   {"id":"1-23-H-c04","type":"choice",
    "q":"밑줄 친 부분과 같은 뜻이 되는 것을 고르세요.<br>I <u>didn't see anything new</u> at the museum last weekend.",
-   "ko":"나는 지난 주말에 박물관에서 새로운 것을 전혀 보지 못했다.",
+   "ko":"나는 지난 주말에 박물관에서 새로운 것을 아무것도 보지 못했다.",
    "o":["saw nothing new","saw new nothing","didn't see nothing new","saw something new","didn't see new anything"],"a":0,
    "e":"'새로운 것을 보지 못했다'는 not ... anything new = nothing new로 바꿔 쓸 수 있고, 형용사 new는 nothing 뒤에 와요. new nothing, new anything은 어순이 틀리고, saw something new는 '새로운 것을 보았다'는 반대의 뜻이에요.",
    "ref":"대상이 되는 대명사"},
@@ -90,7 +90,7 @@
    "ref":"대상이 되는 대명사"},
   {"id":"1-23-H-a03","type":"arrange","ko":"내 남동생은 저녁 식사 후에 항상 달콤한 것을 먹고 싶어 한다.",
    "words":["something","my brother","wants","to eat","sweet","after dinner","always"],
-   "ans":["My brother always wants to eat something sweet after dinner.","After dinner, my brother always wants to eat something sweet.","After dinner my brother always wants to eat something sweet.","My brother always wants to eat something sweet after dinner"],
+   "ans":["My brother always wants to eat something sweet after dinner.","After dinner, my brother always wants to eat something sweet.","After dinner my brother always wants to eat something sweet."],
    "e":"'달콤한 것'은 something 뒤에 형용사 sweet을 붙여 something sweet으로 쓰고, 빈도를 나타내는 always는 동사 wants 앞에 와요.",
    "ref":"핵심 개념"}
  ]
