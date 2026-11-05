@@ -31,10 +31,10 @@
    "e":"her가 전치사 to의 목적어라서 whom으로 바꾸고 전치사 to는 남겨요. 전치사를 앞으로 보낼 때는 to that이 아니라 to whom이고, her를 또 쓰면 안 돼요.",
    "ref":"4. 전치사의 목적어가 빠진 경우 (심화)"},
   {"id":"2-03-H-c06","type":"choice",
-   "q":"밑줄 친 부분과 바꿔 쓸 수 있는 것을 고르세요.<br>The boy <u>whom</u> I helped yesterday thanked me today.",
-   "o":["that","which","what","whose","he"],"a":0,
-   "e":"사람 선행사의 목적격 관계대명사는 whom / who / that을 쓸 수 있어요. which는 사물·동물에만 쓰고, he를 쓰면 목적어가 아닌 주어를 또 쓰는 셈이 돼요.",
-   "ref":"핵심 개념"},
+   "q":"다음 중 빈칸에 whom을 쓸 수 <b>없는</b> 것을 고르세요.",
+   "o":["The man ____ is standing over there is my uncle.","The boy ____ I helped yesterday thanked me today.","The teacher ____ we like the most is Ms. Park.","She is the person ____ I trust the most.","This is the doctor ____ my mother visited last week."],"a":0,
+   "e":"whom은 뒤에 주어 + 동사가 오고 목적어 자리가 빈 목적격 자리에만 써요. 첫 문장은 빈칸 뒤에 바로 동사 is standing이 오는 주격 자리라서 who를 써야 해요.",
+   "ref":"주격 vs 목적격 한눈에 구별"},
   {"id":"2-03-H-e01","type":"error","q":"다음 중 어법상 틀린 문장을 고르세요.",
    "o":["The movie which we saw it last night was really boring.","The teacher whom everyone respects is leaving next month.","I lost the watch that my father gave me.","The pictures she took in Paris were beautiful.","This is the house in which my grandparents lived."],"a":0,
    "e":"관계대명사 which가 이미 saw의 목적어를 대신하므로 it을 또 쓰지 않아요. → The movie which we saw last night was really boring.",
@@ -87,7 +87,7 @@
    "ref":"1. 예문"},
   {"id":"2-03-H-a03","type":"arrange","ko":"그녀는 내가 모든 것에 대해 이야기할 수 있는 유일한 친구이다.",
    "words":["talk","the only friend","I","to","She","can","whom","is","about everything"],
-   "ans":["She is the only friend whom I can talk to about everything.","She is the only friend to whom I can talk about everything."],
+   "ans":["She is the only friend whom I can talk to about everything.","She is the only friend to whom I can talk about everything.","She is the only friend whom I can talk about everything to."],
    "e":"talk to a friend에서 a friend가 전치사 to의 목적어라서 whom + 주어 + 동사 뒤에 전치사 to를 남겨요. 전치사를 앞으로 보내 to whom I can talk으로 써도 돼요.",
    "ref":"4. 전치사의 목적어가 빠진 경우 (심화)"}
  ]
