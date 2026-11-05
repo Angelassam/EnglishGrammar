@@ -196,7 +196,7 @@
    "ref":"Part 2. 2. 의문사 + to부정사"},
   {"id":"1-14-P2-a06","type":"arrange","ko":"우리는 이번 주말에 어디로 갈지 정해야 한다.",
    "words":["where to go","We need","to decide","this weekend"],
-   "ans":["We need to decide where to go this weekend."],
+   "ans":["We need to decide where to go this weekend.","We need to decide this weekend where to go."],
    "e":"decide의 목적어로 where to go가 와요.",
    "ref":"Part 2. 2. 의문사 + to부정사"},
   {"id":"1-14-P2-a07","type":"arrange","ko":"그곳에 어떻게 가는지 알려 줘.",

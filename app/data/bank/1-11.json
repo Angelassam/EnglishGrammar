@@ -177,7 +177,7 @@
     "alone",
     "together",
     "with him",
-    "himself",
+    "with others",
     "for him"
    ],
    "a": 0,
@@ -542,7 +542,8 @@
    ],
    "cond": "주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
    "ans": [
-    "She often talks to herself."
+    "She often talks to herself.",
+    "She talks to herself often."
    ],
    "e": "'혼잣말하다'는 talk to oneself예요. 주어가 She라서 talks로 바꾸고 herself를 더해요.",
    "ref": "4. 관용 표현"

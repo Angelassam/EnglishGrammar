@@ -171,8 +171,8 @@
    "ref":"3. every + 단수명사 ~ and + 단수명사도 단수 취급"},
   {"id":"2-10-a04","type":"arrange","ko":"그녀는 주말마다 할머니 댁을 방문한다.",
    "words":["every weekend","She","her grandma","visits"],
-   "ans":["She visits her grandma every weekend."],
-   "e":"every + 시간(every weekend)은 '~마다'라는 뜻으로 문장 끝에 써요.",
+   "ans":["She visits her grandma every weekend.","Every weekend she visits her grandma."],
+   "e":"every + 시간(every weekend)은 '~마다'라는 뜻이에요. 보통 문장 끝에 쓰지만 문장 맨 앞에 써도 돼요.",
    "ref":"5. every + 시간 = \"~마다\""},
   {"id":"2-10-a05","type":"arrange","ko":"모든 것이 새것처럼 보인다.",
    "words":["new","Everything","looks"],
@@ -181,7 +181,7 @@
    "ref":"4. -one / -body / -thing도 단수"},
   {"id":"2-10-a06","type":"arrange","ko":"버스는 10분마다 온다.",
    "words":["ten minutes","The bus","every","comes"],
-   "ans":["The bus comes every ten minutes."],
+   "ans":["The bus comes every ten minutes.","Every ten minutes the bus comes."],
    "e":"every + 숫자 + 복수명사(every ten minutes)는 '~마다'라는 뜻이에요.",
    "ref":"5. every + 시간 = \"~마다\""}
  ]
