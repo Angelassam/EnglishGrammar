@@ -122,7 +122,7 @@
    "ref":"Part 2 / 2. 비교급 강조 — much / even / far / a lot / still"},
   {"id":"1-16-P2-b03","type":"blank",
    "q":"우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (세 단어)<br>지나는 미나만큼 빨리 달린다.<br>Jina runs ____ ____ ____ Mina.",
-   "ans":["as fast as"],
+   "ans":["as fast as","as quickly as"],
    "e":"'~만큼 …하게'는 as + 원급 + as로 써요.",
    "ref":"Part 2 / 3. 원급 비교 as + 원급 + as"},
   {"id":"1-16-P2-b04","type":"blank",

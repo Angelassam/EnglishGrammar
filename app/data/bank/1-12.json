@@ -417,13 +417,13 @@
    "type": "arrange",
    "ko": "학교에서 우리 집까지 1킬로미터이다.",
    "words": [
-    "from the school to my house",
+    "from school to my house",
     "It",
     "1 km",
     "is"
    ],
    "ans": [
-    "It is 1 km from the school to my house."
+    "It is 1 km from school to my house."
    ],
    "e": "거리를 말할 때도 비인칭주어 It을 맨 앞에 두고 It is + 거리 순서로 써요.",
    "ref": "핵심 개념 — 거리"
@@ -473,7 +473,8 @@
    ],
    "ans": [
     "It is summer now.",
-    "Now it is summer."
+    "Now it is summer.",
+    "It is now summer."
    ],
    "e": "계절을 말할 때도 주어는 비인칭주어 It이에요. It + is + 계절 순서로 써요.",
    "ref": "핵심 개념 — 계절"
