@@ -249,14 +249,14 @@
    "type": "error",
    "q": "다음 중 어법상 틀린 문장을 고르세요.",
    "o": [
-    "We went to the beach for swim.",
+    "We went to the beach to swimming.",
     "I was excited to see the movie.",
     "She called me to ask a question.",
     "He saved money to buy a new phone.",
     "We were glad to win the game."
    ],
    "a": 0,
-   "e": "'~하러, ~하기 위해서'는 for가 아니라 to + 동사원형으로 써요. → We went to the beach to swim.",
+   "e": "'~하러'라는 목적은 to + 동사원형으로 써요. to 뒤에 -ing를 쓰면 안 돼요. → We went to the beach to swim.",
    "ref": "1. 목적 — ~하기 위해서, ~하러"
   },
   {
@@ -365,13 +365,13 @@
   {
    "id": "1-15-f03",
    "type": "fix",
-   "q": "I went to the store for buy some milk.",
-   "wrong": "for buy",
+   "q": "I went to the store to buying some milk.",
+   "wrong": "buying",
    "ko": "나는 우유를 사러 가게에 갔다.",
    "ans": [
-    "to buy"
+    "buy"
    ],
-   "e": "'~하러'는 to + 동사원형으로 나타내요. for buy → to buy",
+   "e": "'~하러'는 to + 동사원형으로 나타내요. to 뒤에 -ing를 쓰면 안 돼요. buying → buy",
    "ref": "1. 목적 — ~하기 위해서, ~하러"
   },
   {
