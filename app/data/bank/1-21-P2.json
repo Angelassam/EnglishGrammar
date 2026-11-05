@@ -205,7 +205,7 @@
   {"id":"1-21-P2-a07","type":"arrange","ko":"만약 내일 눈이 오면, 우리는 눈사람을 만들 것이다.",
    "words":["we","make a snowman","if","it","snow tomorrow"],
    "cond":"주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
-   "ans":["If it snows tomorrow, we will make a snowman.","We will make a snowman if it snows tomorrow.","If it snows tomorrow, we'll make a snowman.","We'll make a snowman if it snows tomorrow."],
+   "ans":["If it snows tomorrow, we will make a snowman.","We will make a snowman if it snows tomorrow.","If it snows tomorrow, we'll make a snowman.","We'll make a snowman if it snows tomorrow.","If it snows tomorrow, we are going to make a snowman.","We are going to make a snowman if it snows tomorrow."],
    "e":"주절은 미래 will make로, 조건의 if절은 현재시제 snows로 써요.",
    "ref":"1. if — 조건의 부사절도 미래를 현재시제로!"}
  ]
