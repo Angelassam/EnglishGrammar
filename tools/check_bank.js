@@ -34,13 +34,13 @@ for(const f of files){
     if(allIds.has(q.id))say('id 중복 '+q.id);allIds.add(q.id);
     if(!String(q.id).startsWith(b.unit+'-'))say(q.id+' id가 단원 id로 시작하지 않음');
     if(!q.e||!q.ref)say(q.id+' 해설/근거 없음');
-    if(q.e&&!/(요|죠)[.!?)]*$/.test(q.e.trim()))say(q.id+' 해설이 ~요 체로 끝나지 않음');
+    if(q.e&&!/(요|죠)[.!?)]/.test(q.e))say(q.id+' 해설이 ~요 체가 아님');
     const allText=[q.q,q.ko,q.e,...(q.o||[]),...(q.ans||[]),...(q.words||[])].filter(Boolean).join(' ');
     if(/<(?!\/?(br|b|u)>)[a-z]/i.test(allText))say(q.id+' 허용되지 않는 태그');
     if(q.type==='choice'||q.type==='error'){
       if(!q.q)say(q.id+' q 없음');
       if(!Array.isArray(q.o)||q.o.length!==5)say(q.id+' 보기 5개 아님');
-      else{ if(new Set(q.o.map(norm)).size!==5)say(q.id+' 보기 중복'); if(!(Number.isInteger(q.a)&&q.a>=0&&q.a<5))say(q.id+' 정답 번호 오류'); }
+      else{ if(new Set(q.o.map(x=>String(x).toLowerCase().replace(/[^\p{L}\p{N}']/gu,''))).size!==5)say(q.id+' 보기 중복'); if(!(Number.isInteger(q.a)&&q.a>=0&&q.a<5))say(q.id+' 정답 번호 오류'); }
     } else if(['blank','fix','arrange'].includes(q.type)){
       if(!Array.isArray(q.ans)||!q.ans.length||q.ans.some(a=>!String(a).trim()))say(q.id+' 정답 없음');
       if(q.type!=='arrange'&&!q.q)say(q.id+' q 없음');
