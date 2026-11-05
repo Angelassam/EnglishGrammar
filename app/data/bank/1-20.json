@@ -1,0 +1,485 @@
+{
+ "unit": "1-20",
+ "grade": 1,
+ "title": "접속사 that (명사절)",
+ "source": "20_접속사_that_명사절.md — Part 1. 중1 기초",
+ "questions": [
+  {
+   "id": "1-20-c01",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>나는 그가 정직하다고 생각한다.<br>I think ____ he is honest.",
+   "o": [
+    "that",
+    "what",
+    "who",
+    "which",
+    "and"
+   ],
+   "a": 0,
+   "e": "'그가 정직하다는 것'처럼 주어 + 동사가 있는 문장을 think의 목적어로 묶어 줄 때 접속사 that을 써요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-20-c02",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>나는 네가 곧 나아지기를 바란다.<br>I hope ____ feel better soon.",
+   "o": [
+    "that you",
+    "you that",
+    "that your",
+    "to you",
+    "you to"
+   ],
+   "a": 0,
+   "e": "hope 뒤에 that + 주어 + 동사 순서로 써요. that 뒤에는 주어 you가 와야 해요.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-c03",
+   "type": "choice",
+   "q": "빈칸에 알맞은 말을 고르세요.<br>Do you know ____ Tom moved to Busan?",
+   "ko": "너는 Tom이 부산으로 이사 간 것을 아니?",
+   "o": [
+    "that",
+    "this",
+    "it",
+    "what",
+    "who"
+   ],
+   "a": 0,
+   "e": "know의 목적어로 '주어 + 동사' 문장(Tom moved to Busan)이 왔으니 접속사 that을 써요.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-c04",
+   "type": "choice",
+   "q": "다음 중 밑줄 친 that이 접속사로 쓰인 문장을 고르세요.",
+   "o": [
+    "I think <u>that</u> she is right.",
+    "<u>That</u> is my bag.",
+    "Look at <u>that</u> dog.",
+    "I like <u>that</u> song.",
+    "<u>That</u> boy is my brother."
+   ],
+   "a": 0,
+   "e": "접속사 that 뒤에는 주어 + 동사가 있는 완전한 문장(she is right)이 와요. 나머지 문장의 that 뒤에는 '주어 + 동사' 문장이 없어요.",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-c05",
+   "type": "choice",
+   "q": "두 문장을 한 문장으로 바르게 연결한 것을 고르세요.<br>I know. + She likes music.<br>→ I know ____.",
+   "o": [
+    "that she likes music",
+    "she that likes music",
+    "that likes she music",
+    "that she music likes",
+    "that likes music she"
+   ],
+   "a": 0,
+   "e": "접속사 that 뒤에 주어 + 동사 순서 그대로 문장을 넣어요. → I know that she likes music.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-20-c06",
+   "type": "choice",
+   "q": "대화의 빈칸에 알맞은 말을 고르세요.<br>A: Where is Tom?<br>B: I think ____ he is in the library.",
+   "o": [
+    "that",
+    "what",
+    "who",
+    "where",
+    "which"
+   ],
+   "a": 0,
+   "e": "'그가 도서관에 있다고 생각해'라는 뜻이에요. think의 목적어가 되는 문장을 이끄는 접속사 that을 써요.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-c07",
+   "type": "choice",
+   "q": "다음 중 어법상 옳은 문장을 고르세요.",
+   "o": [
+    "She said that she was hungry.",
+    "She said that she hungry.",
+    "She said what she was hungry.",
+    "She said that was she hungry.",
+    "She said she that was hungry."
+   ],
+   "a": 0,
+   "e": "that 뒤에는 주어 + 동사가 모두 있는 완전한 문장이 와요. 과거 문장이라 that절 동사도 과거(was)로 맞춰요.",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-c08",
+   "type": "choice",
+   "q": "밑줄 친 부분을 that을 생략하여 바꿔 쓴 것으로 알맞은 것을 고르세요.<br>I know <u>that he is a doctor</u>.",
+   "o": [
+    "I know he is a doctor.",
+    "I know is he a doctor.",
+    "I know he a doctor.",
+    "I know he is doctor.",
+    "I know that he a doctor."
+   ],
+   "a": 0,
+   "e": "목적어 자리의 that은 생략할 수 있어요. that만 빼고 나머지 문장은 그대로 써요.",
+   "ref": "2. 목적어 that은 생략할 수 있어요"
+  },
+  {
+   "id": "1-20-c09",
+   "type": "choice",
+   "q": "다음 문장에서 밑줄 친 부분의 역할로 알맞은 것을 고르세요.<br>We believe <u>that we can win</u>.",
+   "o": [
+    "동사 believe의 목적어",
+    "문장의 주어",
+    "문장의 동사",
+    "형용사",
+    "부사"
+   ],
+   "a": 0,
+   "e": "that절은 '우리가 이길 수 있다는 것'이라는 뜻으로, 동사 believe의 목적어 역할을 해요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-20-c10",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>그는 피곤하다고 말했다.<br>He said that he ____ tired.",
+   "o": [
+    "was",
+    "were",
+    "be",
+    "being",
+    "to be"
+   ],
+   "a": 0,
+   "e": "과거 문장(said)에서는 that절의 동사도 보통 과거로 맞춰요. 주어가 he라서 was를 써요.",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-c11",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 바르게 배열한 문장을 고르세요.<br>나는 그녀가 옳다고 생각한다.",
+   "o": [
+    "I think that she is right.",
+    "I think she that is right.",
+    "I that think she is right.",
+    "I think that is she right.",
+    "I think that right she is."
+   ],
+   "a": 0,
+   "e": "주어 + think + that + 주어 + 동사 순서로 써요.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-c12",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>우리는 우리가 이길 수 있다고 믿는다.<br>We believe ____ we can win.",
+   "o": [
+    "that",
+    "what",
+    "which",
+    "who",
+    "how"
+   ],
+   "a": 0,
+   "e": "believe 뒤에 '주어 + 동사' 문장을 목적어로 넣을 때 접속사 that을 써요.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-e01",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "I think that she right.",
+    "I hope that you feel better soon.",
+    "We believe that we can win.",
+    "He said that he was tired.",
+    "Do you know that Tom moved to Busan?"
+   ],
+   "a": 0,
+   "e": "that 뒤에는 주어 + 동사가 모두 있는 완전한 문장이 와야 해요. → I think that she is right.",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-e02",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "She knows what I am a student.",
+    "I think he is kind.",
+    "I hope you like the gift.",
+    "They believe that they can do it.",
+    "My mom said that she was busy."
+   ],
+   "a": 0,
+   "e": "'주어 + 동사' 문장을 목적어로 묶어 주는 접속사는 what이 아니라 that이에요. → She knows that I am a student.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-e03",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "He said that he tired.",
+    "I know that she lives in Seoul.",
+    "We hope that it is sunny tomorrow.",
+    "I think that this movie is fun.",
+    "Do you think that he is honest?"
+   ],
+   "a": 0,
+   "e": "that 뒤에 동사가 없어요. 과거 문장이라 was를 넣어요. → He said that he was tired.",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-e04",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "I that think you are right.",
+    "We know that the earth is round.",
+    "She hopes that her team wins.",
+    "I believe you are a good friend.",
+    "Tom said he was sorry."
+   ],
+   "a": 0,
+   "e": "접속사 that은 동사 think 뒤, 목적어 문장 앞에 와요. → I think that you are right.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-b01",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>나는 그가 정직하다고 생각한다.<br>I think ____ he is honest.",
+   "ans": [
+    "that"
+   ],
+   "e": "'~라고, ~라는 것'의 뜻으로 문장을 목적어로 묶어 주는 접속사 that을 써요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-20-b02",
+   "type": "blank",
+   "q": "두 문장을 that을 써서 한 문장으로 만들 때 빈칸에 알맞은 말을 쓰세요. (세 단어)<br>I know. + She is a good singer.<br>→ I know ____ ____ ____ a good singer.",
+   "ko": "나는 그녀가 노래를 잘하는 것을 안다.",
+   "ans": [
+    "that she is"
+   ],
+   "e": "know 뒤에 that + 주어 + 동사 순서로 써요. → I know that she is a good singer.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-b03",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (시제에 주의)<br>He said that he ____ hungry. (be)",
+   "ko": "그는 배가 고팠다고 말했다.",
+   "ans": [
+    "was"
+   ],
+   "e": "과거 문장(said)에서는 that절의 동사도 과거로 맞춰요. 주어가 he라서 was를 써요.",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-b04",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>나는 네가 곧 나아지기를 바란다.<br>I ____ ____ you feel better soon.",
+   "ans": [
+    "hope that"
+   ],
+   "e": "'~하기를 바란다'는 hope이고, 그 뒤에 접속사 that으로 문장을 이어요.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-b05",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>너는 Tom이 부산으로 이사 간 것을 아니?<br>Do you ____ ____ Tom moved to Busan?",
+   "ans": [
+    "know that"
+   ],
+   "e": "'~라는 것을 알다'는 know + that + 주어 + 동사로 써요.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-b06",
+   "type": "blank",
+   "q": "두 문장의 빈칸에 공통으로 알맞은 한 단어를 쓰세요.<br>I think ____ she is right.<br>We believe ____ we can win.",
+   "ans": [
+    "that"
+   ],
+   "e": "think, believe 뒤에 '주어 + 동사' 문장을 목적어로 넣을 때 둘 다 접속사 that을 써요.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-f01",
+   "type": "fix",
+   "q": "I think what he is honest.",
+   "wrong": "what",
+   "ko": "나는 그가 정직하다고 생각한다.",
+   "ans": [
+    "that"
+   ],
+   "e": "문장을 목적어로 묶어 주는 접속사는 that이에요. what → that",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-f02",
+   "type": "fix",
+   "q": "I think that she right.",
+   "wrong": "she right",
+   "ko": "나는 그녀가 옳다고 생각한다.",
+   "ans": [
+    "she is right"
+   ],
+   "e": "that 뒤에는 주어 + 동사가 모두 있어야 해요. she right → she is right",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-f03",
+   "type": "fix",
+   "q": "Yesterday he said that he is tired.",
+   "wrong": "is",
+   "ko": "어제 그는 피곤하다고 말했다.",
+   "ans": [
+    "was"
+   ],
+   "e": "과거 문장(said)에서는 that절의 동사도 과거로 맞춰요. is → was",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-f04",
+   "type": "fix",
+   "q": "Do you know who Tom moved to Busan?",
+   "wrong": "who",
+   "ko": "너는 Tom이 부산으로 이사 간 것을 아니?",
+   "ans": [
+    "that"
+   ],
+   "e": "know의 목적어로 '주어 + 동사' 문장이 올 때는 접속사 that을 써요. who → that",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-f05",
+   "type": "fix",
+   "q": "We believe that can we win.",
+   "wrong": "can we",
+   "ko": "우리는 우리가 이길 수 있다고 믿는다.",
+   "ans": [
+    "we can"
+   ],
+   "e": "that 뒤에는 주어 + 동사 순서의 완전한 문장이 와요. can we → we can",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-f06",
+   "type": "fix",
+   "q": "I hope that your feel better soon.",
+   "wrong": "your",
+   "ko": "나는 네가 곧 나아지기를 바란다.",
+   "ans": [
+    "you"
+   ],
+   "e": "that 뒤에는 주어가 와야 해요. your(너의)가 아니라 주어 you를 써요. your → you",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-a01",
+   "type": "arrange",
+   "ko": "나는 그녀가 옳다고 생각한다.",
+   "words": [
+    "that",
+    "I",
+    "is right",
+    "think",
+    "she"
+   ],
+   "ans": [
+    "I think that she is right."
+   ],
+   "e": "주어 + think + that + 주어 + 동사 순서로 써요.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-a02",
+   "type": "arrange",
+   "ko": "나는 네가 곧 나아지기를 바란다.",
+   "words": [
+    "feel better",
+    "hope",
+    "you",
+    "I",
+    "soon",
+    "that"
+   ],
+   "ans": [
+    "I hope that you feel better soon."
+   ],
+   "e": "hope 뒤에 that + 주어(you) + 동사(feel) 순서로 써요.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-a03",
+   "type": "arrange",
+   "ko": "그는 피곤하다고 말했다.",
+   "words": [
+    "he",
+    "that",
+    "said",
+    "He",
+    "was tired"
+   ],
+   "ans": [
+    "He said that he was tired."
+   ],
+   "e": "said 뒤에 that + 주어 + 동사를 써요. 과거 문장이라 that절도 과거(was)예요.",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-a04",
+   "type": "arrange",
+   "ko": "우리는 우리가 이길 수 있다고 믿는다.",
+   "words": [
+    "can win",
+    "believe",
+    "we",
+    "We",
+    "that"
+   ],
+   "ans": [
+    "We believe that we can win."
+   ],
+   "e": "believe 뒤에 that + 주어 + 동사 순서로 써요.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-a05",
+   "type": "arrange",
+   "ko": "너는 Tom이 부산으로 이사 간 것을 아니?",
+   "words": [
+    "know",
+    "Do you",
+    "moved to Busan",
+    "Tom",
+    "that"
+   ],
+   "ans": [
+    "Do you know that Tom moved to Busan?"
+   ],
+   "e": "의문문 Do you know 뒤에 that + 주어 + 동사를 이어 써요.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-a06",
+   "type": "arrange",
+   "ko": "나는 그가 정직하다고 생각한다. (that 없이)",
+   "words": [
+    "honest",
+    "I think",
+    "he",
+    "is"
+   ],
+   "ans": [
+    "I think he is honest."
+   ],
+   "e": "목적어 자리의 that은 생략할 수 있어요. think 뒤에 바로 주어 + 동사를 써요.",
+   "ref": "2. 목적어 that은 생략할 수 있어요"
+  }
+ ]
+}

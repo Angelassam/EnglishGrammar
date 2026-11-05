@@ -1,0 +1,516 @@
+{
+ "unit": "1-22",
+ "grade": 1,
+ "title": "수량형용사 (a) few / (a) little",
+ "source": "22_수량형용사_few_little.md — Part 1. 중1 기초",
+ "questions": [
+  {
+   "id": "1-22-c01",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>그는 책이 많지 않다.<br>He doesn't have ____ books.",
+   "o": [
+    "many",
+    "much",
+    "a little",
+    "a lot",
+    "lot of"
+   ],
+   "a": 0,
+   "e": "books는 셀 수 있는 명사의 복수형이라 '많은'은 many를 써요. much는 셀 수 없는 명사 앞에 써요.",
+   "ref": "2. many vs much — 많은"
+  },
+  {
+   "id": "1-22-c02",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>우리는 시간이 많지 않다.<br>We don't have ____ time.",
+   "o": [
+    "much",
+    "many",
+    "a few",
+    "lots",
+    "a lot"
+   ],
+   "a": 0,
+   "e": "time은 셀 수 없는 명사라 '많은'은 much를 써요. many, a few는 셀 수 있는 명사 앞에 써요.",
+   "ref": "2. many vs much — 많은"
+  },
+  {
+   "id": "1-22-c03",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>나는 부산에 친구가 몇 명 있다.<br>I have ____ friends in Busan.",
+   "o": [
+    "a few",
+    "a little",
+    "much",
+    "a lot",
+    "a lots of"
+   ],
+   "a": 0,
+   "e": "friends는 셀 수 있는 명사의 복수형이라 '몇 명의, 약간의'는 a few를 써요. a little은 셀 수 없는 명사 앞에 써요.",
+   "ref": "3. a few vs a little — 약간의"
+  },
+  {
+   "id": "1-22-c04",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>컵에 우유가 조금 있다.<br>There is ____ milk in the cup.",
+   "o": [
+    "a little",
+    "a few",
+    "many",
+    "lots",
+    "a lot"
+   ],
+   "a": 0,
+   "e": "milk는 셀 수 없는 명사라 '조금'은 a little을 써요. a few, many는 셀 수 있는 명사 앞에 써요.",
+   "ref": "3. a few vs a little — 약간의"
+  },
+  {
+   "id": "1-22-c05",
+   "type": "choice",
+   "q": "밑줄 친 부분과 바꿔 쓸 수 있는 것을 고르세요.<br>I have <u>lots of</u> books.",
+   "o": [
+    "a lot of",
+    "much",
+    "a little",
+    "a lot",
+    "lot of"
+   ],
+   "a": 0,
+   "e": "lots of와 a lot of는 둘 다 '많은'이라는 뜻으로, 셀 수 있는 명사와 셀 수 없는 명사 앞에 모두 쓸 수 있어요.",
+   "ref": "2. many vs much — a lot of / lots of"
+  },
+  {
+   "id": "1-22-c06",
+   "type": "choice",
+   "q": "다음 중 어법상 옳은 문장을 고르세요.",
+   "o": [
+    "She has a few books.",
+    "She has a little books.",
+    "She has a few money.",
+    "She has much books.",
+    "She has many book."
+   ],
+   "a": 0,
+   "e": "books는 셀 수 있는 명사의 복수형이라 a few를 써요. money는 셀 수 없어서 a few money는 틀려요.",
+   "ref": "3. a few vs a little — 약간의"
+  },
+  {
+   "id": "1-22-c07",
+   "type": "choice",
+   "q": "다음 중 셀 수 <b>없는</b> 명사를 고르세요.",
+   "o": [
+    "water",
+    "book",
+    "friend",
+    "apple",
+    "student"
+   ],
+   "a": 0,
+   "e": "water(물)는 셀 수 없는 명사라서 a(an)나 -s를 붙이지 않아요. 나머지는 복수형(-s)이 있는 셀 수 있는 명사예요.",
+   "ref": "1. 셀 수 있는 명사 vs 셀 수 없는 명사"
+  },
+  {
+   "id": "1-22-c08",
+   "type": "choice",
+   "q": "다음 중 셀 수 <b>있는</b> 명사를 고르세요.",
+   "o": [
+    "apple",
+    "milk",
+    "bread",
+    "money",
+    "advice"
+   ],
+   "a": 0,
+   "e": "apple은 apples처럼 복수형이 있는 셀 수 있는 명사예요. milk, bread, money, advice는 셀 수 없는 명사예요.",
+   "ref": "1. 셀 수 있는 명사 vs 셀 수 없는 명사"
+  },
+  {
+   "id": "1-22-c09",
+   "type": "choice",
+   "q": "대화의 빈칸에 알맞은 말을 고르세요.<br>A: Do you have ____ homework today?<br>B: No, I don't.",
+   "o": [
+    "much",
+    "many",
+    "a few",
+    "a lots",
+    "a lot"
+   ],
+   "a": 0,
+   "e": "homework는 셀 수 없는 명사라 '많은'은 much를 써요. many, a few는 셀 수 있는 명사 앞에 써요.",
+   "ref": "2. many vs much — 많은"
+  },
+  {
+   "id": "1-22-c10",
+   "type": "choice",
+   "q": "두 문장의 빈칸에 공통으로 알맞은 말을 고르세요.<br>We need ____ apples.<br>I have ____ friends here.",
+   "ko": "우리는 사과가 몇 개 필요하다. / 나는 여기에 친구가 몇 명 있다.",
+   "o": [
+    "a few",
+    "a little",
+    "much",
+    "lots",
+    "a lot"
+   ],
+   "a": 0,
+   "e": "apples, friends는 모두 셀 수 있는 명사의 복수형이라 '몇 개의, 몇 명의'는 a few를 써요.",
+   "ref": "3. a few vs a little — 약간의"
+  },
+  {
+   "id": "1-22-c11",
+   "type": "choice",
+   "q": "두 문장의 빈칸에 공통으로 알맞은 말을 고르세요.<br>There is ____ juice in the bottle.<br>I have ____ information.",
+   "ko": "병에 주스가 조금 있다. / 나는 정보가 조금 있다.",
+   "o": [
+    "a little",
+    "a few",
+    "many",
+    "lots",
+    "a lot"
+   ],
+   "a": 0,
+   "e": "juice, information은 모두 셀 수 없는 명사라 '조금'은 a little을 써요.",
+   "ref": "3. a few vs a little — 약간의"
+  },
+  {
+   "id": "1-22-c12",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>그녀는 물을 많이 마신다.<br>She drinks ____ water.",
+   "o": [
+    "a lot of",
+    "many",
+    "a few",
+    "lot of",
+    "a lots of"
+   ],
+   "a": 0,
+   "e": "water는 셀 수 없는 명사라 many, a few는 쓸 수 없어요. a lot of는 셀 수 없는 명사 앞에도 쓸 수 있어요.",
+   "ref": "2. many vs much — a lot of / lots of"
+  },
+  {
+   "id": "1-22-c13",
+   "type": "choice",
+   "q": "다음 중 much와 함께 쓸 수 있는 명사를 고르세요.",
+   "o": [
+    "money",
+    "books",
+    "friends",
+    "apples",
+    "students"
+   ],
+   "a": 0,
+   "e": "much는 셀 수 없는 명사 앞에 써요. money는 셀 수 없는 명사이고, 나머지는 셀 수 있는 명사의 복수형이에요.",
+   "ref": "2. many vs much — 많은"
+  },
+  {
+   "id": "1-22-e01",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "I have a few money.",
+    "He doesn't have many books.",
+    "We don't have much time.",
+    "There is a little milk in the cup.",
+    "She drinks a lot of water."
+   ],
+   "a": 0,
+   "e": "money는 셀 수 없는 명사라서 a few가 아니라 a little을 써요. → I have a little money.",
+   "ref": "3. a few vs a little — 약간의"
+  },
+  {
+   "id": "1-22-e02",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "She has a little books.",
+    "I have a few friends in Busan.",
+    "I have lots of books.",
+    "Do you have much homework?",
+    "There are a few apples on the table."
+   ],
+   "a": 0,
+   "e": "books는 셀 수 있는 명사의 복수형이라 a little이 아니라 a few를 써요. → She has a few books.",
+   "ref": "3. a few vs a little — 약간의"
+  },
+  {
+   "id": "1-22-e03",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "We don't have many time.",
+    "He has a little money.",
+    "They don't have many friends.",
+    "I need a little water.",
+    "There are a lot of students in the gym."
+   ],
+   "a": 0,
+   "e": "time은 셀 수 없는 명사라서 many가 아니라 much를 써요. → We don't have much time.",
+   "ref": "2. many vs much — 많은"
+  },
+  {
+   "id": "1-22-e04",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "There is a few milk in the cup.",
+    "I have a few questions.",
+    "We don't have much bread.",
+    "She ate a few cookies.",
+    "He drank a little juice."
+   ],
+   "a": 0,
+   "e": "milk는 셀 수 없는 명사라서 a few가 아니라 a little을 써요. → There is a little milk in the cup.",
+   "ref": "3. a few vs a little — 약간의"
+  },
+  {
+   "id": "1-22-b01",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>그는 책이 많지 않다.<br>He doesn't have ____ books.",
+   "ans": [
+    "many"
+   ],
+   "e": "books는 셀 수 있는 명사의 복수형이라 '많은'은 many를 써요.",
+   "ref": "2. many vs much — 많은"
+  },
+  {
+   "id": "1-22-b02",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>우리는 시간이 많지 않다.<br>We don't have ____ time.",
+   "ans": [
+    "much"
+   ],
+   "e": "time은 셀 수 없는 명사라 '많은'은 much를 써요.",
+   "ref": "2. many vs much — 많은"
+  },
+  {
+   "id": "1-22-b03",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>나는 부산에 친구가 몇 명 있다.<br>I have ____ ____ friends in Busan.",
+   "ans": [
+    "a few"
+   ],
+   "e": "friends는 셀 수 있는 명사의 복수형이라 '몇 명의'는 a few를 써요.",
+   "ref": "3. a few vs a little — 약간의"
+  },
+  {
+   "id": "1-22-b04",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>컵에 우유가 조금 있다.<br>There is ____ ____ milk in the cup.",
+   "ans": [
+    "a little"
+   ],
+   "e": "milk는 셀 수 없는 명사라 '조금'은 a little을 써요.",
+   "ref": "3. a few vs a little — 약간의"
+  },
+  {
+   "id": "1-22-b05",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (세 단어)<br>그녀는 물을 많이 마신다.<br>She drinks ____ ____ ____ water.",
+   "ans": [
+    "a lot of"
+   ],
+   "e": "'많은'을 세 단어로 쓰면 a lot of예요. 셀 수 없는 명사 water 앞에도 쓸 수 있어요.",
+   "ref": "2. many vs much — a lot of / lots of"
+  },
+  {
+   "id": "1-22-b06",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어, l로 시작)<br>나는 책이 많이 있다.<br>I have ____ ____ books.",
+   "ans": [
+    "lots of"
+   ],
+   "e": "'많은'을 두 단어로 쓰면 lots of예요. a lot of와 같은 뜻이에요.",
+   "ref": "2. many vs much — a lot of / lots of"
+  },
+  {
+   "id": "1-22-b07",
+   "type": "blank",
+   "q": "괄호 안에서 알맞은 것을 골라 빈칸에 쓰세요.<br>I have ____ money. (a few / a little)",
+   "ko": "나는 돈이 조금 있다.",
+   "ans": [
+    "a little"
+   ],
+   "e": "money는 셀 수 없는 명사라 a little을 써요. a few는 셀 수 있는 명사의 복수형 앞에 써요.",
+   "ref": "3. a few vs a little — 약간의"
+  },
+  {
+   "id": "1-22-f01",
+   "type": "fix",
+   "q": "I have a few money.",
+   "wrong": "a few",
+   "ko": "나는 돈이 조금 있다.",
+   "ans": [
+    "a little"
+   ],
+   "e": "money는 셀 수 없는 명사라서 a little을 써요. a few → a little",
+   "ref": "3. a few vs a little — 약간의"
+  },
+  {
+   "id": "1-22-f02",
+   "type": "fix",
+   "q": "She has a little books.",
+   "wrong": "a little",
+   "ko": "그녀는 책이 몇 권 있다.",
+   "ans": [
+    "a few"
+   ],
+   "e": "books는 셀 수 있는 명사의 복수형이라서 a few를 써요. a little → a few",
+   "ref": "3. a few vs a little — 약간의"
+  },
+  {
+   "id": "1-22-f03",
+   "type": "fix",
+   "q": "He doesn't have much books.",
+   "wrong": "much",
+   "ko": "그는 책이 많지 않다.",
+   "ans": [
+    "many"
+   ],
+   "e": "books는 셀 수 있는 명사라서 '많은'은 many를 써요. much → many",
+   "ref": "2. many vs much — 많은"
+  },
+  {
+   "id": "1-22-f04",
+   "type": "fix",
+   "q": "We don't have many time.",
+   "wrong": "many",
+   "ko": "우리는 시간이 많지 않다.",
+   "ans": [
+    "much"
+   ],
+   "e": "time은 셀 수 없는 명사라서 '많은'은 much를 써요. many → much",
+   "ref": "2. many vs much — 많은"
+  },
+  {
+   "id": "1-22-f05",
+   "type": "fix",
+   "q": "There is a few juice in the glass.",
+   "wrong": "a few",
+   "ko": "유리잔에 주스가 조금 있다.",
+   "ans": [
+    "a little"
+   ],
+   "e": "juice는 셀 수 없는 명사라서 a little을 써요. a few → a little",
+   "ref": "3. a few vs a little — 약간의"
+  },
+  {
+   "id": "1-22-f06",
+   "type": "fix",
+   "q": "She drinks a lot water.",
+   "wrong": "a lot",
+   "ko": "그녀는 물을 많이 마신다.",
+   "ans": [
+    "a lot of"
+   ],
+   "e": "'많은'은 명사 앞에서 a lot of로 써요. of가 빠지면 안 돼요. a lot → a lot of",
+   "ref": "2. many vs much — a lot of / lots of"
+  },
+  {
+   "id": "1-22-f07",
+   "type": "fix",
+   "q": "I have lots of friend in Busan.",
+   "wrong": "friend",
+   "ko": "나는 부산에 친구가 많이 있다.",
+   "ans": [
+    "friends"
+   ],
+   "e": "friend는 셀 수 있는 명사라서 '많은 친구'는 복수형 friends로 써요. friend → friends",
+   "ref": "1. 셀 수 있는 명사 vs 셀 수 없는 명사"
+  },
+  {
+   "id": "1-22-a01",
+   "type": "arrange",
+   "ko": "그는 책이 많지 않다.",
+   "words": [
+    "many",
+    "doesn't have",
+    "He",
+    "books"
+   ],
+   "ans": [
+    "He doesn't have many books."
+   ],
+   "e": "셀 수 있는 명사 books 앞에 many를 써요. 주어 + doesn't have + many + 복수 명사 순서예요.",
+   "ref": "2. many vs much — 많은"
+  },
+  {
+   "id": "1-22-a02",
+   "type": "arrange",
+   "ko": "우리는 시간이 많지 않다.",
+   "words": [
+    "time",
+    "We",
+    "much",
+    "don't have"
+   ],
+   "ans": [
+    "We don't have much time."
+   ],
+   "e": "셀 수 없는 명사 time 앞에 much를 써요.",
+   "ref": "2. many vs much — 많은"
+  },
+  {
+   "id": "1-22-a03",
+   "type": "arrange",
+   "ko": "나는 부산에 친구가 몇 명 있다.",
+   "words": [
+    "in Busan",
+    "a few",
+    "I have",
+    "friends"
+   ],
+   "ans": [
+    "I have a few friends in Busan."
+   ],
+   "e": "셀 수 있는 명사 friends 앞에 a few를 써요.",
+   "ref": "3. a few vs a little — 약간의"
+  },
+  {
+   "id": "1-22-a04",
+   "type": "arrange",
+   "ko": "컵에 우유가 조금 있다.",
+   "words": [
+    "milk",
+    "There is",
+    "in the cup",
+    "a little"
+   ],
+   "ans": [
+    "There is a little milk in the cup."
+   ],
+   "e": "셀 수 없는 명사 milk 앞에 a little을 써요. There is + a little + 명사 순서예요.",
+   "ref": "3. a few vs a little — 약간의"
+  },
+  {
+   "id": "1-22-a05",
+   "type": "arrange",
+   "ko": "그녀는 물을 많이 마신다.",
+   "words": [
+    "water",
+    "a lot of",
+    "She",
+    "drinks"
+   ],
+   "ans": [
+    "She drinks a lot of water."
+   ],
+   "e": "a lot of는 셀 수 없는 명사 water 앞에 쓸 수 있어요. 주어 + 동사 + a lot of + 명사 순서예요.",
+   "ref": "2. many vs much — a lot of / lots of"
+  },
+  {
+   "id": "1-22-a06",
+   "type": "arrange",
+   "ko": "나는 책이 많이 있다.",
+   "words": [
+    "books",
+    "lots of",
+    "I",
+    "have"
+   ],
+   "ans": [
+    "I have lots of books."
+   ],
+   "e": "lots of는 '많은'이라는 뜻으로 셀 수 있는 명사 books 앞에 쓸 수 있어요.",
+   "ref": "2. many vs much — a lot of / lots of"
+  }
+ ]
+}

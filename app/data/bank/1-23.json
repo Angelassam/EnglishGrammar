@@ -1,0 +1,481 @@
+{
+ "unit": "1-23",
+ "grade": 1,
+ "title": "-thing + 형용사",
+ "source": "23_thing_형용사.md — Part 1. 중1 기초",
+ "questions": [
+  {
+   "id": "1-23-c01",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>나는 새로운 것을 해 보고 싶다.<br>I want to try ____.",
+   "o": [
+    "something new",
+    "new something",
+    "something newly",
+    "newly something",
+    "something a new"
+   ],
+   "a": 0,
+   "e": "-thing으로 끝나는 대명사는 형용사가 뒤에서 꾸며요. something + new 순서예요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-c02",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>오늘은 특별한 것이 없다.<br>There is ____ today.",
+   "o": [
+    "nothing special",
+    "special nothing",
+    "nothing specially",
+    "specially nothing",
+    "nothing a special"
+   ],
+   "a": 0,
+   "e": "nothing도 -thing으로 끝나는 대명사라서 형용사 special이 뒤에 와요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-c03",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>나는 차가운 것을 원한다.<br>I want ____.",
+   "o": [
+    "something cold",
+    "cold something",
+    "something coldly",
+    "cold a something",
+    "something colds"
+   ],
+   "a": 0,
+   "e": "cold something은 틀린 어순이에요. 형용사는 something 뒤에 써서 something cold라고 해요.",
+   "ref": "핵심 개념 — ⚠️ 주의!"
+  },
+  {
+   "id": "1-23-c04",
+   "type": "choice",
+   "q": "빈칸에 알맞은 말을 고르세요.<br>Is there ____ in the newspaper?",
+   "ko": "신문에 뭔가 흥미로운 게 있니?",
+   "o": [
+    "anything interesting",
+    "interesting anything",
+    "anything interest",
+    "interesting thing any",
+    "anything interests"
+   ],
+   "a": 0,
+   "e": "anything 뒤에 형용사 interesting을 써요. -thing + 형용사 순서예요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-c05",
+   "type": "choice",
+   "q": "다음 중 어법상 옳은 문장을 고르세요.",
+   "o": [
+    "Did you meet anyone new?",
+    "Did you meet new anyone?",
+    "Did you meet anyone news?",
+    "Did you meet new someone?",
+    "Did you meet anyone newly?"
+   ],
+   "a": 0,
+   "e": "-one으로 끝나는 대명사도 형용사가 뒤에서 꾸며요. anyone + new 순서예요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-c06",
+   "type": "choice",
+   "q": "다음 중 빈칸에 들어갈 수 <b>없는</b> 것을 고르세요.<br>I want to eat ____.",
+   "o": [
+    "delicious something",
+    "something delicious",
+    "something sweet",
+    "something hot",
+    "something new"
+   ],
+   "a": 0,
+   "e": "something은 형용사가 뒤에서 꾸며요. delicious something처럼 형용사를 앞에 쓰면 틀려요.",
+   "ref": "핵심 개념 — ⚠️ 주의!"
+  },
+  {
+   "id": "1-23-c07",
+   "type": "choice",
+   "q": "대화의 빈칸에 알맞은 말을 고르세요.<br>A: Are you hungry?<br>B: Yes. I want ____.",
+   "ko": "A: 너 배고프니? B: 응. 나는 맛있는 것을 원해.",
+   "o": [
+    "something delicious",
+    "delicious something",
+    "something delicious a",
+    "deliciously something",
+    "something deliciously"
+   ],
+   "a": 0,
+   "e": "'맛있는 것'은 something 뒤에 형용사 delicious를 써요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-c08",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 알맞게 쓴 것을 고르세요.<br>특별한 날 / 특별한 것 없음",
+   "o": [
+    "a special day / nothing special",
+    "a special day / special nothing",
+    "a day special / nothing special",
+    "a day special / special nothing",
+    "special a day / nothing special"
+   ],
+   "a": 0,
+   "e": "일반 명사(day)는 형용사가 앞에서 꾸미고, -thing(nothing)은 형용사가 뒤에서 꾸며요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-c09",
+   "type": "choice",
+   "q": "다음 문장의 뜻으로 알맞은 것을 고르세요.<br>There is nothing special today.",
+   "o": [
+    "오늘은 특별한 것이 없다.",
+    "오늘은 특별한 것이 있다.",
+    "오늘은 모든 것이 특별하다.",
+    "오늘은 특별한 날이다.",
+    "오늘은 특별한 것이 있니?"
+   ],
+   "a": 0,
+   "e": "nothing special은 '특별한 것 없음'이라는 뜻이에요. There is nothing ~ = ~가 없다",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-c10",
+   "type": "choice",
+   "q": "우리말을 영어로 바르게 옮긴 것을 고르세요.<br>친절한 누군가",
+   "o": [
+    "someone kind",
+    "kind someone",
+    "someone kindly",
+    "kindly someone",
+    "someone a kind"
+   ],
+   "a": 0,
+   "e": "-one으로 끝나는 대명사는 형용사가 뒤에서 꾸며요. someone + kind 순서예요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-c11",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>나는 그 여행에 대해 좋은 것을 들었다.<br>I heard ____ about the trip.",
+   "o": [
+    "something good",
+    "good something",
+    "something goodly",
+    "goods something",
+    "something a good"
+   ],
+   "a": 0,
+   "e": "something 뒤에 형용사 good을 써요. good something은 틀린 어순이에요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-c12",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>너는 유명한 누군가를 만났니?<br>Did you meet ____?",
+   "o": [
+    "anybody famous",
+    "famous anybody",
+    "anybody famously",
+    "a famous anybody",
+    "anybody a famous"
+   ],
+   "a": 0,
+   "e": "-body로 끝나는 대명사도 형용사가 뒤에서 꾸며요. anybody + famous 순서예요.",
+   "ref": "대상이 되는 대명사"
+  },
+  {
+   "id": "1-23-e01",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "I want cold something.",
+    "I want to try something new.",
+    "There is nothing special today.",
+    "Did you meet anyone new?",
+    "Is there anything interesting in the newspaper?"
+   ],
+   "a": 0,
+   "e": "something은 형용사가 뒤에서 꾸며요. → I want something cold.",
+   "ref": "핵심 개념 — ⚠️ 주의!"
+  },
+  {
+   "id": "1-23-e02",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "She needs new something for the party.",
+    "I want something cold.",
+    "Is there anything fun on TV?",
+    "I didn't see anything strange.",
+    "We ate something delicious."
+   ],
+   "a": 0,
+   "e": "형용사 new는 something 뒤에 써요. → She needs something new for the party.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-e03",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "Is there interesting anything in the newspaper?",
+    "Let's do something fun.",
+    "There is nothing new here.",
+    "I met someone nice at the camp.",
+    "Do you have anything hot?"
+   ],
+   "a": 0,
+   "e": "anything은 형용사가 뒤에서 꾸며요. → Is there anything interesting in the newspaper?",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-e04",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "I met kind someone yesterday.",
+    "He said something funny.",
+    "I have nothing special for you.",
+    "Did you hear anything strange last night?",
+    "She wants something sweet."
+   ],
+   "a": 0,
+   "e": "someone도 형용사가 뒤에서 꾸며요. → I met someone kind yesterday.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-b01",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>나는 새로운 것을 해 보고 싶다.<br>I want to try ____ ____.",
+   "ans": [
+    "something new"
+   ],
+   "e": "'새로운 것'은 something 뒤에 형용사 new를 써서 something new예요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-b02",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 순서로 빈칸에 쓰세요.<br>There is ____ ____ today. (special, nothing)",
+   "ko": "오늘은 특별한 것이 없다.",
+   "ans": [
+    "nothing special"
+   ],
+   "e": "nothing은 형용사가 뒤에서 꾸며요. nothing special 순서예요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-b03",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 순서로 빈칸에 쓰세요.<br>Is there ____ ____ in the newspaper? (interesting, anything)",
+   "ko": "신문에 뭔가 흥미로운 게 있니?",
+   "ans": [
+    "anything interesting"
+   ],
+   "e": "anything 뒤에 형용사 interesting을 써요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-b04",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>나는 차가운 것을 원한다.<br>I want ____ ____.",
+   "ans": [
+    "something cold"
+   ],
+   "e": "'차가운 것'은 something cold예요. cold something은 틀려요.",
+   "ref": "핵심 개념 — ⚠️ 주의!"
+  },
+  {
+   "id": "1-23-b05",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 순서로 빈칸에 쓰세요.<br>Did you meet ____ ____? (new, anyone)",
+   "ko": "새로운 사람 누구 만났니?",
+   "ans": [
+    "anyone new"
+   ],
+   "e": "-one으로 끝나는 대명사도 형용사가 뒤에서 꾸며요. anyone new 순서예요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-b06",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어, funny 이용)<br>그는 재미있는 것을 말했다.<br>He said ____ ____.",
+   "ans": [
+    "something funny"
+   ],
+   "e": "'재미있는 것'은 something 뒤에 형용사 funny를 써서 something funny예요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-f01",
+   "type": "fix",
+   "q": "I want cold something.",
+   "wrong": "cold something",
+   "ko": "나는 차가운 것을 원한다.",
+   "ans": [
+    "something cold"
+   ],
+   "e": "something은 형용사가 뒤에서 꾸며요. cold something → something cold",
+   "ref": "핵심 개념 — ⚠️ 주의!"
+  },
+  {
+   "id": "1-23-f02",
+   "type": "fix",
+   "q": "I want to try new something.",
+   "wrong": "new something",
+   "ko": "나는 새로운 것을 해 보고 싶다.",
+   "ans": [
+    "something new"
+   ],
+   "e": "-thing으로 끝나는 대명사는 형용사가 뒤에 와요. new something → something new",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-f03",
+   "type": "fix",
+   "q": "There is special nothing today.",
+   "wrong": "special nothing",
+   "ko": "오늘은 특별한 것이 없다.",
+   "ans": [
+    "nothing special"
+   ],
+   "e": "nothing도 형용사가 뒤에서 꾸며요. special nothing → nothing special",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-f04",
+   "type": "fix",
+   "q": "Did you meet new anyone?",
+   "wrong": "new anyone",
+   "ko": "새로운 사람 누구 만났니?",
+   "ans": [
+    "anyone new"
+   ],
+   "e": "-one으로 끝나는 대명사도 형용사가 뒤에 와요. new anyone → anyone new",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-f05",
+   "type": "fix",
+   "q": "Is there interesting anything in the newspaper?",
+   "wrong": "interesting anything",
+   "ko": "신문에 뭔가 흥미로운 게 있니?",
+   "ans": [
+    "anything interesting"
+   ],
+   "e": "anything은 형용사가 뒤에서 꾸며요. interesting anything → anything interesting",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-f06",
+   "type": "fix",
+   "q": "She met kind someone at the park.",
+   "wrong": "kind someone",
+   "ko": "그녀는 공원에서 친절한 누군가를 만났다.",
+   "ans": [
+    "someone kind"
+   ],
+   "e": "someone은 형용사가 뒤에서 꾸며요. kind someone → someone kind",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-a01",
+   "type": "arrange",
+   "ko": "나는 새로운 것을 해 보고 싶다.",
+   "words": [
+    "new",
+    "want to try",
+    "I",
+    "something"
+   ],
+   "ans": [
+    "I want to try something new."
+   ],
+   "e": "something 뒤에 형용사 new를 써요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-a02",
+   "type": "arrange",
+   "ko": "오늘은 특별한 것이 없다.",
+   "words": [
+    "special",
+    "There is",
+    "today",
+    "nothing"
+   ],
+   "ans": [
+    "There is nothing special today."
+   ],
+   "e": "nothing 뒤에 형용사 special을 써요. There is + nothing special + today 순서예요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-a03",
+   "type": "arrange",
+   "ko": "새로운 사람 누구 만났니?",
+   "words": [
+    "anyone",
+    "Did you",
+    "new",
+    "meet"
+   ],
+   "ans": [
+    "Did you meet anyone new?"
+   ],
+   "e": "-one으로 끝나는 대명사도 형용사가 뒤에 와요. anyone new 순서예요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-a04",
+   "type": "arrange",
+   "ko": "신문에 뭔가 흥미로운 게 있니?",
+   "words": [
+    "interesting",
+    "in the newspaper",
+    "Is there",
+    "anything"
+   ],
+   "ans": [
+    "Is there anything interesting in the newspaper?"
+   ],
+   "e": "anything 뒤에 형용사 interesting을 써요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-23-a05",
+   "type": "arrange",
+   "ko": "나는 차가운 것을 원한다.",
+   "words": [
+    "cold",
+    "I",
+    "something",
+    "want"
+   ],
+   "ans": [
+    "I want something cold."
+   ],
+   "e": "형용사 cold는 something 뒤에 써요. cold something은 틀려요.",
+   "ref": "핵심 개념 — ⚠️ 주의!"
+  },
+  {
+   "id": "1-23-a06",
+   "type": "arrange",
+   "ko": "그는 공원에서 친절한 누군가를 만났다.",
+   "words": [
+    "kind",
+    "He met",
+    "at the park",
+    "someone"
+   ],
+   "ans": [
+    "He met someone kind at the park."
+   ],
+   "e": "someone 뒤에 형용사 kind를 써요.",
+   "ref": "핵심 개념"
+  }
+ ]
+}
