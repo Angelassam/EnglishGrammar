@@ -57,7 +57,7 @@
    "ko":"그의 연설은 너무 지루해서 홀에 있던 많은 사람들이 잠이 들었다.", "ans":["boring"],
    "e":"연설은 지루함을 주는 쪽이라 -ing인 boring을 써요. 사람들이 느낀 감정이라면 bored예요.","ref":"3. 감정 분사 — 감정을 주면 -ing, 느끼면 -ed"},
   {"id":"2-09-H-f01","type":"fix","q":"The man sat on the bench is reading a newspaper in the sun.","wrong":"sat",
-   "ko":"벤치에 앉아 있는 남자는 햇볕 아래에서 신문을 읽고 있다.","ans":["sitting"],
+   "ko":"벤치에 앉아 있는 남자는 햇볕 아래에서 신문을 읽고 있다.","ans":["sitting","seated"],
    "e":"남자가 직접 앉아 있는 능동이라 현재분사로 명사를 꾸며요. 과거형 sat은 명사를 꾸밀 수 없어요. sat → sitting","ref":"1. 현재분사 vs 과거분사"},
   {"id":"2-09-H-f02","type":"fix","q":"I was really exciting when I heard the surprising news.","wrong":"exciting",
    "ko":"나는 그 놀라운 소식을 들었을 때 정말 신이 났다.","ans":["excited"],
