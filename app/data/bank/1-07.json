@@ -1,0 +1,534 @@
+{
+ "unit": "1-07",
+ "grade": 1,
+ "title": "명령문",
+ "source": "07_명령문.md — Part 1. 중1 기초",
+ "questions": [
+  {
+   "id": "1-07-c01",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>창문을 열어라.<br>____ the window.",
+   "o": [
+    "Open",
+    "Opens",
+    "Opened",
+    "Opening",
+    "To open"
+   ],
+   "a": 0,
+   "e": "명령문은 주어 You를 생략하고 동사원형으로 시작해요. Opens, Opened처럼 -s나 과거형을 쓰지 않아요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-07-c02",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>조용히 해 주세요.<br>____ quiet, please.",
+   "o": [
+    "Be",
+    "Are",
+    "Is",
+    "Being",
+    "Am"
+   ],
+   "a": 0,
+   "e": "be동사 명령문은 am/is/are 대신 동사원형 Be로 시작해요.",
+   "ref": "1. be동사 명령문 — am/is/are 대신 Be"
+  },
+  {
+   "id": "1-07-c03",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>이거 만지지 마라.<br>____ this.",
+   "o": [
+    "Don't touch",
+    "Don't touches",
+    "Not touch",
+    "Doesn't touch",
+    "Don't touching"
+   ],
+   "a": 0,
+   "e": "부정 명령문은 Don't + 동사원형이에요. Don't 뒤에 -s나 -ing를 붙이지 않아요.",
+   "ref": "2. 부정 명령문 — Don't (더 강한 금지는 Never)"
+  },
+  {
+   "id": "1-07-c04",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>공원에 가자.<br>____ to the park.",
+   "o": [
+    "Let's go",
+    "Let's goes",
+    "Let's going",
+    "Let go",
+    "Let's to go"
+   ],
+   "a": 0,
+   "e": "'~하자'는 Let's + 동사원형으로 써요. Let's 뒤에 to나 -ing를 쓰지 않아요.",
+   "ref": "3. Let's — 함께 하자고 제안"
+  },
+  {
+   "id": "1-07-c05",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>늦지 마.<br>____ late.",
+   "o": [
+    "Don't be",
+    "Don't are",
+    "Not be",
+    "Doesn't be",
+    "Aren't"
+   ],
+   "a": 0,
+   "e": "be동사의 부정 명령문은 Don't be ~예요. are를 그대로 쓰지 않고 동사원형 be를 써요.",
+   "ref": "1. be동사 명령문 — am/is/are 대신 Be"
+  },
+  {
+   "id": "1-07-c06",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>물을 낭비하지 말자.<br>____ waste water.",
+   "o": [
+    "Let's not",
+    "Let's don't",
+    "Don't let's",
+    "Not let's",
+    "Let's no"
+   ],
+   "a": 0,
+   "e": "Let's의 부정은 Let's not + 동사원형이에요. not은 Let's 바로 뒤에 와요.",
+   "ref": "3. Let's — 함께 하자고 제안"
+  },
+  {
+   "id": "1-07-c07",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>절대 포기하지 마.<br>____ up.",
+   "o": [
+    "Never give",
+    "Never gives",
+    "Never giving",
+    "Not give",
+    "Never to give"
+   ],
+   "a": 0,
+   "e": "더 강한 금지는 Never + 동사원형으로 나타내요. Never 뒤에도 동사원형이 와요.",
+   "ref": "2. 부정 명령문 — Don't (더 강한 금지는 Never)"
+  },
+  {
+   "id": "1-07-c08",
+   "type": "choice",
+   "q": "대화의 빈칸에 알맞은 말을 고르세요.<br>A: I'm so tired.<br>B: ____ a break.",
+   "o": [
+    "Take",
+    "Takes",
+    "Taking",
+    "Took",
+    "To take"
+   ],
+   "a": 0,
+   "e": "상대방에게 '쉬어라'라고 지시하는 명령문이라 동사원형 Take로 시작해요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-07-c09",
+   "type": "choice",
+   "q": "다음 중 어법상 옳은 문장을 고르세요.",
+   "o": [
+    "Don't be afraid.",
+    "Don't are afraid.",
+    "Not be afraid.",
+    "Don't afraid.",
+    "Doesn't be afraid."
+   ],
+   "a": 0,
+   "e": "be동사의 부정 명령문은 Don't be + 형용사예요. are를 쓰거나 be를 빼면 틀려요.",
+   "ref": "2. 부정 명령문 — Don't (더 강한 금지는 Never)"
+  },
+  {
+   "id": "1-07-c10",
+   "type": "choice",
+   "q": "다음 중 어법상 옳은 문장을 고르세요.",
+   "o": [
+    "Let's play soccer after school.",
+    "Let's plays soccer after school.",
+    "Let's playing soccer after school.",
+    "Let's to play soccer after school.",
+    "Let play soccer after school."
+   ],
+   "a": 0,
+   "e": "Let's 뒤에는 동사원형 play가 와요. Let's에서 's를 빼면 안 돼요.",
+   "ref": "3. Let's — 함께 하자고 제안"
+  },
+  {
+   "id": "1-07-c11",
+   "type": "choice",
+   "q": "다음 문장의 뜻으로 알맞은 것을 고르세요.<br>Let's not waste water.",
+   "o": [
+    "물을 낭비하지 말자.",
+    "물을 낭비하지 마라.",
+    "물을 낭비하자.",
+    "물을 낭비하지 않는다.",
+    "물을 낭비하니?"
+   ],
+   "a": 0,
+   "e": "Let's not + 동사원형은 '~하지 말자'라는 뜻이에요. '~하지 마라'는 Don't로 시작해요.",
+   "ref": "3. Let's — 함께 하자고 제안"
+  },
+  {
+   "id": "1-07-c12",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>앉아 주세요.<br>____ sit down.",
+   "o": [
+    "Please",
+    "Let's",
+    "Don't",
+    "Be",
+    "Never"
+   ],
+   "a": 0,
+   "e": "정중하게 부탁하는 명령문은 Please + 명령문으로 써요. Let's는 '~하자', Don't는 '~하지 마라'예요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-07-c13",
+   "type": "choice",
+   "q": "다음 문장을 명령문으로 바꿀 때 알맞은 것을 고르세요.<br>You are kind to your friends.",
+   "o": [
+    "Be kind to your friends.",
+    "Are kind to your friends.",
+    "Being kind to your friends.",
+    "Is kind to your friends.",
+    "To be kind to your friends."
+   ],
+   "a": 0,
+   "e": "명령문은 주어 You를 빼고 동사원형으로 시작해요. are의 동사원형은 Be예요.",
+   "ref": "1. be동사 명령문 — am/is/are 대신 Be"
+  },
+  {
+   "id": "1-07-e01",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "Opens the door.",
+    "Be quiet.",
+    "Don't run in the classroom.",
+    "Let's go to the park.",
+    "Please sit down."
+   ],
+   "a": 0,
+   "e": "명령문은 동사원형으로 시작하므로 Opens가 아니라 Open을 써야 해요. → Open the door.",
+   "ref": "주의! 명령문도 동사원형"
+  },
+  {
+   "id": "1-07-e02",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "Are quiet.",
+    "Open the window.",
+    "Never give up.",
+    "Let's not waste water.",
+    "Don't touch this."
+   ],
+   "a": 0,
+   "e": "be동사 명령문은 Are가 아니라 동사원형 Be로 시작해요. → Be quiet.",
+   "ref": "1. be동사 명령문 — am/is/are 대신 Be"
+  },
+  {
+   "id": "1-07-e03",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "Don't are late.",
+    "Don't be afraid.",
+    "Let's play soccer after school.",
+    "Be careful.",
+    "Please close the door."
+   ],
+   "a": 0,
+   "e": "Don't 뒤에는 동사원형이 와야 해서 are가 아니라 be를 써요. → Don't be late.",
+   "ref": "1. be동사 명령문 — am/is/are 대신 Be"
+  },
+  {
+   "id": "1-07-e04",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "Let's don't waste water.",
+    "Wash your hands.",
+    "Don't be sad.",
+    "Let's have lunch together.",
+    "Please be quiet."
+   ],
+   "a": 0,
+   "e": "Let's의 부정은 Let's don't가 아니라 Let's not이에요. → Let's not waste water.",
+   "ref": "3. Let's — 함께 하자고 제안"
+  },
+  {
+   "id": "1-07-e05",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "Let's going home now.",
+    "Don't eat in class.",
+    "Be nice to your brother.",
+    "Please open your book.",
+    "Never tell a lie."
+   ],
+   "a": 0,
+   "e": "Let's 뒤에는 동사원형이 와요. going이 아니라 go를 써야 해요. → Let's go home now.",
+   "ref": "3. Let's — 함께 하자고 제안"
+  },
+  {
+   "id": "1-07-b01",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요.<br>____ quiet in the library. (be)",
+   "ko": "도서관에서 조용히 해라.",
+   "ans": [
+    "Be"
+   ],
+   "e": "be동사 명령문은 동사원형 Be로 시작해요.",
+   "ref": "1. be동사 명령문 — am/is/are 대신 Be"
+  },
+  {
+   "id": "1-07-b02",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>교실에서 뛰지 마라.<br>____ ____ in the classroom.",
+   "ans": [
+    "Don't run",
+    "Do not run"
+   ],
+   "e": "'~하지 마라'는 Don't + 동사원형으로 써요.",
+   "ref": "2. 부정 명령문 — Don't (더 강한 금지는 Never)"
+  },
+  {
+   "id": "1-07-b03",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>방과 후에 축구하자.<br>____ ____ soccer after school.",
+   "ans": [
+    "Let's play"
+   ],
+   "e": "'~하자'는 Let's + 동사원형으로 써요.",
+   "ref": "3. Let's — 함께 하자고 제안"
+  },
+  {
+   "id": "1-07-b04",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>두려워하지 마.<br>____ ____ afraid.",
+   "ans": [
+    "Don't be",
+    "Do not be"
+   ],
+   "e": "be동사의 부정 명령문은 Don't be ~로 써요. afraid는 형용사라서 앞에 be가 필요해요.",
+   "ref": "2. 부정 명령문 — Don't (더 강한 금지는 Never)"
+  },
+  {
+   "id": "1-07-b05",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>물을 낭비하지 말자.<br>____ ____ waste water.",
+   "ans": [
+    "Let's not"
+   ],
+   "e": "Let's의 부정은 Let's not + 동사원형이에요.",
+   "ref": "3. Let's — 함께 하자고 제안"
+  },
+  {
+   "id": "1-07-b06",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (N으로 시작하는 한 단어)<br>절대 포기하지 마.<br>____ give up.",
+   "ans": [
+    "Never"
+   ],
+   "e": "'절대 ~하지 마'라는 강한 금지는 Never + 동사원형으로 나타내요.",
+   "ref": "2. 부정 명령문 — Don't (더 강한 금지는 Never)"
+  },
+  {
+   "id": "1-07-b07",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 빈칸에 쓰세요.<br>Please ____ down. (sit)",
+   "ko": "앉아 주세요.",
+   "ans": [
+    "sit"
+   ],
+   "e": "Please 뒤에도 명령문이라 동사원형 sit을 그대로 써요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-07-f01",
+   "type": "fix",
+   "q": "Opens the door.",
+   "wrong": "Opens",
+   "ko": "문을 열어라.",
+   "ans": [
+    "Open"
+   ],
+   "e": "명령문은 동사원형으로 시작해요. 3인칭 단수 -s를 붙이지 않아요. Opens → Open",
+   "ref": "주의! 명령문도 동사원형"
+  },
+  {
+   "id": "1-07-f02",
+   "type": "fix",
+   "q": "Are quiet, please.",
+   "wrong": "Are",
+   "ko": "조용히 해 주세요.",
+   "ans": [
+    "Be"
+   ],
+   "e": "be동사 명령문은 am/is/are 대신 동사원형 Be를 써요. Are → Be",
+   "ref": "1. be동사 명령문 — am/is/are 대신 Be"
+  },
+  {
+   "id": "1-07-f03",
+   "type": "fix",
+   "q": "Don't are late.",
+   "wrong": "are",
+   "ko": "늦지 마.",
+   "ans": [
+    "be"
+   ],
+   "e": "Don't 뒤에는 동사원형이 와야 해요. are → be",
+   "ref": "1. be동사 명령문 — am/is/are 대신 Be"
+  },
+  {
+   "id": "1-07-f04",
+   "type": "fix",
+   "q": "Let's don't waste water.",
+   "wrong": "don't",
+   "ko": "물을 낭비하지 말자.",
+   "ans": [
+    "not"
+   ],
+   "e": "Let's의 부정은 Let's not + 동사원형이에요. don't → not",
+   "ref": "3. Let's — 함께 하자고 제안"
+  },
+  {
+   "id": "1-07-f05",
+   "type": "fix",
+   "q": "Let's played soccer after school.",
+   "wrong": "played",
+   "ko": "방과 후에 축구하자.",
+   "ans": [
+    "play"
+   ],
+   "e": "Let's 뒤에는 동사원형이 와요. 과거형을 쓰지 않아요. played → play",
+   "ref": "3. Let's — 함께 하자고 제안"
+  },
+  {
+   "id": "1-07-f06",
+   "type": "fix",
+   "q": "Not touch this.",
+   "wrong": "Not",
+   "ko": "이거 만지지 마라.",
+   "ans": [
+    "Don't",
+    "Do not"
+   ],
+   "e": "부정 명령문은 Not이 아니라 Don't + 동사원형으로 시작해요. Not → Don't",
+   "ref": "2. 부정 명령문 — Don't (더 강한 금지는 Never)"
+  },
+  {
+   "id": "1-07-a01",
+   "type": "arrange",
+   "ko": "창문을 열어 주세요.",
+   "words": [
+    "the window",
+    "Open",
+    "please"
+   ],
+   "ans": [
+    "Open the window, please.",
+    "Please open the window."
+   ],
+   "e": "정중한 명령문은 Please + 명령문, 또는 명령문, please 두 가지로 쓸 수 있어요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-07-a02",
+   "type": "arrange",
+   "ko": "교실에서 뛰지 마라.",
+   "words": [
+    "run",
+    "Don't",
+    "in the classroom"
+   ],
+   "ans": [
+    "Don't run in the classroom."
+   ],
+   "e": "부정 명령문은 Don't + 동사원형 순서로 써요.",
+   "ref": "2. 부정 명령문 — Don't (더 강한 금지는 Never)"
+  },
+  {
+   "id": "1-07-a03",
+   "type": "arrange",
+   "ko": "공원에 가자.",
+   "words": [
+    "go",
+    "Let's",
+    "to the park"
+   ],
+   "ans": [
+    "Let's go to the park."
+   ],
+   "e": "'~하자'는 Let's + 동사원형 순서로 써요.",
+   "ref": "3. Let's — 함께 하자고 제안"
+  },
+  {
+   "id": "1-07-a04",
+   "type": "arrange",
+   "ko": "두려워하지 마.",
+   "words": [
+    "be",
+    "Don't",
+    "afraid"
+   ],
+   "ans": [
+    "Don't be afraid."
+   ],
+   "e": "be동사의 부정 명령문은 Don't + be + 형용사 순서예요.",
+   "ref": "2. 부정 명령문 — Don't (더 강한 금지는 Never)"
+  },
+  {
+   "id": "1-07-a05",
+   "type": "arrange",
+   "ko": "물을 낭비하지 말자.",
+   "words": [
+    "waste",
+    "not",
+    "Let's",
+    "water"
+   ],
+   "ans": [
+    "Let's not waste water."
+   ],
+   "e": "Let's 바로 뒤에 not을 쓰고, 그 뒤에 동사원형을 써요.",
+   "ref": "3. Let's — 함께 하자고 제안"
+  },
+  {
+   "id": "1-07-a06",
+   "type": "arrange",
+   "ko": "수업에 늦지 마.",
+   "words": [
+    "late",
+    "be",
+    "for class"
+   ],
+   "cond": "주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
+   "ans": [
+    "Don't be late for class.",
+    "Do not be late for class."
+   ],
+   "e": "'~하지 마'는 Don't로 시작하고, be동사 명령문이라 Don't be late로 써요.",
+   "ref": "1. be동사 명령문 — am/is/are 대신 Be"
+  },
+  {
+   "id": "1-07-a07",
+   "type": "arrange",
+   "ko": "반 친구들에게 친절해라.",
+   "words": [
+    "kind",
+    "Be",
+    "to your classmates"
+   ],
+   "ans": [
+    "Be kind to your classmates."
+   ],
+   "e": "형용사 kind 앞에는 be동사가 필요해서 Be + 형용사 순서로 써요.",
+   "ref": "1. be동사 명령문 — am/is/are 대신 Be"
+  }
+ ]
+}
