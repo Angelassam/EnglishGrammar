@@ -180,7 +180,7 @@
    "e":"미래 수동태는 will be + p.p.예요. be를 빠뜨리면 안 돼요.",
    "ref":"2. 시제별 형태"},
   {"id":"2-05-f04","type":"fix","q":"He was made clean the room.","wrong":"clean",
-   "ko":"그는 (시켜서) 방을 청소하게 되었다.","ans":["to clean"],
+   "ko":"그는 (누군가가 시켜서) 그 방을 청소하게 되었다.","ans":["to clean"],
    "e":"사역동사 make의 수동태에서는 동사원형이 to부정사로 바뀌어요. clean → to clean",
    "ref":"7. 심화 — 4형식 · 5형식의 수동태"},
   {"id":"2-05-f05","type":"fix","q":"I am interested at music.","wrong":"at",

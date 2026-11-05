@@ -41,7 +41,7 @@
    "e":"주격 관계대명사 뒤에는 동사가 오고, 선행사 The boy가 단수라서 is playing을 써요.",
    "ref":"3. 수일치 — 관계대명사절 동사는 선행사에 맞춰요"},
   {"id":"2-02-c08","type":"choice",
-   "q":"빈칸에 알맞은 말을 고르세요.<br>The girl [who sings well] ____ my cousin.",
+   "q":"빈칸에 알맞은 말을 고르세요.<br>The girl who sings well ____ my cousin.",
    "ko":"노래를 잘하는 소녀는 내 사촌이다.",
    "o":["is","are","sing","sings","be"],"a":0,
    "e":"관계대명사절 [who sings well]을 괄호로 묶으면 주어는 The girl이에요. 단수 주어라서 진짜 동사는 is예요.",
