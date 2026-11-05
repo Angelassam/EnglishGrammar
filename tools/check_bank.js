@@ -18,6 +18,7 @@ const G2_ONLY={
  "1-23":["\\b(some|any|no|every)thing \\w+ to \\w+"]
 };
 const MIN={choice:10,error:4,blank:5,fix:5,arrange:5,total:30};
+const MINH={choice:6,error:3,blank:3,fix:3,arrange:3,total:18};
 const only=process.argv.slice(2);
 let bad=0;const say=m=>{bad++;console.log('  ✗ '+m);};
 const allIds=new Set();
@@ -26,13 +27,14 @@ for(const f of files){
   let b;try{b=JSON.parse(fs.readFileSync(path.join(dir,f)));}catch(e){console.log(f);say('JSON 문법 오류: '+e.message);continue;}
   const u=units.find(u=>u.id===b.unit);
   console.log(`${f}: ${b.questions.length}문제`);
-  if(f!==b.unit+'.json')say('파일 이름과 unit이 다름');
+  const hard=f.endsWith('.hard.json'); if(hard&&b.level!=='hard')say('hard 파일에 level:"hard" 없음');
+  if(f!==b.unit+(hard?'.hard':'')+'.json')say('파일 이름과 unit이 다름');
   if(!u) say('units.json에 없는 단원 '+b.unit); else {if(u.grade!==b.grade) say('학년 불일치'); if(u.title!==b.title) say('title이 units.json과 다름');}
   const cnt={};
   for(const q of b.questions){
     cnt[q.type]=(cnt[q.type]||0)+1;
     if(allIds.has(q.id))say('id 중복 '+q.id);allIds.add(q.id);
-    if(!String(q.id).startsWith(b.unit+'-'))say(q.id+' id가 단원 id로 시작하지 않음');
+    if(!String(q.id).startsWith(b.unit+(hard?'-H-':'-')))say(q.id+' id가 단원 id로 시작하지 않음');
     if(!q.e||!q.ref)say(q.id+' 해설/근거 없음');
     if(q.e&&!/(요|죠)[.!?)]/.test(q.e))say(q.id+' 해설이 ~요 체가 아님');
     const allText=[q.q,q.ko,q.e,...(q.o||[]),...(q.ans||[]),...(q.words||[])].filter(Boolean).join(' ');
@@ -68,8 +70,9 @@ for(const f of files){
       for(const k of G2_ONLY[b.unit]){const re=new RegExp(k.includes('\\')?k:'\\b'+k.replace(/'/g,"'")+'\\b'); const m=text.match(re); if(m)say(q.id+' 중1 문제에 중2 심화로 보이는 표현: "'+m[0]+'"');}
     }
   }
-  for(const t of ['choice','error','blank','fix','arrange']) if((cnt[t]||0)<MIN[t])say(`${t} 유형이 ${MIN[t]}개보다 적음 (${cnt[t]||0})`);
-  if(b.questions.length<MIN.total)say(`전체 ${MIN.total}개보다 적음`);
+  const M=hard?MINH:MIN;
+  for(const t of ['choice','error','blank','fix','arrange']) if((cnt[t]||0)<M[t])say(`${t} 유형이 ${M[t]}개보다 적음 (${cnt[t]||0})`);
+  if(b.questions.length<M.total)say(`전체 ${M.total}개보다 적음`);
   console.log('  유형별:',JSON.stringify(cnt));
 }
 console.log(bad?`문제 ${bad}건`:'모두 통과');process.exit(bad?1:0);

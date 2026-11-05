@@ -119,6 +119,15 @@
       <p class="hint">흐리게 보이는 단원은 아직 문제 은행이 없는 단원이에요.</p>
     </div>
     <div class="card">
+      <h2>난이도</h2>
+      <div class="seg" id="lvSeg">
+        <label><input type="radio" name="lv" value="basic" checked> 기본</label>
+        <label><input type="radio" name="lv" value="hard"> 심화 (검수 전)</label>
+        <label><input type="radio" name="lv" value="all"> 기본+심화</label>
+      </div>
+      <p class="hint">심화는 내신 상위권 수준이에요. 아직 선생님 검수를 거치지 않은 문제라서 정답·해설을 한 번 확인하고 쓰세요. 심화 문제가 없는 단원은 기본 문제만 나와요.</p>
+    </div>
+    <div class="card">
       <h2>3. 문제 유형</h2>
       <div class="seg" id="typeSeg">
         <label><input type="checkbox" name="type" value="choice" checked> 객관식 · 알맞은 말 고르기</label>
@@ -193,7 +202,9 @@ const $=s=>document.querySelector(s), $$=s=>Array.from(document.querySelectorAll
 let state={grade:1,mode:'student',items:[],submitted:false};
 function grade(){return +document.querySelector('input[name=grade]:checked').value}
 function unitsOfGrade(g){return UNITS.filter(u=>u.grade===g)}
-function poolSize(u){return (BANK[u.id]||[]).length}
+function lv(){return document.querySelector('input[name=lv]:checked').value}
+function lvOk(q){const l=lv();return l==='all'||(q.lv||'basic')===l}
+function poolSize(u){return (BANK[u.id]||[]).filter(lvOk).length}
 
 function renderUnits(){
   const g=grade(), pub=$('#pubSel').value, lesson=$('#lessonSel').value;
@@ -228,7 +239,7 @@ function selectedTypes(){return $$('input[name=type]:checked').map(i=>i.value)}
 function wantCount(){const v=document.querySelector('input[name=count]:checked').value;return v==='custom'?Math.max(1,+$('#countCustom').value||1):+v}
 function pool(){
   const us=selectedUnits(), ts=selectedTypes();
-  return us.flatMap(id=>(BANK[id]||[]).filter(q=>ts.includes(q.type)).map(q=>Object.assign({unit:id},q)));
+  return us.flatMap(id=>(BANK[id]||[]).filter(q=>ts.includes(q.type)&&lvOk(q)).map(q=>Object.assign({unit:id},q)));
 }
 function updatePool(){
   const p=pool().length, info=$('#poolInfo');
@@ -241,6 +252,7 @@ $('#gradeSeg').addEventListener('change',()=>{renderLessons();renderUnits()});
 $('#pubSel').addEventListener('change',()=>{renderLessons();renderUnits()});
 $('#lessonSel').addEventListener('change',renderUnits);
 $('#typeSeg').addEventListener('change',updatePool);
+$('#lvSeg').addEventListener('change',renderUnits);
 $('#countSeg').addEventListener('change',()=>{$('#countCustom').classList.toggle('hidden',document.querySelector('input[name=count]:checked').value!=='custom')});
 $('#btnAllUnits').onclick=()=>{$$('#unitList input:not(:disabled)').forEach(i=>i.checked=true);updatePool()};
 $('#btnNoUnits').onclick=()=>{$$('#unitList input').forEach(i=>i.checked=false);updatePool()};
@@ -276,7 +288,7 @@ function renderQuiz(){
   $('#sheetUnits').textContent='단원: '+unitNames.join(', ');
   state.items.forEach((it,idx)=>{
     const q=it.q, d=document.createElement('div'); d.className='q'; d.dataset.i=idx;
-    let body=`<div class="top"><span class="num">${idx+1}.</span><span class="tag">${TYPE_NAME[q.type]}</span></div>`;
+    let body=`<div class="top"><span class="num">${idx+1}.</span><span class="tag">${TYPE_NAME[q.type]}</span>${q.lv==='hard'?'<span class="tag">심화</span>':''}</div>`;
     if(q.type==='arrange'){
       body+=`<p class="text">우리말과 같은 뜻이 되도록 주어진 말을 바르게 배열하세요.${q.cond?' '+esc(q.cond):''}</p><p class="ko">${esc(q.ko)}</p><p class="words">${q.words.map(esc).join(' &nbsp;/&nbsp; ')}</p>`;
     } else if(q.type==='fix'){

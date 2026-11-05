@@ -182,7 +182,7 @@
    "e":"전치사가 앞으로 나오면 전치사 + which 형태로 쓰고, 뒤에 주어 + 동사(she studies)가 와요.",
    "ref":"4. 전치사의 목적어가 빠진 경우 (심화)"},
   {"id":"2-03-a05","type":"arrange","ko":"우리가 어제 한 게임은 재미있었다.",
-   "words":["we played","The game","yesterday","was","fun"],"ans":["The game we played yesterday was fun."],
+   "words":["was","The game","we played yesterday","fun"],"ans":["The game we played yesterday was fun."],
    "e":"목적격 관계대명사를 생략해서 The game 뒤에 바로 주어 + 동사(we played)가 와요.",
    "ref":"2. 목적격 관계대명사는 생략할 수 있어요"},
   {"id":"2-03-a06","type":"arrange","ko":"아빠가 요리한 수프는 맛있었다.",
