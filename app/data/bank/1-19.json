@@ -351,8 +351,8 @@
   {
    "id": "1-19-b05",
    "type": "blank",
-   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요.<br>The prize ____ my parents proud. (make)",
-   "ko": "그 상은 부모님을 자랑스럽게 만들었다.",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요.<br>The letter ____ my grandmother happy. (make)",
+   "ko": "그 편지는 할머니를 행복하게 만들었다.",
    "ans": [
     "made"
    ],

@@ -316,23 +316,23 @@
   {
    "id": "1-13-b03",
    "type": "blank",
-   "q": "괄호 안의 동사를 -ing형으로 바꿔 빈칸에 쓰세요.<br>____ books is fun. (read)",
-   "ko": "책을 읽는 것은 재미있다.",
+   "q": "괄호 안의 동사를 -ing형으로 바꿔 빈칸에 쓰세요.<br>____ vegetables is good for your health. (eat)",
+   "ko": "채소를 먹는 것은 건강에 좋다.",
    "ans": [
-    "Reading"
+    "Eating"
    ],
-   "e": "주어 자리에 '읽는 것'이라는 뜻의 동명사 Reading을 써요.",
+   "e": "주어 자리에 '먹는 것'이라는 뜻의 동명사 Eating을 써요.",
    "ref": "핵심 개념 — 주어"
   },
   {
    "id": "1-13-b04",
    "type": "blank",
-   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요.<br>He kept ____ during the movie. (talk)",
-   "ko": "그는 영화 내내 계속 이야기했다.",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요.<br>The baby kept ____ all night. (cry)",
+   "ko": "그 아기는 밤새 계속 울었다.",
    "ans": [
-    "talking"
+    "crying"
    ],
-   "e": "keep은 동명사만 목적어로 쓰는 동사라서 talking을 써요.",
+   "e": "keep은 동명사만 목적어로 쓰는 동사라서 crying을 써요.",
    "ref": "2. 동명사만 목적어로 쓰는 동사"
   },
   {
@@ -455,64 +455,64 @@
   {
    "id": "1-13-a01",
    "type": "arrange",
-   "ko": "나는 기타 치는 것을 즐긴다.",
+   "ko": "그는 만화책 읽는 것을 즐긴다.",
    "words": [
-    "playing",
-    "I",
-    "the guitar",
-    "enjoy"
+    "reading",
+    "He",
+    "comic books",
+    "enjoys"
    ],
    "ans": [
-    "I enjoy playing the guitar."
+    "He enjoys reading comic books."
    ],
-   "e": "주어 + enjoy + 동명사(playing) 순서로 써요.",
+   "e": "주어 + enjoys + 동명사(reading) 순서로 써요. enjoy 뒤에는 -ing가 와요.",
    "ref": "2. 동명사만 목적어로 쓰는 동사"
   },
   {
    "id": "1-13-a02",
    "type": "arrange",
-   "ko": "책을 읽는 것은 재미있다.",
+   "ko": "자전거를 타는 것은 신난다.",
    "words": [
     "is",
-    "Reading",
-    "fun",
-    "books"
+    "Riding",
+    "exciting",
+    "a bike"
    ],
    "ans": [
-    "Reading books is fun."
+    "Riding a bike is exciting."
    ],
-   "e": "동명사 Reading books가 주어이고, 단수 취급이라 is가 와요.",
+   "e": "동명사 Riding a bike가 주어이고, 단수 취급이라 is가 와요.",
    "ref": "핵심 개념 — 주어"
   },
   {
    "id": "1-13-a03",
    "type": "arrange",
-   "ko": "그녀는 춤을 잘 춘다.",
+   "ko": "내 남동생은 축구를 잘한다.",
    "words": [
     "at",
-    "dancing",
+    "playing soccer",
     "is",
-    "She",
+    "My brother",
     "good"
    ],
    "ans": [
-    "She is good at dancing."
+    "My brother is good at playing soccer."
    ],
-   "e": "be good at -ing 순서로 쓰고, 전치사 at 뒤에 동명사 dancing을 둬요.",
+   "e": "be good at -ing 순서로 쓰고, 전치사 at 뒤에 동명사 playing을 둬요.",
    "ref": "3. 전치사 뒤에는 동명사 — be good at -ing"
   },
   {
    "id": "1-13-a04",
    "type": "arrange",
-   "ko": "창문 좀 열어 주시겠어요?",
+   "ko": "문 좀 닫아 주시겠어요?",
    "words": [
     "mind",
     "Do you",
-    "the window",
-    "opening"
+    "the door",
+    "closing"
    ],
    "ans": [
-    "Do you mind opening the window?"
+    "Do you mind closing the door?"
    ],
    "e": "Do you mind + 동명사 ~? 순서로 써요. mind 뒤에는 -ing가 와요.",
    "ref": "2. 동명사만 목적어로 쓰는 동사"
@@ -520,30 +520,30 @@
   {
    "id": "1-13-a05",
    "type": "arrange",
-   "ko": "내 취미는 사진을 찍는 것이다.",
+   "ko": "그의 취미는 우표를 모으는 것이다.",
    "words": [
-    "taking",
-    "My hobby",
-    "pictures",
+    "collecting",
+    "His hobby",
+    "stamps",
     "is"
    ],
    "ans": [
-    "My hobby is taking pictures."
+    "His hobby is collecting stamps."
    ],
-   "e": "주어 + be동사 + 동명사(보어) 순서예요. 내 취미 = 사진 찍는 것이에요.",
+   "e": "주어 + be동사 + 동명사(보어) 순서예요. 그의 취미 = 우표 모으는 것이에요.",
    "ref": "핵심 개념 — 보어"
   },
   {
    "id": "1-13-a06",
    "type": "arrange",
-   "ko": "영화 보러 가는 게 어때?",
+   "ko": "함께 점심 먹는 게 어때?",
    "words": [
-    "going",
+    "having",
     "How about",
-    "to the movies"
+    "lunch together"
    ],
    "ans": [
-    "How about going to the movies?"
+    "How about having lunch together?"
    ],
    "e": "How about + 동명사 ~? 순서로 써요. 전치사 about 뒤에는 -ing가 와요.",
    "ref": "3. 전치사 뒤에는 동명사 — How about -ing?"

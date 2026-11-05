@@ -305,32 +305,32 @@
   {
    "id": "1-17-b02",
    "type": "blank",
-   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요.<br>This soup ____ good. (smell)",
-   "ko": "이 수프는 좋은 냄새가 난다.",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요.<br>The bread ____ fresh. (smell)",
+   "ko": "그 빵은 신선한 냄새가 난다.",
    "ans": [
     "smells"
    ],
-   "e": "주어 This soup가 3인칭 단수라서 smell에 -s를 붙여 smells로 써요.",
+   "e": "주어 The bread가 3인칭 단수라서 smell에 -s를 붙여 smells로 써요. 뒤에는 형용사 fresh가 와요.",
    "ref": "핵심 개념"
   },
   {
    "id": "1-17-b03",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>그는 선생님처럼 보인다.<br>He looks ____ a teacher.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>그의 목소리는 로봇처럼 들린다.<br>His voice sounds ____ a robot.",
    "ans": [
     "like"
    ],
-   "e": "감각동사 뒤에 명사 a teacher가 오니까 like를 써요.",
+   "e": "감각동사 sound 뒤에 명사 a robot이 오니까 like를 써요.",
    "ref": "2. 뒤에 명사가 오면 → 감각동사 + like + 명사"
   },
   {
    "id": "1-17-b04",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>이것은 닭고기 같은 맛이 난다.<br>This tastes ____ chicken.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>이 사탕은 딸기 같은 맛이 난다.<br>This candy tastes ____ strawberries.",
    "ans": [
     "like"
    ],
-   "e": "chicken은 명사라서 taste 뒤에 like가 필요해요.",
+   "e": "strawberries는 명사라서 taste 뒤에 like가 필요해요.",
    "ref": "2. 뒤에 명사가 오면 → 감각동사 + like + 명사"
   },
   {
@@ -347,12 +347,12 @@
   {
    "id": "1-17-b06",
    "type": "blank",
-   "q": "괄호 안의 말을 알맞은 형태로 빈칸에 쓰세요.<br>You ____ happy today. (look)",
-   "ko": "너 오늘 행복해 보인다.",
+   "q": "괄호 안의 말을 알맞은 형태로 빈칸에 쓰세요.<br>Your parents ____ young. (look)",
+   "ko": "네 부모님은 젊어 보이신다.",
    "ans": [
     "look"
    ],
-   "e": "주어가 You라서 look을 그대로 써요. 뒤에 형용사 happy가 바로 와요.",
+   "e": "주어 Your parents가 복수라서 look을 그대로 써요. 뒤에 형용사 young이 바로 와요.",
    "ref": "핵심 개념"
   },
   {
@@ -455,96 +455,96 @@
   {
    "id": "1-17-a01",
    "type": "arrange",
-   "ko": "너 오늘 행복해 보인다.",
+   "ko": "우리 선생님은 오늘 화나 보인다.",
    "words": [
-    "happy",
-    "look",
-    "You",
+    "angry",
+    "looks",
+    "My teacher",
     "today"
    ],
    "ans": [
-    "You look happy today.",
-    "Today you look happy."
+    "My teacher looks angry today.",
+    "Today my teacher looks angry."
    ],
-   "e": "주어 + 감각동사 look + 형용사 순서로 써요.",
+   "e": "주어 + 감각동사 looks + 형용사 angry 순서로 써요.",
    "ref": "핵심 개념"
   },
   {
    "id": "1-17-a02",
    "type": "arrange",
-   "ko": "이 수프는 좋은 냄새가 난다.",
+   "ko": "이 샴푸는 좋은 냄새가 난다.",
    "words": [
-    "good",
-    "This soup",
+    "nice",
+    "This shampoo",
     "smells"
    ],
    "ans": [
-    "This soup smells good."
+    "This shampoo smells nice."
    ],
-   "e": "주어 + smells + 형용사 good 순서예요. 보어 자리에는 형용사가 와요.",
+   "e": "주어 + smells + 형용사 nice 순서예요. 보어 자리에는 형용사가 와요.",
    "ref": "핵심 개념"
   },
   {
    "id": "1-17-a03",
    "type": "arrange",
-   "ko": "그는 선생님처럼 보인다.",
+   "ko": "그 구름은 토끼처럼 보인다.",
    "words": [
-    "a teacher",
+    "a rabbit",
     "looks",
-    "He",
+    "The cloud",
     "like"
    ],
    "ans": [
-    "He looks like a teacher."
+    "The cloud looks like a rabbit."
    ],
-   "e": "뒤에 명사가 오니까 감각동사 + like + 명사 순서로 써요.",
+   "e": "뒤에 명사 a rabbit이 오니까 감각동사 + like + 명사 순서로 써요.",
    "ref": "2. 뒤에 명사가 오면 → 감각동사 + like + 명사"
   },
   {
    "id": "1-17-a04",
    "type": "arrange",
-   "ko": "좋은 생각인 것 같다.",
+   "ko": "그 소리는 천둥처럼 들린다.",
    "words": [
-    "like",
-    "It",
-    "a good idea",
-    "sounds"
+    "thunder",
+    "That noise",
+    "sounds",
+    "like"
    ],
    "ans": [
-    "It sounds like a good idea."
+    "That noise sounds like thunder."
    ],
-   "e": "a good idea는 명사라서 sounds 뒤에 like를 두고 그 뒤에 명사를 써요.",
+   "e": "thunder는 명사라서 sounds 뒤에 like를 두고 그 뒤에 명사를 써요.",
    "ref": "2. 뒤에 명사가 오면 → 감각동사 + like + 명사"
   },
   {
    "id": "1-17-a05",
    "type": "arrange",
-   "ko": "이 담요는 부드럽게 느껴진다.",
+   "ko": "이 재킷은 무겁게 느껴진다.",
    "words": [
-    "soft",
+    "heavy",
     "feels",
-    "This blanket"
+    "This jacket"
    ],
    "ans": [
-    "This blanket feels soft."
+    "This jacket feels heavy."
    ],
-   "e": "주어 + feels + 형용사 soft 순서로 써요.",
+   "e": "주어 + feels + 형용사 heavy 순서로 써요. 우리말은 '무겁게'지만 형용사를 써요.",
    "ref": "핵심 개념"
   },
   {
    "id": "1-17-a06",
    "type": "arrange",
-   "ko": "그 케이크는 달콤한 맛이 난다.",
+   "ko": "그 레몬은 신맛이 난다.",
    "cond": "주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
    "words": [
-    "the cake",
+    "the lemon",
     "taste",
-    "sweet"
+    "sour"
    ],
    "ans": [
-    "The cake tastes sweet."
+    "The lemon tastes sour."
    ],
-   "e": "주어 The cake가 3인칭 단수라서 tastes로 바꾸고, 뒤에 형용사 sweet를 써요.",
+   "e": "주어 The lemon이 3인칭 단수라서 tastes로 바꾸고, 뒤에 형용사 sour를 써요.",
    "ref": "핵심 개념"
   }
  ]

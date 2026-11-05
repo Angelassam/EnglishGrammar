@@ -288,12 +288,12 @@
   {
    "id": "1-15-b02",
    "type": "blank",
-   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (두 단어)<br>She was happy ____ ____ the gift. (get)",
-   "ko": "그녀는 선물을 받아서 기뻤다.",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (두 단어)<br>They were sad ____ ____ the game. (lose)",
+   "ko": "그들은 경기에서 져서 슬펐다.",
    "ans": [
-    "to get"
+    "to lose"
    ],
-   "e": "감정 형용사 happy 뒤에 to부정사를 써서 기쁜 이유를 말해요. to 뒤는 동사원형 get이에요.",
+   "e": "감정 형용사 sad 뒤에 to부정사를 써서 슬픈 이유를 말해요. to 뒤는 동사원형 lose예요.",
    "ref": "2. 감정의 원인 — ~해서"
   },
   {
@@ -310,30 +310,30 @@
   {
    "id": "1-15-b04",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 괄호 안의 말을 이용해 빈칸을 채우세요. (두 단어)<br>나는 그 소식을 듣고 놀랐다.<br>I was surprised ____ ____ the news. (hear)",
+   "q": "우리말과 같은 뜻이 되도록 괄호 안의 말을 이용해 빈칸을 채우세요. (두 단어)<br>그녀는 그 결과를 보고 놀랐다.<br>She was surprised ____ ____ the result. (see)",
    "ans": [
-    "to hear"
+    "to see"
    ],
-   "e": "surprised 뒤에 to부정사를 써서 놀란 이유를 말해요. to 뒤는 동사원형 hear예요.",
+   "e": "surprised 뒤에 to부정사를 써서 놀란 이유를 말해요. to 뒤는 동사원형 see예요.",
    "ref": "2. 감정의 원인 — ~해서"
   },
   {
    "id": "1-15-b05",
    "type": "blank",
-   "q": "대화의 빈칸에 괄호 안의 말을 알맞은 형태로 바꿔 쓰세요. (두 단어)<br>A: Why did you go to the store?<br>B: ____ ____ some milk. (buy)",
-   "ko": "B: 우유를 사러.",
+   "q": "대화의 빈칸에 괄호 안의 말을 알맞은 형태로 바꿔 쓰세요. (두 단어)<br>A: Why did you get up so early?<br>B: ____ ____ the sunrise. (see)",
+   "ko": "B: 해돋이를 보려고.",
    "ans": [
-    "To buy"
+    "To see"
    ],
-   "e": "Why ~?라는 질문에는 목적의 to부정사 To buy ~.로 대답해요.",
+   "e": "Why ~?라는 질문에는 목적의 to부정사 To see ~.로 대답해요.",
    "ref": "1. 목적 — Why에 대한 대답"
   },
   {
    "id": "1-15-b06",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 괄호 안의 말을 이용해 빈칸을 채우세요. (두 단어)<br>우리는 여행을 가게 되어 신이 난다.<br>We are excited ____ ____ on a trip. (go)",
+   "q": "우리말과 같은 뜻이 되도록 괄호 안의 말을 이용해 빈칸을 채우세요. (두 단어)<br>나는 그 팀에 들어가게 되어 신이 난다.<br>I'm excited ____ ____ the team. (join)",
    "ans": [
-    "to go"
+    "to join"
    ],
    "e": "감정 형용사 excited 뒤에 to + 동사원형을 써서 신이 난 이유를 말해요.",
    "ref": "2. 감정의 원인 — ~해서"
@@ -413,16 +413,16 @@
   {
    "id": "1-15-a01",
    "type": "arrange",
-   "ko": "그녀는 시험에 합격하기 위해 열심히 공부한다.",
+   "ko": "그녀는 돈을 벌기 위해 열심히 일한다.",
    "words": [
-    "to pass",
+    "to make",
     "She",
-    "the exam",
-    "studies hard"
+    "money",
+    "works hard"
    ],
    "ans": [
-    "She studies hard to pass the exam.",
-    "To pass the exam, she studies hard."
+    "She works hard to make money.",
+    "To make money, she works hard."
    ],
    "e": "주어 + 동사 뒤에 목적을 나타내는 to부정사를 붙여요.",
    "ref": "1. 목적 — ~하기 위해서, ~하러"
@@ -430,65 +430,65 @@
   {
    "id": "1-15-a02",
    "type": "arrange",
-   "ko": "너를 만나서 기쁘다.",
+   "ko": "네 편지를 받아서 기쁘다.",
    "words": [
-    "to see",
+    "to get",
     "I'm",
-    "you",
-    "happy"
+    "your letter",
+    "glad"
    ],
    "ans": [
-    "I'm happy to see you."
+    "I'm glad to get your letter."
    ],
-   "e": "감정 형용사 happy 뒤에 to부정사를 써서 기쁜 이유를 말해요.",
+   "e": "감정 형용사 glad 뒤에 to부정사를 써서 기쁜 이유를 말해요.",
    "ref": "2. 감정의 원인 — ~해서"
   },
   {
    "id": "1-15-a03",
    "type": "arrange",
-   "ko": "나는 우유를 사러 가게에 갔다.",
+   "ko": "그는 빵을 사러 빵집에 갔다.",
    "words": [
     "to buy",
-    "I",
-    "some milk",
-    "went to the store"
+    "He",
+    "some bread",
+    "went to the bakery"
    ],
    "ans": [
-    "I went to the store to buy some milk.",
-    "To buy some milk, I went to the store."
+    "He went to the bakery to buy some bread.",
+    "To buy some bread, he went to the bakery."
    ],
-   "e": "'가게에 갔다' 뒤에 목적 to buy some milk를 붙여요.",
+   "e": "'빵집에 갔다' 뒤에 목적 to buy some bread를 붙여요.",
    "ref": "1. 목적 — ~하기 위해서, ~하러"
   },
   {
    "id": "1-15-a04",
    "type": "arrange",
-   "ko": "그는 첫차를 타기 위해 일찍 일어났다.",
+   "ko": "그녀는 신선한 공기를 쐬기 위해 창문을 열었다.",
    "words": [
-    "to catch",
-    "He",
-    "the first bus",
-    "got up early"
+    "to get",
+    "She",
+    "some fresh air",
+    "opened the window"
    ],
    "ans": [
-    "He got up early to catch the first bus.",
-    "To catch the first bus, he got up early."
+    "She opened the window to get some fresh air.",
+    "To get some fresh air, she opened the window."
    ],
-   "e": "'일찍 일어났다' 뒤에 목적을 나타내는 to catch the first bus를 써요.",
+   "e": "'창문을 열었다' 뒤에 목적을 나타내는 to get some fresh air를 써요.",
    "ref": "1. 목적 — ~하기 위해서, ~하러"
   },
   {
    "id": "1-15-a05",
    "type": "arrange",
-   "ko": "나는 그 소식을 듣고 놀랐다.",
+   "ko": "그는 그 상을 받아서 놀랐다.",
    "words": [
-    "to hear",
-    "I",
-    "the news",
+    "to win",
+    "He",
+    "the prize",
     "was surprised"
    ],
    "ans": [
-    "I was surprised to hear the news."
+    "He was surprised to win the prize."
    ],
    "e": "주어 + was surprised + to부정사 순서로 써서 놀란 이유를 말해요.",
    "ref": "2. 감정의 원인 — ~해서"
@@ -496,18 +496,18 @@
   {
    "id": "1-15-a06",
    "type": "arrange",
-   "ko": "우리는 사진을 찍기 위해 스마트폰을 사용한다.",
+   "ko": "나는 영어를 공부하기 위해 이 앱을 사용한다.",
    "words": [
-    "to take",
-    "We",
-    "pictures",
-    "use smartphones"
+    "to study",
+    "I",
+    "English",
+    "use this app"
    ],
    "ans": [
-    "We use smartphones to take pictures.",
-    "To take pictures, we use smartphones."
+    "I use this app to study English.",
+    "To study English, I use this app."
    ],
-   "e": "'스마트폰을 사용한다' 뒤에 목적 to take pictures를 붙여요.",
+   "e": "'이 앱을 사용한다' 뒤에 목적 to study English를 붙여요.",
    "ref": "1. 목적 — ~하기 위해서, ~하러"
   }
  ]
