@@ -249,18 +249,19 @@
   {
    "id": "1-23-b01",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>나는 새로운 것을 해 보고 싶다.<br>I want to try ____ ____.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>그녀는 따뜻한 것을 먹고 싶어 한다.<br>She wants to eat ____ ____.",
    "ans": [
-    "something new"
+    "something warm",
+    "something hot"
    ],
-   "e": "'새로운 것'은 something 뒤에 형용사 new를 써서 something new예요.",
+   "e": "'따뜻한 것'은 something 뒤에 형용사 warm을 써서 something warm이에요.",
    "ref": "핵심 개념"
   },
   {
    "id": "1-23-b02",
    "type": "blank",
-   "q": "괄호 안의 말을 알맞은 순서로 빈칸에 쓰세요.<br>There is ____ ____ today. (special, nothing)",
-   "ko": "오늘은 특별한 것이 없다.",
+   "q": "괄호 안의 말을 알맞은 순서로 빈칸에 쓰세요.<br>I did ____ ____ last weekend. (special, nothing)",
+   "ko": "나는 지난 주말에 특별한 일을 아무것도 하지 않았다.",
    "ans": [
     "nothing special"
    ],
@@ -270,8 +271,8 @@
   {
    "id": "1-23-b03",
    "type": "blank",
-   "q": "괄호 안의 말을 알맞은 순서로 빈칸에 쓰세요.<br>Is there ____ ____ in the newspaper? (interesting, anything)",
-   "ko": "신문에 뭔가 흥미로운 게 있니?",
+   "q": "괄호 안의 말을 알맞은 순서로 빈칸에 쓰세요.<br>Did you read ____ ____ in the book? (interesting, anything)",
+   "ko": "책에서 뭔가 흥미로운 것을 읽었니?",
    "ans": [
     "anything interesting"
    ],
@@ -281,18 +282,18 @@
   {
    "id": "1-23-b04",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>나는 차가운 것을 원한다.<br>I want ____ ____.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>그는 시장에서 싼 것을 샀다.<br>He bought ____ ____ at the market.",
    "ans": [
-    "something cold"
+    "something cheap"
    ],
-   "e": "'차가운 것'은 something cold예요. cold something은 틀려요.",
+   "e": "'싼 것'은 something cheap이에요. cheap something은 틀려요.",
    "ref": "핵심 개념 — ⚠️ 주의!"
   },
   {
    "id": "1-23-b05",
    "type": "blank",
-   "q": "괄호 안의 말을 알맞은 순서로 빈칸에 쓰세요.<br>Did you meet ____ ____? (new, anyone)",
-   "ko": "새로운 사람 누구 만났니?",
+   "q": "괄호 안의 말을 알맞은 순서로 빈칸에 쓰세요.<br>Did you invite ____ ____ to the party? (new, anyone)",
+   "ko": "너는 파티에 새로운 사람을 초대했니?",
    "ans": [
     "anyone new"
    ],
@@ -302,11 +303,11 @@
   {
    "id": "1-23-b06",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어, funny 이용)<br>그는 재미있는 것을 말했다.<br>He said ____ ____.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어, strange 이용)<br>그들은 하늘에서 이상한 것을 보았다.<br>They saw ____ ____ in the sky.",
    "ans": [
-    "something funny"
+    "something strange"
    ],
-   "e": "'재미있는 것'은 something 뒤에 형용사 funny를 써서 something funny예요.",
+   "e": "'이상한 것'은 something 뒤에 형용사 strange를 써서 something strange예요.",
    "ref": "핵심 개념"
   },
   {
@@ -384,82 +385,83 @@
   {
    "id": "1-23-a01",
    "type": "arrange",
-   "ko": "나는 새로운 것을 해 보고 싶다.",
+   "ko": "우리는 오늘 중요한 것을 배웠다.",
    "words": [
-    "new",
-    "want to try",
-    "I",
+    "important",
+    "We learned",
+    "today",
     "something"
    ],
    "ans": [
-    "I want to try something new."
+    "We learned something important today.",
+    "Today we learned something important."
    ],
-   "e": "something 뒤에 형용사 new를 써요.",
+   "e": "something 뒤에 형용사 important를 써요.",
    "ref": "핵심 개념"
   },
   {
    "id": "1-23-a02",
    "type": "arrange",
-   "ko": "오늘은 특별한 것이 없다.",
+   "ko": "상자 안에 새로운 것은 없다.",
    "words": [
-    "special",
+    "new",
     "There is",
-    "today",
+    "in the box",
     "nothing"
    ],
    "ans": [
-    "There is nothing special today.",
-    "Today there is nothing special."
+    "There is nothing new in the box.",
+    "In the box there is nothing new."
    ],
-   "e": "nothing 뒤에 형용사 special을 써요. There is + nothing special + today 순서예요.",
+   "e": "nothing 뒤에 형용사 new를 써요. There is + nothing new + 장소 순서예요.",
    "ref": "핵심 개념"
   },
   {
    "id": "1-23-a03",
    "type": "arrange",
-   "ko": "새로운 사람 누구 만났니?",
+   "ko": "너는 공항에서 유명한 사람을 봤니?",
    "words": [
-    "anyone",
-    "Did you",
-    "new",
-    "meet"
+    "famous",
+    "Did you see",
+    "at the airport",
+    "anyone"
    ],
    "ans": [
-    "Did you meet anyone new?"
+    "Did you see anyone famous at the airport?"
    ],
-   "e": "-one으로 끝나는 대명사도 형용사가 뒤에 와요. anyone new 순서예요.",
+   "e": "-one으로 끝나는 대명사도 형용사가 뒤에 와요. anyone famous 순서예요.",
    "ref": "핵심 개념"
   },
   {
    "id": "1-23-a04",
    "type": "arrange",
-   "ko": "신문에 뭔가 흥미로운 게 있니?",
+   "ko": "냉장고에 맛있는 것이 있니?",
    "words": [
-    "interesting",
-    "in the newspaper",
+    "delicious",
     "Is there",
+    "in the fridge",
     "anything"
    ],
    "ans": [
-    "Is there anything interesting in the newspaper?"
+    "Is there anything delicious in the fridge?"
    ],
-   "e": "anything 뒤에 형용사 interesting을 써요.",
+   "e": "anything 뒤에 형용사 delicious를 써요.",
    "ref": "핵심 개념"
   },
   {
    "id": "1-23-a05",
    "type": "arrange",
-   "ko": "나는 차가운 것을 원한다.",
+   "ko": "내 남동생은 매운 것을 원한다.",
    "words": [
-    "cold",
-    "I",
+    "spicy",
+    "My brother",
     "something",
-    "want"
+    "wants"
    ],
    "ans": [
-    "I want something cold."
+    "My brother wants something spicy."
    ],
-   "e": "형용사 cold는 something 뒤에 써요. cold something은 틀려요.",
+   "e": "형용사 spicy는 something 뒤에 써요. spicy something은 틀려요.",
    "ref": "핵심 개념 — ⚠️ 주의!"
   },
   {
