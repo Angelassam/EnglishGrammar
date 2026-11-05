@@ -1,0 +1,454 @@
+{
+ "unit": "1-06",
+ "grade": 1,
+ "title": "조동사 must·should·have to",
+ "source": "06_조동사_must_should_have_to.md — Part 1. 중1 기초",
+ "questions": [
+  {
+   "id": "1-06-c01",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>너는 복도에서 뛰면 안 된다.<br>You ____ run in the hallway.",
+   "o": [
+    "must not",
+    "must",
+    "should",
+    "have to",
+    "had to"
+   ],
+   "a": 0,
+   "e": "'~하면 안 된다'는 금지의 뜻이라 must not을 써요. must, have to는 '~해야 한다'예요.",
+   "ref": "1. must — 의무"
+  },
+  {
+   "id": "1-06-c02",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>그녀는 버스를 타야 한다.<br>She ____ take the bus.",
+   "o": [
+    "has to",
+    "have to",
+    "having to",
+    "has",
+    "to have"
+   ],
+   "a": 0,
+   "e": "have to는 주어가 He / She / It일 때 has to로 바뀌어요.",
+   "ref": "2. have to — 의무"
+  },
+  {
+   "id": "1-06-c03",
+   "type": "choice",
+   "q": "빈칸에 알맞은 말을 고르세요.<br>Students must ____ quiet in the library.",
+   "o": [
+    "be",
+    "are",
+    "is",
+    "to be",
+    "being"
+   ],
+   "a": 0,
+   "e": "조동사 must 뒤에는 동사원형이 와요. are, is의 동사원형은 be예요.",
+   "ref": "주의! 조동사 뒤는 동사원형"
+  },
+  {
+   "id": "1-06-c04",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>나는 어제 한 시간 동안 기다려야 했다.<br>I ____ wait for an hour yesterday.",
+   "o": [
+    "had to",
+    "have to",
+    "has to",
+    "must",
+    "should"
+   ],
+   "a": 0,
+   "e": "'~해야 했다'는 과거라서 had to를 써요. must는 과거형이 없어서 had to를 빌려 써요.",
+   "ref": "2. have to — 과거 had to"
+  },
+  {
+   "id": "1-06-c05",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>너는 규칙적으로 운동하는 게 좋겠다.<br>You ____ regularly.",
+   "o": [
+    "should exercise",
+    "should exercises",
+    "should to exercise",
+    "shoulds exercise",
+    "exercise should"
+   ],
+   "a": 0,
+   "e": "충고는 should로 나타내고, should 뒤에는 동사원형이 와요. should는 주어에 따라 모양이 바뀌지 않아요.",
+   "ref": "3. should — 충고·조언"
+  },
+  {
+   "id": "1-06-c06",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>내가 그녀에게 전화하는 게 좋을까?<br>____ I call her?",
+   "o": [
+    "Should",
+    "Am",
+    "Does",
+    "Is",
+    "Has"
+   ],
+   "a": 0,
+   "e": "'~하는 게 좋을까?'는 Should를 문장 맨 앞에 써서 물어봐요. Should + 주어 + 동사원형 ~?",
+   "ref": "3. should — 의문문"
+  },
+  {
+   "id": "1-06-c07",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>Tom은 내일까지 숙제를 끝내야 한다.<br>Tom ____ finish his homework by tomorrow.",
+   "o": [
+    "has to",
+    "have to",
+    "had to",
+    "must to",
+    "should to"
+   ],
+   "a": 0,
+   "e": "주어 Tom은 3인칭 단수라서 has to를 써요. must와 should 뒤에는 to를 쓰지 않아요.",
+   "ref": "2. have to — 의무"
+  },
+  {
+   "id": "1-06-c08",
+   "type": "choice",
+   "q": "대화의 빈칸에 알맞은 말을 고르세요.<br>A: I have a bad cold.<br>B: You ____ see a doctor.",
+   "o": [
+    "should",
+    "shouldn't",
+    "must not",
+    "should to",
+    "must to"
+   ],
+   "a": 0,
+   "e": "감기가 심한 친구에게 '병원에 가 보는 게 좋겠다'고 충고하는 말이라 should를 써요.",
+   "ref": "3. should — 충고·조언"
+  },
+  {
+   "id": "1-06-c09",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>너는 늦게까지 깨어 있지 않는 게 좋겠다.<br>You ____ stay up late.",
+   "o": [
+    "shouldn't",
+    "should",
+    "must",
+    "have to",
+    "has to"
+   ],
+   "a": 0,
+   "e": "'~하지 않는 게 좋겠다'는 should의 부정형 shouldn't로 써요.",
+   "ref": "3. should — 충고·조언"
+  },
+  {
+   "id": "1-06-c10",
+   "type": "choice",
+   "q": "밑줄 친 부분과 바꿔 쓸 수 있는 것을 고르세요.<br>You <u>must</u> finish this today.",
+   "o": [
+    "have to",
+    "has to",
+    "should not",
+    "must not",
+    "had"
+   ],
+   "a": 0,
+   "e": "have to는 must와 같은 '~해야 한다'라는 뜻이에요. 주어가 You라서 has to가 아니라 have to를 써요.",
+   "ref": "2. have to — 의무 (must와 같은 뜻)"
+  },
+  {
+   "id": "1-06-c11",
+   "type": "choice",
+   "q": "다음 중 어법상 옳은 문장을 고르세요.",
+   "o": [
+    "She has to wear a uniform.",
+    "She have to wear a uniform.",
+    "She has to wears a uniform.",
+    "She must to wear a uniform.",
+    "She shoulds wear a uniform."
+   ],
+   "a": 0,
+   "e": "주어가 She라서 has to를 쓰고, 그 뒤에는 동사원형 wear가 와요.",
+   "ref": "2. have to / 주의! 조동사 뒤는 동사원형"
+  },
+  {
+   "id": "1-06-e01",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "She must finishes it.",
+    "You must wear a seat belt.",
+    "He has to take the bus.",
+    "You should exercise regularly.",
+    "I had to wait for an hour."
+   ],
+   "a": 0,
+   "e": "조동사 뒤는 동사원형이라 finishes가 아니라 finish를 써야 해요. → She must finish it.",
+   "ref": "주의! 조동사 뒤는 동사원형"
+  },
+  {
+   "id": "1-06-e02",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "He should to go now.",
+    "Should I call her?",
+    "Students must be quiet in the library.",
+    "We have to clean our room.",
+    "You must not run in the hallway."
+   ],
+   "a": 0,
+   "e": "should 뒤에는 to 없이 동사원형이 와요. → He should go now.",
+   "ref": "주의! 조동사 뒤는 동사원형"
+  },
+  {
+   "id": "1-06-e03",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "My brother have to walk the dog.",
+    "I have to finish this by tomorrow.",
+    "You shouldn't eat too much candy.",
+    "They must follow the rules.",
+    "She has to get up early."
+   ],
+   "a": 0,
+   "e": "주어 My brother는 3인칭 단수라서 have to가 아니라 has to를 써야 해요.",
+   "ref": "2. have to — 주어에 따른 형태"
+  },
+  {
+   "id": "1-06-e04",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "Jimin must stays home today.",
+    "You should drink more water.",
+    "They had to run to the station.",
+    "You must not touch the painting.",
+    "She should go to bed early."
+   ],
+   "a": 0,
+   "e": "must 뒤에는 동사원형이 와야 해서 stays가 아니라 stay를 써요.",
+   "ref": "주의! 조동사 뒤는 동사원형"
+  },
+  {
+   "id": "1-06-b01",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요.<br>He ____ clean his room. (have to)",
+   "ko": "그는 자기 방을 청소해야 한다.",
+   "ans": [
+    "has to"
+   ],
+   "e": "주어가 He라서 have to가 has to로 바뀌어요.",
+   "ref": "2. have to — 주어에 따른 형태"
+  },
+  {
+   "id": "1-06-b02",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>너는 여기서 사진을 찍으면 안 된다.<br>You ____ ____ take pictures here.",
+   "ans": [
+    "must not"
+   ],
+   "e": "'~하면 안 된다'는 금지라서 must not을 써요.",
+   "ref": "1. must — 부정 must not"
+  },
+  {
+   "id": "1-06-b03",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>우리는 어제 일찍 떠나야 했다.<br>We ____ ____ leave early yesterday.",
+   "ans": [
+    "had to"
+   ],
+   "e": "과거의 의무는 had to로 써요. must는 과거형이 없어요.",
+   "ref": "2. have to — 과거 had to"
+  },
+  {
+   "id": "1-06-b04",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 조동사를 쓰세요. (한 단어)<br>너는 매일 아침을 먹는 게 좋겠다.<br>You ____ eat breakfast every day.",
+   "ans": [
+    "should"
+   ],
+   "e": "'~하는 게 좋겠다'는 충고·조언이라 should를 써요.",
+   "ref": "3. should — 충고·조언"
+  },
+  {
+   "id": "1-06-b05",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>그 아이들은 9시까지 집에 와야 한다.<br>The children ____ ____ come home by nine.",
+   "ans": [
+    "have to"
+   ],
+   "e": "빈칸이 두 개이고 주어 The children이 복수라서 have to를 써요.",
+   "ref": "2. have to — 의무"
+  },
+  {
+   "id": "1-06-b06",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 빈칸에 쓰세요.<br>Students must ____ a school uniform. (wear)",
+   "ko": "학생들은 교복을 입어야 한다.",
+   "ans": [
+    "wear"
+   ],
+   "e": "must 뒤에는 동사원형이 오니까 wear를 그대로 써요.",
+   "ref": "주의! 조동사 뒤는 동사원형"
+  },
+  {
+   "id": "1-06-f01",
+   "type": "fix",
+   "q": "She must finishes her homework.",
+   "wrong": "finishes",
+   "ko": "그녀는 숙제를 끝내야 한다.",
+   "ans": [
+    "finish"
+   ],
+   "e": "조동사 must 뒤에는 동사원형이 와요. finishes → finish",
+   "ref": "주의! 조동사 뒤는 동사원형"
+  },
+  {
+   "id": "1-06-f02",
+   "type": "fix",
+   "q": "He should to go home now.",
+   "wrong": "to go",
+   "ko": "그는 지금 집에 가는 게 좋겠다.",
+   "ans": [
+    "go"
+   ],
+   "e": "should 뒤에는 to 없이 동사원형이 와요. to go → go",
+   "ref": "주의! 조동사 뒤는 동사원형"
+  },
+  {
+   "id": "1-06-f03",
+   "type": "fix",
+   "q": "My sister have to take the bus.",
+   "wrong": "have to",
+   "ko": "우리 언니는 버스를 타야 한다.",
+   "ans": [
+    "has to"
+   ],
+   "e": "주어 My sister는 3인칭 단수라서 has to를 써요.",
+   "ref": "2. have to — 주어에 따른 형태"
+  },
+  {
+   "id": "1-06-f04",
+   "type": "fix",
+   "q": "I must wait for an hour yesterday.",
+   "wrong": "must",
+   "ko": "나는 어제 한 시간 동안 기다려야 했다.",
+   "ans": [
+    "had to"
+   ],
+   "e": "yesterday가 있는 과거 문장이에요. must는 과거형이 없어서 had to를 써요.",
+   "ref": "2. have to — 과거 had to"
+  },
+  {
+   "id": "1-06-f05",
+   "type": "fix",
+   "q": "Tom shoulds be careful.",
+   "wrong": "shoulds",
+   "ko": "Tom은 조심하는 게 좋겠다.",
+   "ans": [
+    "should"
+   ],
+   "e": "조동사 should는 주어가 3인칭 단수여도 -s를 붙이지 않아요.",
+   "ref": "3. should — 충고·조언"
+  },
+  {
+   "id": "1-06-a01",
+   "type": "arrange",
+   "ko": "너는 안전벨트를 매야 한다.",
+   "words": [
+    "wear",
+    "must",
+    "You",
+    "a seat belt"
+   ],
+   "ans": [
+    "You must wear a seat belt."
+   ],
+   "e": "주어 + must + 동사원형 순서로 써요.",
+   "ref": "1. must — 의무"
+  },
+  {
+   "id": "1-06-a02",
+   "type": "arrange",
+   "ko": "학생들은 도서관에서 조용히 해야 한다.",
+   "words": [
+    "quiet",
+    "must",
+    "Students",
+    "be",
+    "in the library"
+   ],
+   "ans": [
+    "Students must be quiet in the library."
+   ],
+   "e": "must 뒤에 동사원형 be를 쓰고, 그 뒤에 quiet를 써요.",
+   "ref": "1. must — 의무"
+  },
+  {
+   "id": "1-06-a03",
+   "type": "arrange",
+   "ko": "너는 복도에서 뛰면 안 된다.",
+   "words": [
+    "not",
+    "run",
+    "You",
+    "must",
+    "in the hallway"
+   ],
+   "ans": [
+    "You must not run in the hallway."
+   ],
+   "e": "금지는 must not + 동사원형 순서로 써요.",
+   "ref": "1. must — 부정 must not"
+  },
+  {
+   "id": "1-06-a04",
+   "type": "arrange",
+   "ko": "그녀는 버스를 타야 한다.",
+   "words": [
+    "has",
+    "take",
+    "She",
+    "to",
+    "the bus"
+   ],
+   "ans": [
+    "She has to take the bus."
+   ],
+   "e": "주어가 She라서 has to + 동사원형으로 써요.",
+   "ref": "2. have to — 의무"
+  },
+  {
+   "id": "1-06-a05",
+   "type": "arrange",
+   "ko": "내가 그녀에게 전화하는 게 좋을까?",
+   "words": [
+    "I",
+    "call",
+    "Should",
+    "her"
+   ],
+   "ans": [
+    "Should I call her?"
+   ],
+   "e": "의문문은 Should + 주어 + 동사원형 ~? 순서예요.",
+   "ref": "3. should — 의문문"
+  },
+  {
+   "id": "1-06-a06",
+   "type": "arrange",
+   "ko": "너는 늦게까지 깨어 있지 않는 게 좋겠다.",
+   "words": [
+    "stay up",
+    "late",
+    "shouldn't",
+    "You"
+   ],
+   "ans": [
+    "You shouldn't stay up late."
+   ],
+   "e": "shouldn't + 동사원형 순서로 써요.",
+   "ref": "3. should — 충고·조언"
+  }
+ ]
+}
