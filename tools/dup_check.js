@@ -9,7 +9,7 @@ function sentences(q){
   const eng=s=>norm(s).split(' ').filter(w=>/^[a-z0-9']+$/.test(w)).length>=4;
   if(q.type==='choice'){ const s=q.q.replace(/____/g,q.o[q.a]); for(const seg of s.split('<br>')) if(eng(seg)) out.push(norm(seg)); }
   else if(q.type==='error'){ q.o.forEach((o,i)=>{ if(i!==q.a&&eng(o)) out.push(norm(o)); }); }
-  else if(q.type==='blank'){ for(const a of q.ans){ const s=q.q.replace(/____( ____)*/,a).replace(/\(\S+\)\s*$/,''); for(const seg of s.split('<br>')) if(eng(seg)) out.push(norm(seg)); } }
+  else if(q.type==='blank'){ for(const a of q.ans){ const s=q.q.replace(/____( ____)*/,a).replace(/\([^)]*\)\s*$/,''); for(const seg of s.split('<br>')) if(eng(seg)) out.push(norm(seg)); } }
   else if(q.type==='fix'){ for(const a of q.ans){ const s=q.q.replace(q.wrong,a); if(eng(s)) out.push(norm(s)); } }
   else if(q.type==='arrange'){ for(const a of q.ans) if(eng(a)) out.push(norm(a)); }
   return [...new Set(out)];
