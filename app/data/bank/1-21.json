@@ -1,0 +1,509 @@
+{
+ "unit": "1-21",
+ "grade": 1,
+ "title": "부사절 접속사 when·before·after·because",
+ "source": "21_부사절_접속사.md — Part 1. 중1 기초",
+ "questions": [
+  {
+   "id": "1-21-c01",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>나는 어렸을 때, 부산에 살았다.<br>____ I was young, I lived in Busan.",
+   "o": [
+    "When",
+    "Because",
+    "Before",
+    "After",
+    "That"
+   ],
+   "a": 0,
+   "e": "'~할 때'는 when을 써요. because는 '~ 때문에', before/after는 '~하기 전에/~한 후에'예요.",
+   "ref": "1. when — ~할 때"
+  },
+  {
+   "id": "1-21-c02",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>나는 버스를 놓쳐서 늦었다.<br>I was late ____ I missed the bus.",
+   "o": [
+    "because",
+    "when",
+    "before",
+    "after",
+    "and"
+   ],
+   "a": 0,
+   "e": "'버스를 놓쳐서'는 늦은 이유라서 because를 써요.",
+   "ref": "3. because — ~ 때문에 (이유)"
+  },
+  {
+   "id": "1-21-c03",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>먹기 전에 손을 씻어라.<br>Wash your hands ____ you eat.",
+   "o": [
+    "before",
+    "after",
+    "because",
+    "when",
+    "that"
+   ],
+   "a": 0,
+   "e": "'~하기 전에'는 before예요. after는 '~한 후에'라서 뜻이 반대가 돼요.",
+   "ref": "2. before / after — ~하기 전에 / ~한 후에"
+  },
+  {
+   "id": "1-21-c04",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>그녀는 숙제를 끝낸 후에 영화를 봤다.<br>____ she finished her homework, she watched a movie.",
+   "o": [
+    "After",
+    "Before",
+    "Because",
+    "But",
+    "That"
+   ],
+   "a": 0,
+   "e": "'~한 후에'는 after예요. before는 '~하기 전에'예요.",
+   "ref": "2. before / after — ~하기 전에 / ~한 후에"
+  },
+  {
+   "id": "1-21-c05",
+   "type": "choice",
+   "q": "빈칸에 알맞은 말을 고르세요.<br>When he ____ back, I'll tell him.",
+   "ko": "그가 돌아오면 내가 그에게 말할게.",
+   "o": [
+    "comes",
+    "will come",
+    "come",
+    "coming",
+    "is come"
+   ],
+   "a": 0,
+   "e": "시간의 부사절(when ~)에서는 미래의 일도 현재시제로 써요. 주어가 he라서 comes예요.",
+   "ref": "4. 시간의 부사절은 미래도 현재시제로!"
+  },
+  {
+   "id": "1-21-c06",
+   "type": "choice",
+   "q": "대화의 빈칸에 알맞은 말을 고르세요.<br>A: Why were you late?<br>B: ____ I missed the bus.",
+   "o": [
+    "Because",
+    "When",
+    "Before",
+    "After",
+    "That"
+   ],
+   "a": 0,
+   "e": "Why ~? 질문에는 이유를 나타내는 Because로 대답해요.",
+   "ref": "3. because — ~ 때문에 (이유)"
+  },
+  {
+   "id": "1-21-c07",
+   "type": "choice",
+   "q": "다음 중 어법상 옳은 문장을 고르세요.",
+   "o": [
+    "I'll call you when I get home.",
+    "I'll call you when I will get home.",
+    "I'll call you when I getting home.",
+    "I'll call you when I gets home.",
+    "I'll call you when get I home."
+   ],
+   "a": 0,
+   "e": "시간의 부사절에서는 미래의 일도 현재시제로 써요. 주어가 I라서 get을 그대로 써요.",
+   "ref": "4. 시간의 부사절은 미래도 현재시제로!"
+  },
+  {
+   "id": "1-21-c08",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>그녀는 시험에 합격해서 기뻤다.<br>She was happy ____ she passed the test.",
+   "o": [
+    "because",
+    "before",
+    "after",
+    "but",
+    "or"
+   ],
+   "a": 0,
+   "e": "'시험에 합격해서'는 기쁜 이유라서 because를 써요.",
+   "ref": "3. because — ~ 때문에 (이유)"
+  },
+  {
+   "id": "1-21-c09",
+   "type": "choice",
+   "q": "다음 문장과 뜻이 같은 것을 고르세요.<br>I lived in Busan when I was young.",
+   "o": [
+    "When I was young, I lived in Busan.",
+    "Because I was young, I lived in Busan.",
+    "Before I was young, I lived in Busan.",
+    "After I was young, I lived in Busan.",
+    "I was young, I lived in Busan when."
+   ],
+   "a": 0,
+   "e": "부사절(when ~)과 주절의 순서를 바꿔도 뜻은 같아요. 부사절이 앞에 오면 콤마(,)를 찍어요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-21-c10",
+   "type": "choice",
+   "q": "다음 문장의 뜻으로 알맞은 것을 고르세요.<br>Wash your hands before you eat.",
+   "o": [
+    "먹기 전에 손을 씻어라.",
+    "먹은 후에 손을 씻어라.",
+    "먹을 때 손을 씻어라.",
+    "먹기 때문에 손을 씻어라.",
+    "손을 씻기 전에 먹어라."
+   ],
+   "a": 0,
+   "e": "before는 '~하기 전에'라는 뜻이에요. before you eat = 네가 먹기 전에",
+   "ref": "2. before / after — ~하기 전에 / ~한 후에"
+  },
+  {
+   "id": "1-21-c11",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>비가 올 때, 우리는 실내에 머문다.<br>____ it rains, we stay inside.",
+   "o": [
+    "When",
+    "Before",
+    "After",
+    "Because",
+    "But"
+   ],
+   "a": 0,
+   "e": "'~할 때'는 when을 써요. 부사절이 앞에 와서 콤마(,)를 찍었어요.",
+   "ref": "1. when — ~할 때"
+  },
+  {
+   "id": "1-21-c12",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>나는 숙제를 끝낸 후에 TV를 볼 것이다.<br>I will watch TV after I ____ my homework.",
+   "o": [
+    "finish",
+    "will finish",
+    "finishing",
+    "to finish",
+    "finishes"
+   ],
+   "a": 0,
+   "e": "시간의 부사절(after ~)에서는 미래의 일도 현재시제로 써요. will finish는 쓸 수 없어요.",
+   "ref": "4. 시간의 부사절은 미래도 현재시제로!"
+  },
+  {
+   "id": "1-21-e01",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "When he will come back, I'll tell him.",
+    "When I was young, I lived in Busan.",
+    "Wash your hands before you eat.",
+    "I was late because I missed the bus.",
+    "After she finished her homework, she watched a movie."
+   ],
+   "a": 0,
+   "e": "시간의 부사절에서는 미래의 일도 현재시제로 써요. → When he comes back, I'll tell him.",
+   "ref": "4. 시간의 부사절은 미래도 현재시제로!"
+  },
+  {
+   "id": "1-21-e02",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "I'll go out after the rain will stop.",
+    "Please turn off the light when you leave.",
+    "She was happy because she passed the test.",
+    "When it rains, we stay inside.",
+    "Before you go to bed, brush your teeth."
+   ],
+   "a": 0,
+   "e": "after가 이끄는 시간의 부사절에서는 미래의 일도 현재시제로 써요. → I'll go out after the rain stops.",
+   "ref": "4. 시간의 부사절은 미래도 현재시제로!"
+  },
+  {
+   "id": "1-21-e03",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "I stayed home because was I sick.",
+    "Call me when you arrive at the station.",
+    "He was tired because he ran a lot.",
+    "I read a book before I went to sleep.",
+    "After we ate dinner, we took a walk."
+   ],
+   "a": 0,
+   "e": "because 뒤에는 주어 + 동사 순서로 써요. → I stayed home because I was sick.",
+   "ref": "3. because — ~ 때문에 (이유)"
+  },
+  {
+   "id": "1-21-e04",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "We will have lunch when the class will end.",
+    "When I opened the door, my dog ran to me.",
+    "Because it was cold, I wore a coat.",
+    "She brushes her teeth after she eats.",
+    "Turn off the TV before you go out."
+   ],
+   "a": 0,
+   "e": "when이 이끄는 시간의 부사절에서는 will을 쓰지 않고 현재시제로 써요. → We will have lunch when the class ends.",
+   "ref": "4. 시간의 부사절은 미래도 현재시제로!"
+  },
+  {
+   "id": "1-21-b01",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>나는 버스를 놓쳐서 늦었다.<br>I was late ____ I missed the bus.",
+   "ans": [
+    "because"
+   ],
+   "e": "'~해서, ~ 때문에'라는 이유는 because로 나타내요.",
+   "ref": "3. because — ~ 때문에 (이유)"
+  },
+  {
+   "id": "1-21-b02",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요.<br>When he ____ back, I'll tell him. (come)",
+   "ko": "그가 돌아오면 내가 그에게 말할게.",
+   "ans": [
+    "comes"
+   ],
+   "e": "시간의 부사절에서는 미래의 일도 현재시제로 써요. 주어가 he라서 comes예요.",
+   "ref": "4. 시간의 부사절은 미래도 현재시제로!"
+  },
+  {
+   "id": "1-21-b03",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>먹기 전에 손을 씻어라.<br>Wash your hands ____ you eat.",
+   "ans": [
+    "before"
+   ],
+   "e": "'~하기 전에'는 before를 써요.",
+   "ref": "2. before / after — ~하기 전에 / ~한 후에"
+  },
+  {
+   "id": "1-21-b04",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>그녀는 숙제를 끝낸 후에 영화를 봤다.<br>____ she finished her homework, she watched a movie.",
+   "ans": [
+    "After"
+   ],
+   "e": "'~한 후에'는 after를 써요. 부사절이 앞에 와서 콤마(,)를 찍어요.",
+   "ref": "2. before / after — ~하기 전에 / ~한 후에"
+  },
+  {
+   "id": "1-21-b05",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>비가 올 때, 우리는 실내에 머문다.<br>____ it rains, we stay inside.",
+   "ans": [
+    "When"
+   ],
+   "e": "'~할 때'는 when을 써요.",
+   "ref": "1. when — ~할 때"
+  },
+  {
+   "id": "1-21-b06",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 빈칸에 쓰세요.<br>I will call you when I ____ home. (get)",
+   "ko": "내가 집에 도착하면 너에게 전화할게.",
+   "ans": [
+    "get"
+   ],
+   "e": "시간의 부사절(when ~)에서는 미래의 일도 현재시제로 써요. will get이 아니라 get이에요.",
+   "ref": "4. 시간의 부사절은 미래도 현재시제로!"
+  },
+  {
+   "id": "1-21-b07",
+   "type": "blank",
+   "q": "대화의 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>A: Why were you late?<br>B: ____ I missed the bus.",
+   "ko": "A: 너는 왜 늦었니? B: 버스를 놓쳤기 때문이야.",
+   "ans": [
+    "Because"
+   ],
+   "e": "Why ~? 질문에는 이유를 나타내는 Because로 대답해요.",
+   "ref": "3. because — ~ 때문에 (이유)"
+  },
+  {
+   "id": "1-21-f01",
+   "type": "fix",
+   "q": "When he will come back, I'll tell him.",
+   "wrong": "will come",
+   "ko": "그가 돌아오면 내가 그에게 말할게.",
+   "ans": [
+    "comes"
+   ],
+   "e": "시간의 부사절에서는 미래의 일도 현재시제로 써요. will come → comes",
+   "ref": "4. 시간의 부사절은 미래도 현재시제로!"
+  },
+  {
+   "id": "1-21-f02",
+   "type": "fix",
+   "q": "I was late because I miss the bus.",
+   "wrong": "miss",
+   "ko": "나는 버스를 놓쳐서 늦었다.",
+   "ans": [
+    "missed"
+   ],
+   "e": "주절이 과거(was)이고 버스를 놓친 것도 과거의 일이라 missed로 써요. miss → missed",
+   "ref": "3. because — ~ 때문에 (이유)"
+  },
+  {
+   "id": "1-21-f03",
+   "type": "fix",
+   "q": "Before you eats, wash your hands.",
+   "wrong": "eats",
+   "ko": "먹기 전에 손을 씻어라.",
+   "ans": [
+    "eat"
+   ],
+   "e": "주어가 you라서 동사에 -s를 붙이지 않아요. eats → eat",
+   "ref": "2. before / after — ~하기 전에 / ~한 후에"
+  },
+  {
+   "id": "1-21-f04",
+   "type": "fix",
+   "q": "We'll go on a picnic when the weather will be nice.",
+   "wrong": "will be",
+   "ko": "날씨가 좋을 때 우리는 소풍을 갈 거야.",
+   "ans": [
+    "is"
+   ],
+   "e": "시간의 부사절(when ~)에서는 미래의 일도 현재시제로 써요. will be → is",
+   "ref": "4. 시간의 부사절은 미래도 현재시제로!"
+  },
+  {
+   "id": "1-21-f05",
+   "type": "fix",
+   "q": "She was happy because passed the test.",
+   "wrong": "because passed",
+   "ko": "그녀는 시험에 합격해서 기뻤다.",
+   "ans": [
+    "because she passed"
+   ],
+   "e": "because 뒤에는 주어 + 동사가 와야 해요. 주어 she가 빠졌어요. because passed → because she passed",
+   "ref": "3. because — ~ 때문에 (이유)"
+  },
+  {
+   "id": "1-21-f06",
+   "type": "fix",
+   "q": "After she finish her homework, she watched a movie.",
+   "wrong": "finish",
+   "ko": "그녀는 숙제를 끝낸 후에 영화를 봤다.",
+   "ans": [
+    "finished"
+   ],
+   "e": "과거의 일이라 부사절의 동사도 과거형으로 써요. finish → finished",
+   "ref": "2. before / after — ~하기 전에 / ~한 후에"
+  },
+  {
+   "id": "1-21-f07",
+   "type": "fix",
+   "q": "I lived in Busan because I was young.",
+   "wrong": "because",
+   "ko": "나는 어렸을 때 부산에 살았다.",
+   "ans": [
+    "when"
+   ],
+   "e": "'어렸을 때'는 시간을 나타내므로 because가 아니라 when을 써요. because → when",
+   "ref": "1. when — ~할 때"
+  },
+  {
+   "id": "1-21-a01",
+   "type": "arrange",
+   "ko": "나는 어렸을 때, 부산에 살았다.",
+   "words": [
+    "I lived",
+    "When",
+    "in Busan",
+    "I was young"
+   ],
+   "ans": [
+    "When I was young, I lived in Busan.",
+    "I lived in Busan when I was young."
+   ],
+   "e": "When + 부사절, 주절 순서로 써요. 부사절이 앞에 오면 콤마(,)를 찍어요.",
+   "ref": "1. when — ~할 때"
+  },
+  {
+   "id": "1-21-a02",
+   "type": "arrange",
+   "ko": "먹기 전에 손을 씻어라.",
+   "words": [
+    "you eat",
+    "Wash",
+    "before",
+    "your hands"
+   ],
+   "ans": [
+    "Wash your hands before you eat.",
+    "Before you eat, wash your hands."
+   ],
+   "e": "명령문 Wash your hands 뒤에 before + 주어 + 동사를 이어 써요.",
+   "ref": "2. before / after — ~하기 전에 / ~한 후에"
+  },
+  {
+   "id": "1-21-a03",
+   "type": "arrange",
+   "ko": "나는 버스를 놓쳐서 늦었다.",
+   "words": [
+    "because",
+    "I was late",
+    "the bus",
+    "I missed"
+   ],
+   "ans": [
+    "I was late because I missed the bus.",
+    "Because I missed the bus, I was late."
+   ],
+   "e": "주절 I was late 뒤에 because + 주어 + 동사로 이유를 써요.",
+   "ref": "3. because — ~ 때문에 (이유)"
+  },
+  {
+   "id": "1-21-a04",
+   "type": "arrange",
+   "ko": "그가 돌아오면 내가 그에게 말할게.",
+   "words": [
+    "comes back",
+    "When",
+    "I'll tell him",
+    "he"
+   ],
+   "ans": [
+    "When he comes back, I'll tell him.",
+    "I'll tell him when he comes back."
+   ],
+   "e": "When + 주어 + 현재시제 동사, 주절 순서예요. 시간의 부사절은 미래도 현재시제로 써요.",
+   "ref": "4. 시간의 부사절은 미래도 현재시제로!"
+  },
+  {
+   "id": "1-21-a05",
+   "type": "arrange",
+   "ko": "그녀는 숙제를 끝낸 후에 영화를 봤다.",
+   "words": [
+    "she watched",
+    "After",
+    "her homework",
+    "she finished",
+    "a movie"
+   ],
+   "ans": [
+    "After she finished her homework, she watched a movie.",
+    "She watched a movie after she finished her homework."
+   ],
+   "e": "After + 주어 + 동사, 주절 순서로 써요. 부사절이 앞에 오면 콤마(,)를 찍어요.",
+   "ref": "2. before / after — ~하기 전에 / ~한 후에"
+  },
+  {
+   "id": "1-21-a06",
+   "type": "arrange",
+   "ko": "비가 올 때, 우리는 실내에 머문다.",
+   "words": [
+    "it rains",
+    "we",
+    "When",
+    "stay inside"
+   ],
+   "ans": [
+    "When it rains, we stay inside.",
+    "We stay inside when it rains."
+   ],
+   "e": "When + 주어 + 동사, 주절 순서로 써요.",
+   "ref": "1. when — ~할 때"
+  }
+ ]
+}

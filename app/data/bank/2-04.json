@@ -1,0 +1,573 @@
+{
+ "unit": "2-04",
+ "grade": 2,
+ "title": "현재완료",
+ "source": "04_현재완료.md (중2문법)",
+ "questions": [
+  {
+   "id": "2-04-c01",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>나는 막 숙제를 끝냈다.<br>I have just ____ my homework.",
+   "o": [
+    "finished",
+    "finish",
+    "finishing",
+    "to finish",
+    "finishes"
+   ],
+   "a": 0,
+   "e": "현재완료는 have/has + 과거분사(p.p.)예요. finish의 과거분사는 finished예요.",
+   "ref": "핵심 개념 / 1. 완료 용법"
+  },
+  {
+   "id": "2-04-c02",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>그녀는 5년째 여기에 살고 있다.<br>She ____ here for 5 years.",
+   "o": [
+    "has lived",
+    "have lived",
+    "is live",
+    "has live",
+    "living"
+   ],
+   "a": 0,
+   "e": "주어가 She라서 has + 과거분사 lived를 써요. 지금까지 계속 살고 있다는 '계속' 용법이에요.",
+   "ref": "핵심 개념 / 1. 계속 용법"
+  },
+  {
+   "id": "2-04-c03",
+   "type": "choice",
+   "q": "빈칸에 알맞은 말을 고르세요.<br>I have known her ____ 2020.",
+   "o": [
+    "since",
+    "for",
+    "ago",
+    "during",
+    "when"
+   ],
+   "a": 0,
+   "e": "2020은 시작 시점이라서 since를 써요. for 뒤에는 기간이 와요.",
+   "ref": "2. for vs since"
+  },
+  {
+   "id": "2-04-c04",
+   "type": "choice",
+   "q": "빈칸에 알맞은 말을 고르세요.<br>I have known her ____ three years.",
+   "o": [
+    "for",
+    "since",
+    "ago",
+    "at",
+    "when"
+   ],
+   "a": 0,
+   "e": "three years는 기간이라서 for를 써요.",
+   "ref": "2. for vs since"
+  },
+  {
+   "id": "2-04-c05",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>그녀는 부산에 가 버렸다. (그래서 지금 여기 없다)<br>She ____ Busan.",
+   "o": [
+    "has gone to",
+    "has been to",
+    "have gone to",
+    "has go to",
+    "is gone to"
+   ],
+   "a": 0,
+   "e": "'가 버려서 지금 여기 없다'는 결과는 has gone to로 써요. has been to는 '가 본 적이 있다'(경험)예요.",
+   "ref": "3. have been to vs have gone to"
+  },
+  {
+   "id": "2-04-c06",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>그녀는 부산에 가 본 적이 있다.<br>She ____ Busan.",
+   "o": [
+    "has been to",
+    "has gone to",
+    "have been to",
+    "is been to",
+    "has be to"
+   ],
+   "a": 0,
+   "e": "'~에 가 본 적이 있다'는 경험이라 has been to를 써요.",
+   "ref": "3. have been to vs have gone to"
+  },
+  {
+   "id": "2-04-c07",
+   "type": "choice",
+   "q": "빈칸에 알맞은 말을 고르세요.<br>I ____ Jeju last year.",
+   "o": [
+    "visited",
+    "have visited",
+    "has visited",
+    "have visit",
+    "visiting"
+   ],
+   "a": 0,
+   "e": "last year는 과거의 정확한 시점이라 현재완료와 함께 쓸 수 없어요. 과거시제 visited를 써요.",
+   "ref": "5. 현재완료 vs 과거시제"
+  },
+  {
+   "id": "2-04-c08",
+   "type": "choice",
+   "q": "빈칸에 알맞은 말을 고르세요.<br>When ____ you arrive?",
+   "ko": "너는 언제 도착했니?",
+   "o": [
+    "did",
+    "have",
+    "has",
+    "are",
+    "were"
+   ],
+   "a": 0,
+   "e": "When은 정확한 시점을 묻는 말이라 현재완료와 함께 못 써요. 과거시제 When did you arrive?로 써요.",
+   "ref": "5. 현재완료 vs 과거시제"
+  },
+  {
+   "id": "2-04-c09",
+   "type": "choice",
+   "q": "빈칸에 알맞은 말을 고르세요.<br>____ you ever eaten Thai food?",
+   "o": [
+    "Have",
+    "Did",
+    "Has",
+    "Do",
+    "Are"
+   ],
+   "a": 0,
+   "e": "현재완료 의문문은 Have/Has + 주어 + p.p. ~? 예요. 주어가 you라서 Have를 써요.",
+   "ref": "4. 부정문·의문문"
+  },
+  {
+   "id": "2-04-c10",
+   "type": "choice",
+   "q": "빈칸에 알맞은 말을 고르세요.<br>How long ____ you lived here?",
+   "o": [
+    "have",
+    "has",
+    "did",
+    "are",
+    "do"
+   ],
+   "a": 0,
+   "e": "주어가 you라서 have를 써요. How long + have/has + 주어 + p.p. ~? 로 '~한 지 얼마나 됐니?'를 물어요.",
+   "ref": "4. 의문사 의문문"
+  },
+  {
+   "id": "2-04-c11",
+   "type": "choice",
+   "q": "다음 문장의 현재완료 용법으로 알맞은 것을 고르세요.<br>I have been to Japan twice.",
+   "o": [
+    "경험",
+    "완료",
+    "계속",
+    "결과",
+    "진행"
+   ],
+   "a": 0,
+   "e": "twice(두 번)는 경험을 나타내는 신호어예요. '가 본 적이 있다'는 경험 용법이에요.",
+   "ref": "1. 네 가지 용법"
+  },
+  {
+   "id": "2-04-c12",
+   "type": "choice",
+   "q": "다음 문장의 현재완료 용법으로 알맞은 것을 고르세요.<br>I have lost my key.",
+   "o": [
+    "결과",
+    "경험",
+    "계속",
+    "완료",
+    "진행"
+   ],
+   "a": 0,
+   "e": "열쇠를 잃어버려서 지금 없다는 뜻이라 결과 용법이에요.",
+   "ref": "1. 네 가지 용법"
+  },
+  {
+   "id": "2-04-c13",
+   "type": "choice",
+   "q": "다음 문장의 현재완료 용법으로 알맞은 것을 고르세요.<br>He has lived in Seoul for 10 years.",
+   "o": [
+    "계속",
+    "경험",
+    "결과",
+    "완료",
+    "진행"
+   ],
+   "a": 0,
+   "e": "for 10 years는 '지금까지 계속'을 나타내요. 계속 용법이에요.",
+   "ref": "1. 네 가지 용법"
+  },
+  {
+   "id": "2-04-c14",
+   "type": "choice",
+   "q": "다음 중 현재완료의 용법이 나머지 넷과 <b>다른</b> 것을 고르세요.",
+   "o": [
+    "I have been to Japan twice.",
+    "Have you ever eaten Thai food?",
+    "I have visited Jeju before.",
+    "She has never seen snow.",
+    "He has lived in Seoul for 10 years."
+   ],
+   "a": 4,
+   "e": "He has lived in Seoul for 10 years.는 for가 있는 계속 용법이에요. 나머지는 twice, ever, before, never가 있는 경험 용법이에요.",
+   "ref": "1. 네 가지 용법"
+  },
+  {
+   "id": "2-04-c15",
+   "type": "choice",
+   "q": "빈칸에 알맞은 말을 고르세요.<br>Have you ever ____ a koala?",
+   "o": [
+    "seen",
+    "saw",
+    "see",
+    "seeing",
+    "sees"
+   ],
+   "a": 0,
+   "e": "현재완료에는 과거분사가 와요. see - saw - seen이라서 seen을 써요.",
+   "ref": "과거분사(p.p.) 만들기"
+  },
+  {
+   "id": "2-04-c16",
+   "type": "choice",
+   "q": "대화의 빈칸에 알맞은 말을 고르세요.<br>A: Have you finished your homework?<br>B: No, I ____.",
+   "o": [
+    "haven't",
+    "didn't",
+    "don't",
+    "hasn't",
+    "wasn't"
+   ],
+   "a": 0,
+   "e": "Have you ~?로 물으면 Yes, I have. / No, I haven't.로 대답해요.",
+   "ref": "4. 부정문·의문문"
+  },
+  {
+   "id": "2-04-e01",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "I have visited Jeju last year.",
+    "I have visited Jeju before.",
+    "She has lived here for 5 years.",
+    "I have just finished my homework.",
+    "Have you ever eaten Thai food?"
+   ],
+   "a": 0,
+   "e": "last year는 과거의 정확한 시점이라 현재완료와 쓸 수 없어요. → I visited Jeju last year.",
+   "ref": "5. 현재완료 vs 과거시제"
+  },
+  {
+   "id": "2-04-e02",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "When have you arrived?",
+    "How long have you lived here?",
+    "I haven't finished my homework yet.",
+    "He has gone to Busan.",
+    "We have known each other since 2020."
+   ],
+   "a": 0,
+   "e": "When은 현재완료와 함께 쓸 수 없어요. → When did you arrive?",
+   "ref": "5. 현재완료 vs 과거시제"
+  },
+  {
+   "id": "2-04-e03",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "She have lived here for 5 years.",
+    "I have lost my key.",
+    "They have been to Japan twice.",
+    "He has already eaten lunch.",
+    "I have known her for three years."
+   ],
+   "a": 0,
+   "e": "주어가 She라서 have가 아니라 has를 써야 해요. → She has lived here for 5 years.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "2-04-e04",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "I have known her since three years.",
+    "I have known her since 2020.",
+    "She has been to Busan.",
+    "Have you ever seen a koala?",
+    "I have read this book twice."
+   ],
+   "a": 0,
+   "e": "three years는 기간이라 since가 아니라 for를 써야 해요. → I have known her for three years.",
+   "ref": "2. for vs since"
+  },
+  {
+   "id": "2-04-e05",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "He has finish his homework.",
+    "My dad has just come home.",
+    "They have lived in Seoul for a long time.",
+    "I have never been to China.",
+    "She has lost her phone."
+   ],
+   "a": 0,
+   "e": "has 뒤에는 과거분사가 와야 해서 finish가 아니라 finished를 써요. → He has finished his homework.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "2-04-b01",
+   "type": "blank",
+   "q": "괄호 안의 말을 이용해 현재완료 문장을 완성하세요. (두 단어)<br>She ____ ____ here for 5 years. (live)",
+   "ko": "그녀는 5년째 여기에 살고 있다.",
+   "ans": [
+    "has lived"
+   ],
+   "e": "주어가 She라서 has + 과거분사 lived로 써요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "2-04-b02",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>나는 일본에 두 번 가 본 적이 있다.<br>I ____ ____ to Japan twice.",
+   "ans": [
+    "have been"
+   ],
+   "e": "'~에 가 본 적이 있다'는 have been to로 써요.",
+   "ref": "3. have been to vs have gone to"
+  },
+  {
+   "id": "2-04-b03",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>나는 아직 숙제를 끝내지 못했다.<br>I ____ ____ my homework yet.",
+   "ans": [
+    "haven't finished"
+   ],
+   "e": "현재완료 부정문은 have/has + not + p.p.예요. 빈칸이 두 개라서 haven't finished로 써요.",
+   "ref": "4. 부정문"
+  },
+  {
+   "id": "2-04-b04",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요.<br>Have you ever ____ Thai food? (eat)",
+   "ko": "태국 음식을 먹어 본 적 있니?",
+   "ans": [
+    "eaten"
+   ],
+   "e": "eat - ate - eaten이라서 과거분사 eaten을 써요.",
+   "ref": "과거분사(p.p.) 만들기"
+  },
+  {
+   "id": "2-04-b05",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>나는 2020년부터 그녀를 알아 왔다.<br>I have known her ____ 2020.",
+   "ans": [
+    "since"
+   ],
+   "e": "2020은 시작 시점이라 since를 써요.",
+   "ref": "2. for vs since"
+  },
+  {
+   "id": "2-04-b06",
+   "type": "blank",
+   "q": "괄호 안의 말을 이용해 현재완료 문장을 완성하세요. (두 단어)<br>I ____ ____ my key. (lose)",
+   "ko": "나는 열쇠를 잃어버렸다. (그래서 지금 없다)",
+   "ans": [
+    "have lost"
+   ],
+   "e": "lose - lost - lost라서 have lost로 써요. 지금 열쇠가 없다는 결과 용법이에요.",
+   "ref": "1. 결과 용법 / 과거분사 만들기"
+  },
+  {
+   "id": "2-04-b07",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요.<br>He has already ____ his homework. (do)",
+   "ko": "그는 이미 숙제를 했다.",
+   "ans": [
+    "done"
+   ],
+   "e": "do - did - done이라서 과거분사 done을 써요.",
+   "ref": "과거분사(p.p.) 만들기"
+  },
+  {
+   "id": "2-04-f01",
+   "type": "fix",
+   "q": "I have visited Jeju last year.",
+   "wrong": "have visited",
+   "ko": "나는 작년에 제주도를 방문했다.",
+   "ans": [
+    "visited"
+   ],
+   "e": "last year는 과거의 정확한 시점이라 과거시제 visited를 써요.",
+   "ref": "5. 현재완료 vs 과거시제"
+  },
+  {
+   "id": "2-04-f02",
+   "type": "fix",
+   "q": "When have you arrived?",
+   "wrong": "have you arrived",
+   "ko": "너는 언제 도착했니?",
+   "ans": [
+    "did you arrive"
+   ],
+   "e": "When은 현재완료와 쓸 수 없어서 과거시제 did you arrive로 고쳐요.",
+   "ref": "5. 현재완료 vs 과거시제"
+  },
+  {
+   "id": "2-04-f03",
+   "type": "fix",
+   "q": "She have lived here for 5 years.",
+   "wrong": "have",
+   "ko": "그녀는 5년째 여기에 살고 있다.",
+   "ans": [
+    "has"
+   ],
+   "e": "주어가 She라서 has를 써요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "2-04-f04",
+   "type": "fix",
+   "q": "I have known her since three years.",
+   "wrong": "since",
+   "ko": "나는 3년째 그녀를 알고 지내고 있다.",
+   "ans": [
+    "for"
+   ],
+   "e": "three years는 기간이라 since가 아니라 for를 써요.",
+   "ref": "2. for vs since"
+  },
+  {
+   "id": "2-04-f05",
+   "type": "fix",
+   "q": "Have you ever eat Thai food?",
+   "wrong": "eat",
+   "ko": "태국 음식을 먹어 본 적 있니?",
+   "ans": [
+    "eaten"
+   ],
+   "e": "현재완료에는 과거분사가 와야 해요. eat → eaten",
+   "ref": "과거분사(p.p.) 만들기"
+  },
+  {
+   "id": "2-04-f06",
+   "type": "fix",
+   "q": "He has went to Busan.",
+   "wrong": "went",
+   "ko": "그는 부산에 가 버렸다.",
+   "ans": [
+    "gone"
+   ],
+   "e": "went는 과거형이에요. 현재완료에는 과거분사 gone을 써요. (go - went - gone)",
+   "ref": "과거분사(p.p.) 만들기"
+  },
+  {
+   "id": "2-04-a01",
+   "type": "arrange",
+   "ko": "나는 막 숙제를 끝냈다.",
+   "words": [
+    "have",
+    "I",
+    "finished",
+    "just",
+    "my homework"
+   ],
+   "ans": [
+    "I have just finished my homework."
+   ],
+   "e": "just는 have와 과거분사 사이에 써요.",
+   "ref": "1. 완료 용법"
+  },
+  {
+   "id": "2-04-a02",
+   "type": "arrange",
+   "ko": "그는 10년째 서울에 살고 있다.",
+   "words": [
+    "lived",
+    "has",
+    "He",
+    "for 10 years",
+    "in Seoul"
+   ],
+   "ans": [
+    "He has lived in Seoul for 10 years.",
+    "He has lived for 10 years in Seoul."
+   ],
+   "e": "주어 + has + 과거분사(lived) 순서로 써요. for 10 years는 '계속'을 나타내요.",
+   "ref": "1. 계속 용법"
+  },
+  {
+   "id": "2-04-a03",
+   "type": "arrange",
+   "ko": "태국 음식을 먹어 본 적 있니?",
+   "words": [
+    "you",
+    "eaten",
+    "Have",
+    "ever",
+    "Thai food"
+   ],
+   "ans": [
+    "Have you ever eaten Thai food?"
+   ],
+   "e": "Have + 주어 + ever + p.p. ~? 순서로 경험을 물어요.",
+   "ref": "4. 의문문"
+  },
+  {
+   "id": "2-04-a04",
+   "type": "arrange",
+   "ko": "여기서 산 지 얼마나 됐니?",
+   "words": [
+    "you",
+    "How long",
+    "lived",
+    "have",
+    "here"
+   ],
+   "ans": [
+    "How long have you lived here?"
+   ],
+   "e": "How long + have + 주어 + p.p. ~? 순서예요.",
+   "ref": "4. 의문사 의문문"
+  },
+  {
+   "id": "2-04-a05",
+   "type": "arrange",
+   "ko": "나는 전에 제주도를 방문한 적이 있다.",
+   "words": [
+    "visited",
+    "I",
+    "Jeju",
+    "have",
+    "before"
+   ],
+   "ans": [
+    "I have visited Jeju before."
+   ],
+   "e": "before는 경험을 나타내는 신호어라 현재완료와 함께 쓸 수 있어요.",
+   "ref": "5. 현재완료 vs 과거시제 (비교)"
+  },
+  {
+   "id": "2-04-a06",
+   "type": "arrange",
+   "ko": "나는 열쇠를 잃어버렸다. (그래서 지금 없다)",
+   "words": [
+    "I",
+    "lose",
+    "my key"
+   ],
+   "cond": "주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
+   "ans": [
+    "I have lost my key.",
+    "I've lost my key."
+   ],
+   "e": "현재완료 결과 용법이에요. lose의 과거분사 lost를 써서 have lost로 만들어요.",
+   "ref": "1. 결과 용법"
+  }
+ ]
+}

@@ -1,0 +1,513 @@
+{
+ "unit": "1-14",
+ "grade": 1,
+ "title": "to부정사 명사적 용법",
+ "source": "14_to부정사_명사적_용법.md — Part 1. 중1 기초",
+ "questions": [
+  {
+   "id": "1-14-c01",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>나는 집에 가고 싶다.<br>I want ____ home.",
+   "o": [
+    "to go",
+    "going",
+    "go",
+    "goes",
+    "went"
+   ],
+   "a": 0,
+   "e": "want는 목적어로 to부정사를 쓰는 동사예요. I want going home.(✕)처럼 -ing를 쓰면 안 돼요.",
+   "ref": "1. 목적어로 to부정사를 쓰는 동사 — want"
+  },
+  {
+   "id": "1-14-c02",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>영어를 배우는 것은 재미있다.<br>____ English is fun.",
+   "o": [
+    "To learn",
+    "Learn",
+    "Learns",
+    "To learning",
+    "To learned"
+   ],
+   "a": 0,
+   "e": "'배우는 것'은 to + 동사원형인 To learn으로 써서 주어 자리에 넣어요. to 뒤에는 꼭 동사원형이 와요.",
+   "ref": "핵심 개념 — 주어"
+  },
+  {
+   "id": "1-14-c03",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>내 꿈은 가수가 되는 것이다.<br>My dream is ____ a singer.",
+   "o": [
+    "to become",
+    "become",
+    "becomes",
+    "became",
+    "to became"
+   ],
+   "a": 0,
+   "e": "be동사 뒤 보어 자리에 '되는 것'이라는 뜻의 to부정사 to become을 써요. to 뒤는 동사원형이에요.",
+   "ref": "핵심 개념 — 보어"
+  },
+  {
+   "id": "1-14-c04",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>그녀는 너를 다시 만나기를 바란다.<br>She hopes ____ you again.",
+   "o": [
+    "to see",
+    "seeing",
+    "see",
+    "sees",
+    "saw"
+   ],
+   "a": 0,
+   "e": "hope는 목적어로 to부정사를 쓰는 동사라서 to see를 써요.",
+   "ref": "1. 목적어로 to부정사를 쓰는 동사 — hope"
+  },
+  {
+   "id": "1-14-c05",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>그는 더 열심히 공부하기로 결심했다.<br>He decided ____ harder.",
+   "o": [
+    "to study",
+    "studying",
+    "study",
+    "studied",
+    "to studied"
+   ],
+   "a": 0,
+   "e": "decide는 목적어로 to부정사를 쓰는 동사예요. 문장이 과거여도 to 뒤에는 동사원형 study를 써요.",
+   "ref": "1. 목적어로 to부정사를 쓰는 동사 — decide"
+  },
+  {
+   "id": "1-14-c06",
+   "type": "choice",
+   "q": "다음 중 어법상 옳은 문장을 고르세요.",
+   "o": [
+    "She wants to go there.",
+    "She wants to goes there.",
+    "She wants to went there.",
+    "She wants go there.",
+    "She want to go there."
+   ],
+   "a": 0,
+   "e": "to 뒤에는 무조건 동사원형이 와요. 주어가 She라서 동사는 wants로 쓰고, 그 뒤에 to go를 써요.",
+   "ref": "2. to 뒤에는 무조건 동사원형"
+  },
+  {
+   "id": "1-14-c07",
+   "type": "choice",
+   "q": "빈칸에 알맞은 말을 고르세요.<br>To exercise every day ____ important.",
+   "ko": "매일 운동하는 것은 중요하다.",
+   "o": [
+    "is",
+    "are",
+    "am",
+    "be",
+    "were"
+   ],
+   "a": 0,
+   "e": "주어로 쓰인 to부정사는 단수 취급해서 is를 써요.",
+   "ref": "3. 주어로 쓰인 to부정사는 단수 취급"
+  },
+  {
+   "id": "1-14-c08",
+   "type": "choice",
+   "q": "다음 문장에서 밑줄 친 부분의 역할을 고르세요.<br>I want <u>to visit</u> Paris.",
+   "o": [
+    "목적어",
+    "주어",
+    "보어",
+    "동사",
+    "부사"
+   ],
+   "a": 0,
+   "e": "to visit Paris는 동사 want의 목적어예요. '파리를 방문하는 것을' 원한다는 뜻이에요.",
+   "ref": "핵심 개념 — 목적어"
+  },
+  {
+   "id": "1-14-c09",
+   "type": "choice",
+   "q": "다음 문장에서 밑줄 친 부분의 역할을 고르세요.<br>My dream is <u>to become</u> a singer.",
+   "o": [
+    "보어",
+    "주어",
+    "목적어",
+    "동사",
+    "전치사"
+   ],
+   "a": 0,
+   "e": "be동사 뒤에서 주어 My dream을 설명하는 보어예요. 내 꿈 = 가수가 되는 것이에요.",
+   "ref": "핵심 개념 — 보어"
+  },
+  {
+   "id": "1-14-c10",
+   "type": "choice",
+   "q": "다음 문장에서 밑줄 친 부분의 역할을 고르세요.<br><u>To learn</u> English is fun.",
+   "o": [
+    "주어",
+    "목적어",
+    "보어",
+    "동사",
+    "부사"
+   ],
+   "a": 0,
+   "e": "To learn English가 문장 맨 앞에서 '영어를 배우는 것은'이라는 뜻의 주어로 쓰였어요.",
+   "ref": "핵심 개념 — 주어"
+  },
+  {
+   "id": "1-14-c11",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>너는 쉴 필요가 있다.<br>You need ____.",
+   "o": [
+    "to rest",
+    "resting",
+    "to rests",
+    "rests",
+    "rested"
+   ],
+   "a": 0,
+   "e": "need는 목적어로 to부정사를 쓰는 동사라서 to rest를 써요.",
+   "ref": "1. 목적어로 to부정사를 쓰는 동사 — need"
+  },
+  {
+   "id": "1-14-c12",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>나는 작년에 수영하는 것을 배웠다.<br>I learned ____ last year.",
+   "o": [
+    "to swim",
+    "swim",
+    "swam",
+    "to swam",
+    "to swimming"
+   ],
+   "a": 0,
+   "e": "learn은 목적어로 to부정사를 써요. 과거 문장이어도 to 뒤에는 동사원형 swim이 와요.",
+   "ref": "1. 목적어로 to부정사를 쓰는 동사 — learn"
+  },
+  {
+   "id": "1-14-c13",
+   "type": "choice",
+   "q": "대화의 빈칸에 알맞은 말을 고르세요.<br>A: What are you going to do this weekend?<br>B: We plan ____ camping.",
+   "o": [
+    "to go",
+    "go",
+    "going",
+    "goes",
+    "went"
+   ],
+   "a": 0,
+   "e": "plan은 목적어로 to부정사를 쓰는 동사예요. 앞으로 할 일을 말하니까 to go가 어울려요.",
+   "ref": "1. 목적어로 to부정사를 쓰는 동사 — plan"
+  },
+  {
+   "id": "1-14-e01",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "I want going home.",
+    "She hopes to see you again.",
+    "We plan to go camping.",
+    "He decided to study harder.",
+    "You need to rest."
+   ],
+   "a": 0,
+   "e": "want는 목적어로 to부정사를 쓰는 동사예요. → I want to go home.",
+   "ref": "1. 목적어로 to부정사를 쓰는 동사 — want"
+  },
+  {
+   "id": "1-14-e02",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "She wants to goes there.",
+    "I learned to swim last year.",
+    "My dream is to become a singer.",
+    "To learn English is fun.",
+    "I want to visit Paris."
+   ],
+   "a": 0,
+   "e": "to 뒤에는 무조건 동사원형이 와요. goes가 아니라 go를 써야 해요. → She wants to go there.",
+   "ref": "2. to 뒤에는 무조건 동사원형"
+  },
+  {
+   "id": "1-14-e03",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "To exercise every day are important.",
+    "He needs to go now.",
+    "They hope to win the game.",
+    "We decided to leave early.",
+    "I want to be a doctor."
+   ],
+   "a": 0,
+   "e": "주어로 쓰인 to부정사는 단수 취급해서 is를 써요. → To exercise every day is important.",
+   "ref": "3. 주어로 쓰인 to부정사는 단수 취급"
+  },
+  {
+   "id": "1-14-e04",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "I decided to studied hard.",
+    "She plans to visit her uncle.",
+    "My hobby is to draw pictures.",
+    "To swim in the sea is fun.",
+    "Do you want to join us?"
+   ],
+   "a": 0,
+   "e": "과거 문장이어도 to 뒤에는 동사원형이 와요. → I decided to study hard.",
+   "ref": "2. to 뒤에는 무조건 동사원형"
+  },
+  {
+   "id": "1-14-e05",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "He hopes becoming a doctor.",
+    "I want to buy a new bike.",
+    "They decided to play soccer.",
+    "To make friends is important.",
+    "We need to hurry."
+   ],
+   "a": 0,
+   "e": "hope는 목적어로 to부정사를 쓰는 동사라서 becoming이 아니라 to become을 써요. → He hopes to become a doctor.",
+   "ref": "1. 목적어로 to부정사를 쓰는 동사 — hope"
+  },
+  {
+   "id": "1-14-b01",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (두 단어)<br>I want ____ ____ Paris. (visit)",
+   "ko": "나는 파리를 방문하고 싶다.",
+   "ans": [
+    "to visit"
+   ],
+   "e": "want 뒤에는 to부정사(to + 동사원형)가 와요.",
+   "ref": "1. 목적어로 to부정사를 쓰는 동사 — want"
+  },
+  {
+   "id": "1-14-b02",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (두 단어)<br>She hopes ____ ____ you again. (see)",
+   "ko": "그녀는 너를 다시 만나기를 바란다.",
+   "ans": [
+    "to see"
+   ],
+   "e": "hope는 목적어로 to부정사를 쓰는 동사라서 to see로 써요.",
+   "ref": "1. 목적어로 to부정사를 쓰는 동사 — hope"
+  },
+  {
+   "id": "1-14-b03",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 괄호 안의 말을 이용해 빈칸을 채우세요. (두 단어)<br>그는 더 열심히 공부하기로 결심했다.<br>He decided ____ ____ harder. (study)",
+   "ans": [
+    "to study"
+   ],
+   "e": "decide 뒤에는 to부정사가 오고, 문장이 과거여도 to 뒤는 동사원형 study예요.",
+   "ref": "1. 목적어로 to부정사를 쓰는 동사 — decide"
+  },
+  {
+   "id": "1-14-b04",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요.<br>To exercise every day ____ important. (be)",
+   "ko": "매일 운동하는 것은 중요하다.",
+   "ans": [
+    "is"
+   ],
+   "e": "to부정사 주어는 단수 취급하니까 be동사는 is를 써요.",
+   "ref": "3. 주어로 쓰인 to부정사는 단수 취급"
+  },
+  {
+   "id": "1-14-b05",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (두 단어)<br>My dream is ____ ____ a singer. (become)",
+   "ko": "내 꿈은 가수가 되는 것이다.",
+   "ans": [
+    "to become"
+   ],
+   "e": "보어 자리에 '되는 것'이라는 뜻의 to부정사 to become을 써요.",
+   "ref": "핵심 개념 — 보어"
+  },
+  {
+   "id": "1-14-b06",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 괄호 안의 말을 이용해 빈칸을 채우세요. (두 단어)<br>너는 쉴 필요가 있다.<br>You need ____ ____. (rest)",
+   "ans": [
+    "to rest"
+   ],
+   "e": "need는 목적어로 to부정사를 쓰는 동사예요. need + to + 동사원형으로 써요.",
+   "ref": "1. 목적어로 to부정사를 쓰는 동사 — need"
+  },
+  {
+   "id": "1-14-f01",
+   "type": "fix",
+   "q": "She wants going to the park.",
+   "wrong": "going",
+   "ko": "그녀는 공원에 가고 싶어 한다.",
+   "ans": [
+    "to go"
+   ],
+   "e": "want는 목적어로 to부정사를 쓰는 동사예요. going → to go",
+   "ref": "1. 목적어로 to부정사를 쓰는 동사 — want"
+  },
+  {
+   "id": "1-14-f02",
+   "type": "fix",
+   "q": "She wants to goes there.",
+   "wrong": "goes",
+   "ko": "그녀는 그곳에 가고 싶어 한다.",
+   "ans": [
+    "go"
+   ],
+   "e": "to 뒤에는 무조건 동사원형이 와요. goes → go",
+   "ref": "2. to 뒤에는 무조건 동사원형"
+  },
+  {
+   "id": "1-14-f03",
+   "type": "fix",
+   "q": "I decided to studied hard.",
+   "wrong": "studied",
+   "ko": "나는 열심히 공부하기로 결심했다.",
+   "ans": [
+    "study"
+   ],
+   "e": "문장이 과거여도 to 뒤에는 동사원형을 써요. studied → study",
+   "ref": "2. to 뒤에는 무조건 동사원형"
+  },
+  {
+   "id": "1-14-f04",
+   "type": "fix",
+   "q": "To exercise every day are important.",
+   "wrong": "are",
+   "ko": "매일 운동하는 것은 중요하다.",
+   "ans": [
+    "is"
+   ],
+   "e": "주어로 쓰인 to부정사는 단수 취급해요. are → is",
+   "ref": "3. 주어로 쓰인 to부정사는 단수 취급"
+  },
+  {
+   "id": "1-14-f05",
+   "type": "fix",
+   "q": "We plan go camping.",
+   "wrong": "go",
+   "ko": "우리는 캠핑을 갈 계획이다.",
+   "ans": [
+    "to go"
+   ],
+   "e": "plan 뒤에는 to부정사가 와요. go → to go",
+   "ref": "1. 목적어로 to부정사를 쓰는 동사 — plan"
+  },
+  {
+   "id": "1-14-f06",
+   "type": "fix",
+   "q": "He hopes seeing you again.",
+   "wrong": "seeing",
+   "ko": "그는 너를 다시 만나기를 바란다.",
+   "ans": [
+    "to see"
+   ],
+   "e": "hope는 목적어로 to부정사를 쓰는 동사예요. seeing → to see",
+   "ref": "1. 목적어로 to부정사를 쓰는 동사 — hope"
+  },
+  {
+   "id": "1-14-a01",
+   "type": "arrange",
+   "ko": "나는 새 자전거를 사기로 결심했다.",
+   "words": [
+    "to buy",
+    "I",
+    "a new bike",
+    "decided"
+   ],
+   "ans": [
+    "I decided to buy a new bike."
+   ],
+   "e": "주어 + decided + to부정사 순서로 써요. decide는 목적어로 to부정사를 쓰는 동사예요.",
+   "ref": "1. 목적어로 to부정사를 쓰는 동사 — decide"
+  },
+  {
+   "id": "1-14-a02",
+   "type": "arrange",
+   "ko": "영어를 배우는 것은 재미있다.",
+   "words": [
+    "is",
+    "To learn",
+    "fun",
+    "English"
+   ],
+   "ans": [
+    "To learn English is fun."
+   ],
+   "e": "To learn English가 주어로 맨 앞에 오고, 단수 취급이라 is를 써요.",
+   "ref": "핵심 개념 — 주어"
+  },
+  {
+   "id": "1-14-a03",
+   "type": "arrange",
+   "ko": "내 꿈은 가수가 되는 것이다.",
+   "words": [
+    "a singer",
+    "My dream",
+    "to become",
+    "is"
+   ],
+   "ans": [
+    "My dream is to become a singer."
+   ],
+   "e": "주어 + be동사 + to부정사(보어) 순서예요.",
+   "ref": "핵심 개념 — 보어"
+  },
+  {
+   "id": "1-14-a04",
+   "type": "arrange",
+   "ko": "그녀는 너를 다시 만나기를 바란다.",
+   "words": [
+    "to see",
+    "She",
+    "again",
+    "hopes",
+    "you"
+   ],
+   "ans": [
+    "She hopes to see you again."
+   ],
+   "e": "주어 + hopes + to부정사 + 목적어 순서로 써요.",
+   "ref": "1. 목적어로 to부정사를 쓰는 동사 — hope"
+  },
+  {
+   "id": "1-14-a05",
+   "type": "arrange",
+   "ko": "나는 작년에 수영하는 것을 배웠다.",
+   "words": [
+    "last year",
+    "I",
+    "to swim",
+    "learned"
+   ],
+   "ans": [
+    "I learned to swim last year.",
+    "Last year I learned to swim."
+   ],
+   "e": "주어 + learned + to부정사 순서로 쓰고, 시간 표현 last year는 문장 끝이나 맨 앞에 둬요.",
+   "ref": "1. 목적어로 to부정사를 쓰는 동사 — learn"
+  },
+  {
+   "id": "1-14-a06",
+   "type": "arrange",
+   "ko": "매일 운동하는 것은 중요하다.",
+   "words": [
+    "important",
+    "To exercise",
+    "is",
+    "every day"
+   ],
+   "ans": [
+    "To exercise every day is important."
+   ],
+   "e": "to부정사 주어 To exercise every day 뒤에 단수 동사 is를 써요.",
+   "ref": "3. 주어로 쓰인 to부정사는 단수 취급"
+  }
+ ]
+}

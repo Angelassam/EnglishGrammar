@@ -1,0 +1,514 @@
+{
+ "unit": "1-15",
+ "grade": 1,
+ "title": "to부정사 부사적 용법",
+ "source": "15_to부정사_부사적_용법.md — Part 1. 중1 기초",
+ "questions": [
+  {
+   "id": "1-15-c01",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>그녀는 시험에 합격하기 위해 열심히 공부한다.<br>She studies hard ____ the exam.",
+   "o": [
+    "to pass",
+    "pass",
+    "passing",
+    "passes",
+    "passed"
+   ],
+   "a": 0,
+   "e": "'~하기 위해서'라는 목적은 to + 동사원형으로 나타내요.",
+   "ref": "1. 목적 — ~하기 위해서, ~하러"
+  },
+  {
+   "id": "1-15-c02",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>너를 만나서 기쁘다.<br>I'm happy ____ you.",
+   "o": [
+    "to see",
+    "see",
+    "saw",
+    "to saw",
+    "to seeing"
+   ],
+   "a": 0,
+   "e": "happy 같은 감정 형용사 뒤에 to부정사를 써서 그 감정이 생긴 이유를 말해요. to 뒤는 동사원형이에요.",
+   "ref": "2. 감정의 원인 — ~해서"
+  },
+  {
+   "id": "1-15-c03",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>나는 우유를 사러 가게에 갔다.<br>I went to the store ____ some milk.",
+   "o": [
+    "to buy",
+    "buy",
+    "buying",
+    "bought",
+    "to bought"
+   ],
+   "a": 0,
+   "e": "'~하러, ~하기 위해서'는 to + 동사원형으로 써요. 문장이 과거여도 to 뒤는 동사원형 buy예요.",
+   "ref": "1. 목적 — ~하기 위해서, ~하러"
+  },
+  {
+   "id": "1-15-c04",
+   "type": "choice",
+   "q": "다음 문장에서 밑줄 친 부분의 뜻으로 알맞은 것을 고르세요.<br>He got up early <u>to catch</u> the first bus.",
+   "o": [
+    "~하기 위해서",
+    "~해서",
+    "~하는 것",
+    "~할",
+    "~하는 중"
+   ],
+   "a": 0,
+   "e": "첫차를 타기 위해서 일찍 일어났다는 뜻이에요. '왜 일찍 일어났니?'에 답하는 목적의 to부정사예요.",
+   "ref": "1. 목적 — ~하기 위해서, ~하러"
+  },
+  {
+   "id": "1-15-c05",
+   "type": "choice",
+   "q": "다음 문장에서 밑줄 친 부분의 쓰임으로 알맞은 것을 고르세요.<br>I was surprised <u>to hear</u> the news.",
+   "o": [
+    "감정의 원인 (~해서)",
+    "목적 (~하기 위해서)",
+    "주어 (~하는 것은)",
+    "목적어 (~하는 것을)",
+    "보어 (~하는 것이다)"
+   ],
+   "a": 0,
+   "e": "감정 형용사 surprised 뒤에 와서 놀란 이유를 말해요. '그 소식을 들어서' 놀랐다는 뜻이에요.",
+   "ref": "2. 감정의 원인 — ~해서"
+  },
+  {
+   "id": "1-15-c06",
+   "type": "choice",
+   "q": "다음 중 밑줄 친 부분의 쓰임이 나머지 넷과 <b>다른</b> 것을 고르세요.",
+   "o": [
+    "I want <u>to buy</u> a bike.",
+    "I saved money <u>to buy</u> a bike.",
+    "She studies hard <u>to pass</u> the exam.",
+    "We use smartphones <u>to take</u> pictures.",
+    "He got up early <u>to catch</u> the first bus."
+   ],
+   "a": 0,
+   "e": "I want to buy a bike.의 to buy는 want의 목적어(명사적 용법)예요. 나머지는 '~하기 위해서'라는 목적을 나타내는 부사적 용법이에요.",
+   "ref": "3. 명사적 용법과 구별하기"
+  },
+  {
+   "id": "1-15-c07",
+   "type": "choice",
+   "q": "대화의 빈칸에 알맞은 말을 고르세요.<br>A: Why did you go to the store?<br>B: ____ some milk.",
+   "o": [
+    "To buy",
+    "Buy",
+    "Buying",
+    "Bought",
+    "For buy"
+   ],
+   "a": 0,
+   "e": "Why ~?라고 이유를 물으면 목적의 to부정사 To buy ~.로 대답할 수 있어요.",
+   "ref": "1. 목적 — Why에 대한 대답"
+  },
+  {
+   "id": "1-15-c08",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>그녀는 친구들을 떠나게 되어 슬펐다.<br>She was sad ____ her friends.",
+   "o": [
+    "to leave",
+    "leave",
+    "left",
+    "to left",
+    "to leaving"
+   ],
+   "a": 0,
+   "e": "감정 형용사 sad 뒤에 to부정사를 써서 슬픈 이유를 말해요. to 뒤에는 동사원형 leave가 와요.",
+   "ref": "2. 감정의 원인 — ~해서"
+  },
+  {
+   "id": "1-15-c09",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>우리는 여행을 가게 되어 신이 난다.<br>We are excited ____ on a trip.",
+   "o": [
+    "to go",
+    "go",
+    "went",
+    "to went",
+    "to going"
+   ],
+   "a": 0,
+   "e": "excited 같은 감정 형용사 뒤에 to + 동사원형을 써서 신이 난 이유를 말해요.",
+   "ref": "2. 감정의 원인 — ~해서"
+  },
+  {
+   "id": "1-15-c10",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>우리는 사진을 찍기 위해 스마트폰을 사용한다.<br>We use smartphones ____ pictures.",
+   "o": [
+    "to take",
+    "take",
+    "taking",
+    "took",
+    "to taking"
+   ],
+   "a": 0,
+   "e": "'~하기 위해'라는 목적은 to + 동사원형 to take로 나타내요.",
+   "ref": "1. 목적 — ~하기 위해서, ~하러"
+  },
+  {
+   "id": "1-15-c11",
+   "type": "choice",
+   "q": "다음 중 어법상 옳은 문장을 고르세요.",
+   "o": [
+    "I'm glad to meet you.",
+    "I'm glad meet you.",
+    "I'm glad to meeting you.",
+    "I'm glad to met you.",
+    "I'm glad met you."
+   ],
+   "a": 0,
+   "e": "감정 형용사 glad 뒤에는 to + 동사원형이 와요. to를 빼거나 to 뒤에 -ing·과거형을 쓰면 안 돼요.",
+   "ref": "2. 감정의 원인 — ~해서"
+  },
+  {
+   "id": "1-15-c12",
+   "type": "choice",
+   "q": "다음 문장의 해석으로 알맞은 것을 고르세요.<br>I saved money to buy a bike.",
+   "o": [
+    "나는 자전거를 사기 위해서 돈을 모았다.",
+    "나는 자전거를 사는 것을 원한다.",
+    "나는 돈을 모아서 자전거를 샀다.",
+    "나는 자전거를 사서 기뻤다.",
+    "나는 돈을 모으기 위해 자전거를 샀다."
+   ],
+   "a": 0,
+   "e": "to buy a bike는 돈을 모은 목적이에요. to부정사를 빼도 I saved money.로 문장이 완성되니 부사적 용법이에요.",
+   "ref": "3. 명사적 용법과 구별하기"
+  },
+  {
+   "id": "1-15-c13",
+   "type": "choice",
+   "q": "다음 중 밑줄 친 부분이 '~하기 위해서'(목적)의 뜻인 것을 고르세요.",
+   "o": [
+    "He went to the library <u>to borrow</u> some books.",
+    "I want <u>to buy</u> a bike.",
+    "My dream is <u>to become</u> a singer.",
+    "I was surprised <u>to hear</u> the news.",
+    "She hopes <u>to see</u> you again."
+   ],
+   "a": 0,
+   "e": "책을 빌리기 위해서 도서관에 갔다는 뜻이라 목적이에요. 나머지는 명사적 용법(목적어·보어)이거나 감정의 원인이에요.",
+   "ref": "3. 명사적 용법과 구별하기"
+  },
+  {
+   "id": "1-15-e01",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "She studies hard passing the exam.",
+    "I went to the store to buy some milk.",
+    "I'm happy to see you.",
+    "We are excited to go on a trip.",
+    "He got up early to catch the first bus."
+   ],
+   "a": 0,
+   "e": "'~하기 위해서'라는 목적은 to + 동사원형으로 써요. → She studies hard to pass the exam.",
+   "ref": "1. 목적 — ~하기 위해서, ~하러"
+  },
+  {
+   "id": "1-15-e02",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "I was surprised to heard the news.",
+    "She was sad to leave her friends.",
+    "We use smartphones to take pictures.",
+    "I saved money to buy a bike.",
+    "He runs every morning to stay healthy."
+   ],
+   "a": 0,
+   "e": "문장이 과거여도 to 뒤에는 동사원형이 와요. → I was surprised to hear the news.",
+   "ref": "2. 감정의 원인 — ~해서"
+  },
+  {
+   "id": "1-15-e03",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "I'm glad meet you.",
+    "They went to the park to play soccer.",
+    "She was happy to get the gift.",
+    "I'm sorry to hear that.",
+    "He came to Korea to learn Korean."
+   ],
+   "a": 0,
+   "e": "감정 형용사 glad 뒤에는 to부정사가 와요. to를 빼면 안 돼요. → I'm glad to meet you.",
+   "ref": "2. 감정의 원인 — ~해서"
+  },
+  {
+   "id": "1-15-e04",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "We went to the beach to swimming.",
+    "I was excited to see the movie.",
+    "She called me to ask a question.",
+    "He saved money to buy a new phone.",
+    "We were glad to win the game."
+   ],
+   "a": 0,
+   "e": "'~하러'라는 목적은 to + 동사원형으로 써요. to 뒤에 -ing를 쓰면 안 돼요. → We went to the beach to swim.",
+   "ref": "1. 목적 — ~하기 위해서, ~하러"
+  },
+  {
+   "id": "1-15-e05",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "He goes to the gym to exercises.",
+    "I went to the library to borrow some books.",
+    "I'm sad to say goodbye.",
+    "They were surprised to see me.",
+    "We went to the park to take pictures."
+   ],
+   "a": 0,
+   "e": "to 뒤에는 주어와 상관없이 동사원형을 써요. → He goes to the gym to exercise.",
+   "ref": "1. 목적 — ~하기 위해서, ~하러"
+  },
+  {
+   "id": "1-15-b01",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (두 단어)<br>They practice every day ____ ____ the game. (win)",
+   "ko": "그들은 경기에서 이기기 위해 매일 연습한다.",
+   "ans": [
+    "to win"
+   ],
+   "e": "목적('~하기 위해서')은 to + 동사원형으로 나타내요.",
+   "ref": "1. 목적 — ~하기 위해서, ~하러"
+  },
+  {
+   "id": "1-15-b02",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (두 단어)<br>She was happy ____ ____ the gift. (get)",
+   "ko": "그녀는 선물을 받아서 기뻤다.",
+   "ans": [
+    "to get"
+   ],
+   "e": "감정 형용사 happy 뒤에 to부정사를 써서 기쁜 이유를 말해요. to 뒤는 동사원형 get이에요.",
+   "ref": "2. 감정의 원인 — ~해서"
+  },
+  {
+   "id": "1-15-b03",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (두 단어)<br>We went to the park ____ ____ soccer. (play)",
+   "ko": "우리는 축구를 하러 공원에 갔다.",
+   "ans": [
+    "to play"
+   ],
+   "e": "'~하러'는 to + 동사원형이에요. 과거 문장이어도 to 뒤는 play 그대로 써요.",
+   "ref": "1. 목적 — ~하기 위해서, ~하러"
+  },
+  {
+   "id": "1-15-b04",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 괄호 안의 말을 이용해 빈칸을 채우세요. (두 단어)<br>나는 그 소식을 듣고 놀랐다.<br>I was surprised ____ ____ the news. (hear)",
+   "ans": [
+    "to hear"
+   ],
+   "e": "surprised 뒤에 to부정사를 써서 놀란 이유를 말해요. to 뒤는 동사원형 hear예요.",
+   "ref": "2. 감정의 원인 — ~해서"
+  },
+  {
+   "id": "1-15-b05",
+   "type": "blank",
+   "q": "대화의 빈칸에 괄호 안의 말을 알맞은 형태로 바꿔 쓰세요. (두 단어)<br>A: Why did you go to the store?<br>B: ____ ____ some milk. (buy)",
+   "ko": "B: 우유를 사러.",
+   "ans": [
+    "To buy"
+   ],
+   "e": "Why ~?라는 질문에는 목적의 to부정사 To buy ~.로 대답해요.",
+   "ref": "1. 목적 — Why에 대한 대답"
+  },
+  {
+   "id": "1-15-b06",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 괄호 안의 말을 이용해 빈칸을 채우세요. (두 단어)<br>우리는 여행을 가게 되어 신이 난다.<br>We are excited ____ ____ on a trip. (go)",
+   "ans": [
+    "to go"
+   ],
+   "e": "감정 형용사 excited 뒤에 to + 동사원형을 써서 신이 난 이유를 말해요.",
+   "ref": "2. 감정의 원인 — ~해서"
+  },
+  {
+   "id": "1-15-f01",
+   "type": "fix",
+   "q": "I turned on the TV watch the news.",
+   "wrong": "watch",
+   "ko": "나는 뉴스를 보기 위해 TV를 켰다.",
+   "ans": [
+    "to watch"
+   ],
+   "e": "'~하기 위해서'라는 목적은 to + 동사원형으로 써요. watch → to watch",
+   "ref": "1. 목적 — ~하기 위해서, ~하러"
+  },
+  {
+   "id": "1-15-f02",
+   "type": "fix",
+   "q": "We were glad to won the game.",
+   "wrong": "won",
+   "ko": "우리는 경기에서 이겨서 기뻤다.",
+   "ans": [
+    "win"
+   ],
+   "e": "과거 문장이어도 to 뒤에는 동사원형이 와요. won → win",
+   "ref": "2. 감정의 원인 — ~해서"
+  },
+  {
+   "id": "1-15-f03",
+   "type": "fix",
+   "q": "I went to the store to buying some milk.",
+   "wrong": "buying",
+   "ko": "나는 우유를 사러 가게에 갔다.",
+   "ans": [
+    "buy"
+   ],
+   "e": "'~하러'는 to + 동사원형으로 나타내요. to 뒤에 -ing를 쓰면 안 돼요. buying → buy",
+   "ref": "1. 목적 — ~하기 위해서, ~하러"
+  },
+  {
+   "id": "1-15-f04",
+   "type": "fix",
+   "q": "We are excited go on a trip.",
+   "wrong": "go",
+   "ko": "우리는 여행을 가게 되어 신이 난다.",
+   "ans": [
+    "to go"
+   ],
+   "e": "감정 형용사 excited 뒤에는 to부정사가 와요. go → to go",
+   "ref": "2. 감정의 원인 — ~해서"
+  },
+  {
+   "id": "1-15-f05",
+   "type": "fix",
+   "q": "He saves money to buys a new phone.",
+   "wrong": "buys",
+   "ko": "그는 새 휴대전화를 사기 위해 돈을 모은다.",
+   "ans": [
+    "buy"
+   ],
+   "e": "to 뒤에는 주어가 He여도 동사원형을 써요. buys → buy",
+   "ref": "1. 목적 — ~하기 위해서, ~하러"
+  },
+  {
+   "id": "1-15-f06",
+   "type": "fix",
+   "q": "She was sad leave her friends.",
+   "wrong": "leave",
+   "ko": "그녀는 친구들을 떠나게 되어 슬펐다.",
+   "ans": [
+    "to leave"
+   ],
+   "e": "감정 형용사 sad 뒤에 감정의 원인을 말할 때는 to부정사를 써요. leave → to leave",
+   "ref": "2. 감정의 원인 — ~해서"
+  },
+  {
+   "id": "1-15-a01",
+   "type": "arrange",
+   "ko": "그녀는 시험에 합격하기 위해 열심히 공부한다.",
+   "words": [
+    "to pass",
+    "She",
+    "the exam",
+    "studies hard"
+   ],
+   "ans": [
+    "She studies hard to pass the exam.",
+    "To pass the exam, she studies hard."
+   ],
+   "e": "주어 + 동사 뒤에 목적을 나타내는 to부정사를 붙여요.",
+   "ref": "1. 목적 — ~하기 위해서, ~하러"
+  },
+  {
+   "id": "1-15-a02",
+   "type": "arrange",
+   "ko": "너를 만나서 기쁘다.",
+   "words": [
+    "to see",
+    "I'm",
+    "you",
+    "happy"
+   ],
+   "ans": [
+    "I'm happy to see you."
+   ],
+   "e": "감정 형용사 happy 뒤에 to부정사를 써서 기쁜 이유를 말해요.",
+   "ref": "2. 감정의 원인 — ~해서"
+  },
+  {
+   "id": "1-15-a03",
+   "type": "arrange",
+   "ko": "나는 우유를 사러 가게에 갔다.",
+   "words": [
+    "to buy",
+    "I",
+    "some milk",
+    "went to the store"
+   ],
+   "ans": [
+    "I went to the store to buy some milk.",
+    "To buy some milk, I went to the store."
+   ],
+   "e": "'가게에 갔다' 뒤에 목적 to buy some milk를 붙여요.",
+   "ref": "1. 목적 — ~하기 위해서, ~하러"
+  },
+  {
+   "id": "1-15-a04",
+   "type": "arrange",
+   "ko": "그는 첫차를 타기 위해 일찍 일어났다.",
+   "words": [
+    "to catch",
+    "He",
+    "the first bus",
+    "got up early"
+   ],
+   "ans": [
+    "He got up early to catch the first bus.",
+    "To catch the first bus, he got up early."
+   ],
+   "e": "'일찍 일어났다' 뒤에 목적을 나타내는 to catch the first bus를 써요.",
+   "ref": "1. 목적 — ~하기 위해서, ~하러"
+  },
+  {
+   "id": "1-15-a05",
+   "type": "arrange",
+   "ko": "나는 그 소식을 듣고 놀랐다.",
+   "words": [
+    "to hear",
+    "I",
+    "the news",
+    "was surprised"
+   ],
+   "ans": [
+    "I was surprised to hear the news."
+   ],
+   "e": "주어 + was surprised + to부정사 순서로 써서 놀란 이유를 말해요.",
+   "ref": "2. 감정의 원인 — ~해서"
+  },
+  {
+   "id": "1-15-a06",
+   "type": "arrange",
+   "ko": "우리는 사진을 찍기 위해 스마트폰을 사용한다.",
+   "words": [
+    "to take",
+    "We",
+    "pictures",
+    "use smartphones"
+   ],
+   "ans": [
+    "We use smartphones to take pictures.",
+    "To take pictures, we use smartphones."
+   ],
+   "e": "'스마트폰을 사용한다' 뒤에 목적 to take pictures를 붙여요.",
+   "ref": "1. 목적 — ~하기 위해서, ~하러"
+  }
+ ]
+}

@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>젤라쌤 문법 문제 생성기</title>
+<style>
+  :root{--ink:#1f2933;--muted:#6b7a8a;--line:#d9e0e7;--bg:#f4f6f8;--card:#fff;--brand:#2b6cb0;--brand-soft:#e6f0fb;--ok:#2f855a;--ok-soft:#e9f7ef;--bad:#c53030;--bad-soft:#fdecec;--warn:#b7791f;--warn-soft:#fff7e6}
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",sans-serif;color:var(--ink);background:var(--bg);line-height:1.55;font-size:16px}
+  header{background:var(--brand);color:#fff;padding:14px 16px}
+  header h1{margin:0;font-size:1.15rem;font-weight:700}
+  header p{margin:2px 0 0;font-size:.85rem;opacity:.9}
+  main{max-width:900px;margin:0 auto;padding:16px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;margin-bottom:14px}
+  .card h2{margin:0 0 10px;font-size:1.02rem}
+  .hint{color:var(--muted);font-size:.86rem;margin:4px 0 0}
+  .seg{display:flex;flex-wrap:wrap;gap:8px}
+  .seg label,.chip{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);border-radius:999px;padding:7px 13px;cursor:pointer;background:#fff;font-size:.93rem;user-select:none}
+  .seg input{accent-color:var(--brand)}
+  .seg label:has(input:checked),.chip.on{background:var(--brand-soft);border-color:var(--brand);color:var(--brand);font-weight:600}
+  .units{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:6px;margin-top:8px}
+  .units label{display:flex;gap:8px;align-items:flex-start;padding:8px 10px;border:1px solid var(--line);border-radius:8px;cursor:pointer;font-size:.92rem;background:#fff}
+  .units label:has(input:checked){background:var(--brand-soft);border-color:var(--brand)}
+  .units input{margin-top:3px;accent-color:var(--brand)}
+  .units .n{color:var(--muted);font-size:.8rem}
+  .units label.empty{opacity:.45;cursor:not-allowed}
+  .row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+  select,input[type=number],input[type=text]{font:inherit;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink)}
+  input[type=text]{width:100%}
+  button{font:inherit;border:0;border-radius:10px;padding:11px 18px;cursor:pointer;background:#e4e9ef;color:var(--ink);font-weight:600}
+  button.primary{background:var(--brand);color:#fff}
+  button.ghost{background:#fff;border:1px solid var(--line)}
+  button:disabled{opacity:.5;cursor:not-allowed}
+  .toolbar{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}
+  .toolbar .sp{flex:1}
+  .q{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:12px;page-break-inside:avoid;break-inside:avoid}
+  .q .top{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap;margin-bottom:6px}
+  .q .num{font-weight:800;color:var(--brand)}
+  .q .tag{font-size:.74rem;color:var(--muted);border:1px solid var(--line);border-radius:6px;padding:1px 6px}
+  .q .text{margin:0 0 8px;white-space:normal}
+  .q .ko{color:#444;margin:0 0 8px}
+  .q .words{background:#f7f9fb;border:1px dashed var(--line);border-radius:8px;padding:8px 10px;margin:0 0 8px;font-size:.95rem}
+  .opts{list-style:none;margin:0;padding:0;display:grid;gap:6px}
+  .opts label{display:flex;gap:8px;align-items:flex-start;padding:7px 10px;border:1px solid var(--line);border-radius:8px;cursor:pointer}
+  .opts label:has(input:checked){background:var(--brand-soft);border-color:var(--brand)}
+  .opts input{margin-top:4px;accent-color:var(--brand)}
+  .opts .mark{font-weight:700;min-width:1.4em}
+  .ansline{margin-top:6px}
+  .result{margin-top:10px;padding:10px 12px;border-radius:8px;font-size:.93rem}
+  .result.ok{background:var(--ok-soft);border:1px solid #b7e3c7}
+  .result.bad{background:var(--bad-soft);border:1px solid #f3c1c1}
+  .result .lab{font-weight:700}
+  .result .ref{color:var(--muted);font-size:.82rem;margin-top:4px}
+  .q.ok{border-color:var(--ok)}.q.bad{border-color:var(--bad)}
+  .score{font-size:1.2rem;font-weight:800}
+  .score small{font-weight:500;color:var(--muted);font-size:.9rem}
+  .badge{display:inline-block;padding:2px 8px;border-radius:999px;font-size:.78rem;font-weight:700}
+  .badge.ok{background:var(--ok-soft);color:var(--ok)}.badge.bad{background:var(--bad-soft);color:var(--bad)}
+  .wrongword{text-decoration:underline;text-decoration-color:var(--bad);text-decoration-thickness:2px;text-underline-offset:3px;font-weight:600}
+  .hidden{display:none!important}
+  .sheet-head{display:none}
+  .mono{font-family:inherit}
+  footer{color:var(--muted);font-size:.8rem;text-align:center;padding:20px}
+  .sticky{position:sticky;bottom:0;background:rgba(244,246,248,.95);padding:10px 0;backdrop-filter:blur(4px)}
+  .fab{position:fixed;right:14px;bottom:14px;z-index:5;box-shadow:0 4px 14px rgba(0,0,0,.18)}
+  @media (max-width:600px){main{padding:10px}.card,.q{padding:12px}button{padding:11px 14px}}
+
+  /* ===== 인쇄 ===== */
+  @media print{
+    @page{margin:14mm 12mm}
+    body{background:#fff;font-size:11pt;line-height:1.45;color:#000}
+    header,footer,.no-print,.toolbar,.sticky,.fab,#setup{display:none!important}
+    main{max-width:none;padding:0;margin:0}
+    .sheet-head{display:block;margin-bottom:10px;border-bottom:2px solid #000;padding-bottom:6px}
+    .sheet-head h2{margin:0 0 4px;font-size:15pt}
+    .sheet-head .meta{display:flex;justify-content:space-between;flex-wrap:wrap;gap:6px;font-size:10pt}
+    .sheet-head .blank{display:inline-block;min-width:38mm;border-bottom:1px solid #000;margin-left:4px}
+    .q{border:0;border-bottom:1px solid #ddd;border-radius:0;padding:7px 0;margin:0}
+    .q .tag{display:none}
+    .opts label{border:0;padding:1px 0}
+    .opts input{display:none}
+    .opts{gap:0}
+    .wrongword{text-decoration:underline;text-decoration-thickness:1.5px;font-weight:600}
+    .result{border:0;background:#f3f3f3;-webkit-print-color-adjust:exact;print-color-adjust:exact;padding:5px 8px;margin-top:4px}
+    .q.ok,.q.bad{border-color:#ddd}
+    .ansline{display:flex;align-items:flex-end;gap:6px;margin-top:6px}.ansline::before{content:'답:';font-size:10pt}.ansline input{border:0;border-bottom:1px solid #000;border-radius:0;height:8mm;flex:1;background:#fff}
+    .ansline input::placeholder{color:transparent}
+    body.print-paper .result,body.print-paper .mark-ans{display:none!important}
+    body.print-key .ansline{display:none}
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>젤라쌤 문법 문제 생성기</h1>
+  <p>중1·중2 영어 문법 — 안젤라 영어 교실</p>
+</header>
+<main>
+  <!-- ===== 설정 화면 ===== -->
+  <section id="setup">
+    <div class="card">
+      <h2>1. 학년</h2>
+      <div class="seg" id="gradeSeg">
+        <label><input type="radio" name="grade" value="1" checked> 중1</label>
+        <label><input type="radio" name="grade" value="2"> 중2</label>
+      </div>
+    </div>
+    <div class="card">
+      <h2>2. 단원 <span class="hint" style="display:inline">(여러 개 골라도 돼요)</span></h2>
+      <div class="row" style="margin-bottom:6px">
+        <select id="pubSel"><option value="">교과서로 고르기 (선택)</option></select>
+        <select id="lessonSel" class="hidden"><option value="">Lesson 전체</option></select>
+        <button class="ghost" id="btnAllUnits" type="button">모두 선택</button>
+        <button class="ghost" id="btnNoUnits" type="button">모두 해제</button>
+      </div>
+      <div class="units" id="unitList"></div>
+      <p class="hint">흐리게 보이는 단원은 아직 문제 은행이 없는 단원이에요.</p>
+    </div>
+    <div class="card">
+      <h2>3. 문제 유형</h2>
+      <div class="seg" id="typeSeg">
+        <label><input type="checkbox" name="type" value="choice" checked> 객관식 · 알맞은 말 고르기</label>
+        <label><input type="checkbox" name="type" value="error" checked> 객관식 · 어법상 틀린 것 고르기</label>
+        <label><input type="checkbox" name="type" value="blank" checked> 빈칸 채우기</label>
+        <label><input type="checkbox" name="type" value="fix" checked> 틀린 부분 고쳐 쓰기</label>
+        <label><input type="checkbox" name="type" value="arrange" checked> 배열·영작 (서술형 대비)</label>
+      </div>
+    </div>
+    <div class="card">
+      <h2>4. 문제 수</h2>
+      <div class="row">
+        <div class="seg" id="countSeg">
+          <label><input type="radio" name="count" value="10"> 10</label>
+          <label><input type="radio" name="count" value="15"> 15</label>
+          <label><input type="radio" name="count" value="20" checked> 20</label>
+          <label><input type="radio" name="count" value="30"> 30</label>
+          <label><input type="radio" name="count" value="custom"> 직접 입력</label>
+        </div>
+        <input type="number" id="countCustom" min="1" max="200" value="25" class="hidden" style="width:90px">
+      </div>
+      <p class="hint" id="poolInfo"></p>
+    </div>
+    <div class="card">
+      <h2>5. 시작</h2>
+      <div class="row">
+        <button class="primary" id="btnStudent" type="button">학생용 — 문제 풀기</button>
+        <button id="btnTeacher" type="button">선생님용 — 시험지·답지 만들기</button>
+      </div>
+      <p class="hint">문제는 고를 때마다 무작위로 뽑혀요. 보기 순서도 매번 섞여요.</p>
+    </div>
+  </section>
+
+  <!-- ===== 문제 화면 ===== -->
+  <section id="quiz" class="hidden">
+    <div class="toolbar no-print">
+      <button class="ghost" id="btnBack" type="button">← 설정으로</button>
+      <button class="ghost" id="btnRegen" type="button">같은 조건으로 새 문제</button>
+      <span class="sp"></span>
+      <button id="btnPrintPaper" type="button">🖨 시험지 인쇄 (문제만)</button>
+      <button id="btnPrintKey" type="button">🖨 답지 인쇄 (정답·해설)</button>
+    </div>
+    <div class="sheet-head">
+      <h2 id="sheetTitle">영어 문법 문제</h2>
+      <div class="meta"><span id="sheetUnits"></span><span>이름: <span class="blank"></span> &nbsp; 점수: <span class="blank" style="min-width:18mm"></span></span></div>
+    </div>
+    <div id="scoreBox" class="card hidden no-print"></div>
+    <div id="qList"></div>
+    <div class="sticky no-print" id="submitBar">
+      <div class="row"><button class="primary" id="btnSubmit" type="button">제출하고 채점하기</button><span class="hint" id="progress"></span></div>
+    </div>
+    <div class="toolbar no-print" id="afterBar" style="display:none">
+      <button class="ghost" id="btnRetry" type="button">같은 문제 다시 풀기</button>
+      <button class="primary" id="btnRegen2" type="button">새 문제 풀기</button>
+      <button class="ghost" id="btnWrongOnly" type="button">틀린 문제만 보기</button>
+    </div>
+  </section>
+</main>
+<footer>문제와 해설은 젤라쌤의 중1·중2 문법 정리 문서를 바탕으로 만들었어요. · 브라우저 인쇄 창에서 "배경 그래픽"을 켜면 답지의 해설 상자가 더 잘 보여요.</footer>
+
+<script id="appData" type="application/json">__DATA__</script>
+<script>
+(function(){
+'use strict';
+const DATA=JSON.parse(document.getElementById('appData').textContent);
+const UNITS=DATA.units, BANK=DATA.bank, PUBS=DATA.publishers;
+const TYPE_NAME={choice:'객관식',error:'틀린 것 고르기',blank:'빈칸',fix:'고쳐 쓰기',arrange:'배열·영작'};
+const CIRC='①②③④⑤';
+const $=s=>document.querySelector(s), $$=s=>Array.from(document.querySelectorAll(s));
+
+// ---------- 설정 화면 ----------
+let state={grade:1,mode:'student',items:[],submitted:false};
+function grade(){return +document.querySelector('input[name=grade]:checked').value}
+function unitsOfGrade(g){return UNITS.filter(u=>u.grade===g)}
+function poolSize(u){return (BANK[u.id]||[]).length}
+
+function renderUnits(){
+  const g=grade(), pub=$('#pubSel').value, lesson=$('#lessonSel').value;
+  const box=$('#unitList'); box.innerHTML='';
+  unitsOfGrade(g).forEach(u=>{
+    const lessons=u.textbooks[pub]||[];
+    if(pub && !lessons.length) return;
+    if(pub && lesson && !lessons.includes(+lesson)) return;
+    const n=poolSize(u);
+    const lab=document.createElement('label');
+    if(!n) lab.className='empty';
+    lab.innerHTML=`<input type="checkbox" value="${u.id}" ${n?'':'disabled'}><span>${u.title}<br><span class="n">${n?n+'문제':'준비 중'}${pub&&lessons.length?' · Lesson '+lessons.join('·'):''}</span></span>`;
+    box.appendChild(lab);
+  });
+  box.addEventListener('change',updatePool);
+  updatePool();
+}
+function renderPubs(){
+  const sel=$('#pubSel');
+  PUBS.forEach(p=>{const o=document.createElement('option');o.value=p.id;o.textContent=p.name;sel.appendChild(o)});
+}
+function renderLessons(){
+  const pub=$('#pubSel').value, sel=$('#lessonSel');
+  sel.innerHTML='<option value="">Lesson 전체</option>';
+  if(!pub){sel.classList.add('hidden');return}
+  const ls=new Set(); unitsOfGrade(grade()).forEach(u=>(u.textbooks[pub]||[]).forEach(l=>ls.add(l)));
+  [...ls].sort((a,b)=>a-b).forEach(l=>{const o=document.createElement('option');o.value=l;o.textContent='Lesson '+l;sel.appendChild(o)});
+  sel.classList.remove('hidden');
+}
+function selectedUnits(){return $$('#unitList input:checked').map(i=>i.value)}
+function selectedTypes(){return $$('input[name=type]:checked').map(i=>i.value)}
+function wantCount(){const v=document.querySelector('input[name=count]:checked').value;return v==='custom'?Math.max(1,+$('#countCustom').value||1):+v}
+function pool(){
+  const us=selectedUnits(), ts=selectedTypes();
+  return us.flatMap(id=>(BANK[id]||[]).filter(q=>ts.includes(q.type)).map(q=>Object.assign({unit:id},q)));
+}
+function updatePool(){
+  const p=pool().length, info=$('#poolInfo');
+  const us=selectedUnits().length;
+  info.textContent= us? `고른 단원·유형에서 뽑을 수 있는 문제: ${p}개` : '단원을 골라 주세요.';
+  $('#btnStudent').disabled=$('#btnTeacher').disabled=!p;
+}
+
+$('#gradeSeg').addEventListener('change',()=>{renderLessons();renderUnits()});
+$('#pubSel').addEventListener('change',()=>{renderLessons();renderUnits()});
+$('#lessonSel').addEventListener('change',renderUnits);
+$('#typeSeg').addEventListener('change',updatePool);
+$('#countSeg').addEventListener('change',()=>{$('#countCustom').classList.toggle('hidden',document.querySelector('input[name=count]:checked').value!=='custom')});
+$('#btnAllUnits').onclick=()=>{$$('#unitList input:not(:disabled)').forEach(i=>i.checked=true);updatePool()};
+$('#btnNoUnits').onclick=()=>{$$('#unitList input').forEach(i=>i.checked=false);updatePool()};
+
+// ---------- 문제 뽑기 ----------
+function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
+function pick(){
+  const ts=selectedTypes(), n=wantCount();
+  const byType={}; pool().forEach(q=>(byType[q.type]=byType[q.type]||[]).push(q));
+  ts.forEach(t=>shuffle(byType[t]||[]));
+  // 유형별로 고르게 나눠 뽑기 (부족한 유형은 다른 유형으로 채움)
+  const out=[]; let left=n, active=ts.filter(t=>(byType[t]||[]).length);
+  while(left>0&&active.length){
+    for(const t of [...active]){ if(left<=0)break; const q=byType[t].pop(); if(q){out.push(q);left--} if(!byType[t].length)active=active.filter(x=>x!==t); }
+  }
+  // 유형 순서대로 정렬: 객관식 → 틀린 것 → 빈칸 → 고쳐쓰기 → 배열
+  const order=['choice','error','blank','fix','arrange'];
+  out.sort((a,b)=>order.indexOf(a.type)-order.indexOf(b.type));
+  return out.map(q=>{
+    const it={q,ans:null};
+    if(q.o){ it.perm=shuffle(q.o.map((_,i)=>i)); } // 화면 순서 → 원래 번호
+    return it;
+  });
+}
+
+// ---------- 화면 그리기 ----------
+const esc=s=>String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;');
+const allowTags=s=>esc(s).replace(/&lt;(\/?)(br|b|u)>/g,'<$1$2>');
+function renderQuiz(){
+  const list=$('#qList'); list.innerHTML='';
+  const unitNames=[...new Set(state.items.map(i=>i.q.unit))].map(id=>UNITS.find(u=>u.id===id).title);
+  $('#sheetTitle').textContent=`중${state.grade} 영어 문법 문제 (${state.items.length}문제)`;
+  $('#sheetUnits').textContent='단원: '+unitNames.join(', ');
+  state.items.forEach((it,idx)=>{
+    const q=it.q, d=document.createElement('div'); d.className='q'; d.dataset.i=idx;
+    let body=`<div class="top"><span class="num">${idx+1}.</span><span class="tag">${TYPE_NAME[q.type]}</span></div>`;
+    if(q.type==='arrange'){
+      body+=`<p class="text">우리말과 같은 뜻이 되도록 주어진 말을 바르게 배열하세요.${q.cond?' '+esc(q.cond):''}</p><p class="ko">${esc(q.ko)}</p><p class="words">${q.words.map(esc).join(' &nbsp;/&nbsp; ')}</p>`;
+    } else if(q.type==='fix'){
+      const parts=q.q.split(q.wrong);
+      const sentence=allowTags(parts[0])+`<span class="wrongword">${esc(q.wrong)}</span>`+allowTags(parts.slice(1).join(q.wrong));
+      body+=`<p class="text">밑줄 친 부분을 바르게 고쳐 쓰세요.</p><p class="text">${sentence}</p>${q.ko?`<p class="ko">(${esc(q.ko)})</p>`:''}`;
+    } else {
+      body+=`<p class="text">${allowTags(q.q)}</p>${q.ko?`<p class="ko">(${esc(q.ko)})</p>`:''}`;
+    }
+    if(q.o){
+      body+='<ul class="opts">'+it.perm.map((orig,k)=>`<li><label><input type="radio" name="q${idx}" value="${orig}"><span class="mark">${CIRC[k]}</span><span>${allowTags(q.o[orig])}</span></label></li>`).join('')+'</ul>';
+    } else {
+      body+=`<div class="ansline"><input type="text" data-i="${idx}" placeholder="${q.type==='arrange'?'문장을 쓰세요':'답을 쓰세요'}" autocomplete="off" autocapitalize="off" spellcheck="false"></div>`;
+    }
+    body+=`<div class="result hidden"></div>`;
+    d.innerHTML=body; list.appendChild(d);
+  });
+  list.oninput=list.onchange=updateProgress;
+  updateProgress();
+}
+function updateProgress(){
+  const n=state.items.length, done=state.items.filter((it,i)=>readAnswer(i)!==null).length;
+  $('#progress').textContent=`${done} / ${n} 답함`;
+}
+function readAnswer(i){
+  const it=state.items[i];
+  if(it.q.o){const r=document.querySelector(`input[name=q${i}]:checked`);return r?+r.value:null}
+  const v=($(`input[type=text][data-i="${i}"]`)||{}).value||'';return v.trim()?v.trim():null;
+}
+
+// ---------- 채점 ----------
+const norm=s=>String(s).toLowerCase().replace(/[’‘]/g,"'").replace(/[^a-z0-9' ]/g,' ').replace(/\s+/g,' ').trim();
+function grade1(it,ans){
+  const q=it.q;
+  if(q.o) return ans===q.a;
+  if(ans===null) return false;
+  const a=norm(ans);
+  if(q.ans.some(x=>norm(x)===a)) return true;
+  if(q.type==='fix'){ // 문장 전체를 고쳐 쓴 경우도 인정
+    return q.ans.some(x=>norm(q.q.replace(q.wrong,x))===a);
+  }
+  return false;
+}
+function showResults(){
+  let correct=0;
+  state.items.forEach((it,i)=>{
+    const q=it.q, ans=readAnswer(i), ok=grade1(it,ans); it.ans=ans; it.ok=ok; if(ok)correct++;
+    const box=$(`.q[data-i="${i}"]`), r=box.querySelector('.result');
+    box.classList.add(ok?'ok':'bad');
+    const correctText=q.o? `${CIRC[it.perm.indexOf(q.a)]} ${allowTags(q.o[q.a])}` : esc(q.ans[0])+(q.ans.length>1?` <span class="hint" style="display:inline">(또는 ${q.ans.slice(1).map(esc).join(' / ')})</span>`:'');
+    let mine='';
+    if(!ok){ mine= ans===null?'(답 없음)': q.o?`${CIRC[it.perm.indexOf(ans)]} ${allowTags(q.o[ans])}`:esc(ans); }
+    r.className='result '+(ok?'ok':'bad');
+    r.innerHTML=`<span class="badge ${ok?'ok':'bad'}">${ok?'정답':'오답'}</span> ${!ok?`<span class="lab">내 답:</span> ${mine} &nbsp; `:''}<span class="lab">정답:</span> ${correctText}<div><span class="lab">해설</span> ${esc(q.e)}</div><div class="ref">근거: ${esc(UNITS.find(u=>u.id===q.unit).title)} › ${esc(q.ref)}</div>`;
+    box.querySelectorAll('input').forEach(x=>x.disabled=true);
+  });
+  const n=state.items.length;
+  const sb=$('#scoreBox'); sb.classList.remove('hidden');
+  sb.innerHTML=`<div class="score">${correct} / ${n} 맞았어요 <small>(${Math.round(correct/n*100)}점)</small></div><p class="hint">${correct===n?'전부 맞았어요! 🎉':'틀린 문제의 해설을 읽고, "같은 문제 다시 풀기"로 복습해 보세요.'}</p>`;
+  state.submitted=true;
+  $('#submitBar').style.display='none'; $('#afterBar').style.display='flex';
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
+// ---------- 선생님용 (시험지·답지) ----------
+function renderTeacher(){
+  renderQuiz();
+  // 답지에 쓸 정답·해설을 미리 채워 두고 화면에서는 토글로 보여줌
+  state.items.forEach((it,i)=>{
+    const q=it.q, r=$(`.q[data-i="${i}"] .result`);
+    const correctText=q.o? `${CIRC[it.perm.indexOf(q.a)]} ${allowTags(q.o[q.a])}` : q.ans.map(esc).join(' / ');
+    r.className='result ok';
+    r.innerHTML=`<span class="lab">정답</span> ${correctText} &nbsp; <span class="lab">해설</span> ${esc(q.e)}<div class="ref">근거: ${esc(UNITS.find(u=>u.id===q.unit).title)} › ${esc(q.ref)}</div>`;
+    $(`.q[data-i="${i}"]`).querySelectorAll('input').forEach(x=>x.disabled=true);
+  });
+  $('#submitBar').style.display='none'; $('#afterBar').style.display='none';
+  const sb=$('#scoreBox'); sb.classList.remove('hidden');
+  sb.innerHTML=`<div class="row"><b>선생님용 미리보기</b><button class="ghost" id="btnToggleKey" type="button">정답·해설 보기</button><span class="hint">위의 인쇄 버튼으로 시험지(문제만) 또는 답지(정답·해설 포함)를 뽑을 수 있어요.</span></div>`;
+  $('#btnToggleKey').onclick=()=>{const on=$('#qList').classList.toggle('show-key');$$('#qList .result').forEach(r=>r.classList.toggle('hidden',!on));$('#btnToggleKey').textContent=on?'정답·해설 숨기기':'정답·해설 보기'};
+}
+
+// ---------- 흐름 ----------
+function start(mode){
+  state.grade=grade(); state.mode=mode; state.submitted=false;
+  state.items=pick();
+  if(!state.items.length){alert('뽑을 문제가 없어요. 단원과 유형을 확인해 주세요.');return}
+  $('#setup').classList.add('hidden'); $('#quiz').classList.remove('hidden');
+  $('#scoreBox').classList.add('hidden'); $('#qList').classList.remove('show-key');
+  if(mode==='teacher') renderTeacher();
+  else { renderQuiz(); $('#submitBar').style.display='block'; $('#afterBar').style.display='none'; }
+  window.scrollTo(0,0);
+}
+$('#btnStudent').onclick=()=>start('student');
+$('#btnTeacher').onclick=()=>start('teacher');
+$('#btnBack').onclick=()=>{$('#quiz').classList.add('hidden');$('#setup').classList.remove('hidden');window.scrollTo(0,0)};
+$('#btnRegen').onclick=$('#btnRegen2').onclick=()=>start(state.mode);
+$('#btnRetry').onclick=()=>{ state.submitted=false; renderQuiz(); $('#scoreBox').classList.add('hidden'); $('#submitBar').style.display='block'; $('#afterBar').style.display='none'; window.scrollTo(0,0); };
+$('#btnWrongOnly').onclick=function(){
+  const on=this.dataset.on!=='1'; this.dataset.on=on?'1':'0';
+  $$('#qList .q').forEach(b=>b.classList.toggle('hidden',on&&b.classList.contains('ok')));
+  this.textContent=on?'모든 문제 보기':'틀린 문제만 보기';
+};
+$('#btnSubmit').onclick=()=>{
+  const n=state.items.length, done=state.items.filter((it,i)=>readAnswer(i)!==null).length;
+  if(done<n && !confirm(`아직 ${n-done}문제를 안 풀었어요. 그래도 제출할까요?`)) return;
+  showResults();
+};
+// 인쇄: 시험지(문제만) / 답지(정답·해설)
+function printAs(kind){
+  const list=$('#qList');
+  const wasKey=list.classList.contains('show-key');
+  const hiddenResults=$$('#qList .result').map(r=>r.classList.contains('hidden'));
+  document.body.classList.add(kind==='paper'?'print-paper':'print-key');
+  if(kind==='key'){ // 답지: 결과 상자 모두 보이기 (학생 모드에서 아직 제출 전이면 정답을 채워 넣음)
+    if(state.mode==='student'&&!state.submitted){ fillKeyForPrint(); }
+    $$('#qList .result').forEach(r=>r.classList.remove('hidden'));
+  }
+  $$('#qList .q.hidden').forEach(b=>{b.classList.remove('hidden');b.dataset.unhid='1'});
+  const cleanup=()=>{
+    document.body.classList.remove('print-paper','print-key');
+    $$('#qList .result').forEach((r,i)=>r.classList.toggle('hidden',hiddenResults[i]));
+    $$('#qList .q[data-unhid]').forEach(b=>{b.classList.add('hidden');delete b.dataset.unhid});
+    if(state.mode==='student'&&!state.submitted){ $$('#qList .result').forEach(r=>{r.classList.add('hidden');r.innerHTML=''}); }
+    window.removeEventListener('afterprint',cleanup);
+  };
+  window.addEventListener('afterprint',cleanup);
+  window.print();
+  setTimeout(cleanup,1500); // afterprint가 안 오는 브라우저 대비
+}
+function fillKeyForPrint(){
+  state.items.forEach((it,i)=>{
+    const q=it.q, r=$(`.q[data-i="${i}"] .result`);
+    const correctText=q.o? `${CIRC[it.perm.indexOf(q.a)]} ${allowTags(q.o[q.a])}` : q.ans.map(esc).join(' / ');
+    r.className='result ok';
+    r.innerHTML=`<span class="lab">정답</span> ${correctText} &nbsp; <span class="lab">해설</span> ${esc(q.e)}`;
+  });
+}
+$('#btnPrintPaper').onclick=()=>printAs('paper');
+$('#btnPrintKey').onclick=()=>printAs('key');
+
+// 초기화
+renderPubs(); renderLessons(); renderUnits();
+})();
+</script>
+</body>
+</html>
