@@ -72,7 +72,7 @@
    "ref":"1. 현재분사 vs 과거분사"},
   {"id":"2-09-c14","type":"choice",
    "q":"우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>떨어지는 나뭇잎들이 아름답다.<br>The ____ leaves are beautiful.",
-   "o":["falling","fall","falls","fell","to fall"],"a":0,
+   "o":["falling","is falling","falls","fell","to fall"],"a":0,
    "e":"나뭇잎이 직접 떨어지는 능동·진행이라서 현재분사 falling을 써요.",
    "ref":"1. 현재분사 vs 과거분사"},
   {"id":"2-09-c15","type":"choice",

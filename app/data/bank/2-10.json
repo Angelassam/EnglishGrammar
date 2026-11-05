@@ -139,7 +139,7 @@
    "e":"each of + 복수명사도 단수동사를 써요. like → likes",
    "ref":"2. each of + 복수명사도 단수동사"},
   {"id":"2-10-f04","type":"fix","q":"Every of the students has a locker.","wrong":"Every of",
-   "ko":"학생들 각자가 사물함을 가지고 있다.","ans":["Each of"],
+   "ko":"학생들 각자가 사물함을 가지고 있다.","ans":["Each of","Every one of"],
    "e":"every of는 쓸 수 없어요. 'of + 복수명사' 앞에는 each를 써요. Every of → Each of",
    "ref":"1. each vs every"},
   {"id":"2-10-f05","type":"fix","q":"Everyone are here.","wrong":"are",
