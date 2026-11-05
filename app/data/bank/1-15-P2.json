@@ -105,7 +105,7 @@
 
   {"id":"1-15-P2-b01","type":"blank",
    "q":"우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (세 단어)<br>그는 건강을 유지하기 위해서 매일 운동한다.<br>He exercises every day ____ ____ ____ stay healthy.",
-   "ans":["in order to"],
+   "ans":["in order to","so as to"],
    "e":"목적을 분명히 나타낼 때 in order to + 동사원형을 써요.",
    "ref":"Part 2 / 1. 목적을 분명히 — in order to"},
   {"id":"1-15-P2-b02","type":"blank",
