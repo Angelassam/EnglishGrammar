@@ -42,12 +42,12 @@
    "o": [
     "The more / the fewer",
     "More / fewer",
-    "The more / the less",
+    "The more / fewer",
     "The most / the fewest",
     "The much / the few"
    ],
    "a": 0,
-   "e": "'~할수록 더 …하다'는 the + 비교급 ~, the + 비교급 … 으로 써요. 셀 수 있는 mistakes 앞이라 fewer를 써요.",
+   "e": "'~할수록 더 …하다'는 the + 비교급 ~, the + 비교급 … 으로 써요. 두 번째 비교급 fewer 앞에도 the를 꼭 붙여요.",
    "ref": "Part 2 / 4. the + 비교급 ~, the + 비교급 …"
   },
   {
@@ -134,7 +134,7 @@
     "The new library is not as bigger as the old one that was closed.",
     "Today's homework is even easier than what we did yesterday.",
     "She is one of the most popular writers in the country.",
-    "The earlier you leave, the less traffic you will meet.",
+    "The earlier you leave, the less crowded the bus will be.",
     "Mt. Halla is higher than any other mountain in South Korea."
    ],
    "a": 0,
@@ -225,9 +225,8 @@
     "was not",
     "the pizza",
     "as delicious as",
-    "that we ate",
+    "that we ate yesterday",
     "the one",
-    "yesterday",
     "that I made"
    ],
    "ans": [

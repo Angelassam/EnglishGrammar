@@ -5,94 +5,276 @@
  "title": "to부정사 부사적 용법 심화 (in order to·too~to·enough to)",
  "source": "15_to부정사_부사적_용법.md — Part 2. 중2 심화",
  "questions": [
-  {"id":"1-15-P2-H-c01","type":"choice",
-   "q":"두 문장이 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>The box was so heavy that I couldn't carry it to the second floor.<br>= The box was ____ to the second floor.",
-   "o":["too heavy for me to carry","so heavy for me to carry","heavy enough for me to carry","too heavy that I carry","too heavy for me to carry it"],"a":0,
-   "e":"so + 형용사 + that + 주어 + can't는 too + 형용사 + to부정사로 바꿔요. to부정사로 바꾸면 that절의 목적어 it은 쓰지 않고, 주어가 달라서 for me를 넣어요.",
-   "ref":"Part 2 / 3. so ~ that 문장으로 바꾸기"},
-  {"id":"1-15-P2-H-c02","type":"choice",
-   "q":"우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>그녀는 비행기를 놓치지 않기 위해서 새벽 다섯 시에 집을 떠났다.<br>She left home at five in the morning ____ miss the plane.",
-   "o":["in order not to","in order to not","not in order to","so that not to","in order not"],"a":0,
-   "e":"'~하지 않기 위해서'는 in order not to + 동사원형으로 쓰고, not은 to 바로 앞에 와요.",
-   "ref":"Part 2 / 1. in order not to"},
-  {"id":"1-15-P2-H-c03","type":"choice",
-   "q":"밑줄 친 부분과 바꿔 쓸 수 있는 것을 고르세요.<br>My brother has been saving money since March <u>in order to buy</u> a new camera.",
-   "o":["so that he can buy","so that can buy","too much to buy","enough to buy","in order that buy"],"a":0,
-   "e":"목적의 in order to + 동사원형은 so that + 주어 + can + 동사원형으로 바꿔 쓸 수 있어요. so that 뒤에는 반드시 주어가 와야 해요.",
-   "ref":"Part 2 / 1. so that + 주어 + can"},
-  {"id":"1-15-P2-H-c04","type":"choice",
-   "q":"다음 중 어법상 옳은 문장을 고르세요.",
-   "o":["The water in the lake was warm enough for the children to swim in.","The water in the lake was enough warm for the children to swim in.","The water in the lake was warm enough that the children swim in.","The water in the lake was too warm for the children to swim in it.","The water in the lake was warm enough for the children swimming in."],"a":0,
-   "e":"enough는 형용사 뒤에 와서 형용사 + enough + (for + 목적격) + to부정사 순서로 써요. enough warm은 틀려요.",
-   "ref":"Part 2 / 3. 주의! enough는 형용사 뒤"},
-  {"id":"1-15-P2-H-c05","type":"choice",
-   "q":"밑줄 친 to부정사의 쓰임이 나머지 넷과 <b>다른</b> 것을 고르세요.",
-   "o":["My grandfather grew up <u>to become</u> a famous painter in his town.","He must be rich <u>to buy</u> a car that costs so much money.","She must be kind <u>to help</u> the old man who was carrying heavy bags.","You must be brave <u>to speak</u> in front of so many people.","They must be tired <u>to fall</u> asleep as soon as the movie started."],"a":0,
-   "e":"첫 번째는 '자라서 결국 ~가 되었다'라는 결과의 to부정사예요. 나머지는 must be + 형용사 뒤에서 '~하다니'라는 판단의 근거를 나타내요.",
-   "ref":"Part 2 / 2. 결과 · 판단의 근거"},
-  {"id":"1-15-P2-H-c06","type":"choice",
-   "q":"두 문장이 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>He was clever enough to solve the puzzle that nobody else could solve.<br>= He was ____ the puzzle that nobody else could solve.",
-   "o":["so clever that he could solve","so clever that he couldn't solve","too clever to solve","clever so that he solves","so clever to solve"],"a":0,
-   "e":"형용사 + enough + to부정사는 so + 형용사 + that + 주어 + can(could)으로 바꿔요. 과거 문장이라 could를 쓰고, enough to는 긍정이라 couldn't는 틀려요.",
-   "ref":"Part 2 / 3. so ~ that 문장으로 바꾸기"},
-  {"id":"1-15-P2-H-e01","type":"error","q":"다음 중 어법상 틀린 문장을 고르세요.",
-   "o":["The soup was too hot that I couldn't eat it right away.","She studied all night in order not to fail the test again.","The boy was strong enough to lift the box that was full of books.","I turned off my phone so that I could focus on my homework.","He was too sleepy to finish the book he had borrowed."],"a":0,
-   "e":"'너무 ~해서 …할 수 없다'는 too ~ to부정사이거나 so ~ that + 주어 + can't예요. 둘을 섞은 too ~ that은 틀려요. → The soup was so hot that I couldn't eat it right away.",
-   "ref":"Part 2 / 3. so ~ that 문장으로 바꾸기"},
-  {"id":"1-15-P2-H-e02","type":"error","q":"다음 중 어법상 틀린 문장을 고르세요.",
-   "o":["He was too tired to finish the books that was on his desk.","The room is not big enough for all of us to sit in.","I wrote down his number in order not to forget it.","Tom ran fast enough to catch the bus that was leaving.","She was too busy to answer the e-mails that she had received."],"a":0,
-   "e":"too ~ to부정사 자체는 맞지만, 관계대명사 that의 선행사가 복수 the books라서 동사는 were를 써야 해요. → He was too tired to finish the books that were on his desk.",
-   "ref":"Part 2 / 3. too ~ to / enough to"},
-  {"id":"1-15-P2-H-e03","type":"error","q":"다음 중 어법상 틀린 문장을 고르세요.",
-   "o":["The tea was too hot for me to drink it at once.","It was so cold that we couldn't play outside for long.","The movie was interesting enough for the children to watch twice.","He got up at six in order to catch the first train to Seoul.","The girl was too shy to say hello to the new students."],"a":0,
-   "e":"too ~ to부정사로 바꾸면 주어(the tea)와 같은 목적어 it은 쓰지 않아요. → The tea was too hot for me to drink at once.",
-   "ref":"Part 2 / 3. too ~ to / enough to"},
-  {"id":"1-15-P2-H-b01","type":"blank",
-   "q":"두 문장이 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어 또는 세 단어)<br>The man was too old to climb the mountain that he loved.<br>= The man was so old that he ____ the mountain that he loved.",
-   "ko":"그 남자는 너무 나이가 들어서 자신이 사랑했던 그 산을 오를 수 없었다.",
-   "ans":["couldn't climb","could not climb"],
-   "e":"too ~ to는 so ~ that + 주어 + can't로 바꾸는데, 과거 문장이라 couldn't climb으로 써요.",
-   "ref":"Part 2 / 3. so ~ that 문장으로 바꾸기"},
-  {"id":"1-15-P2-H-b02","type":"blank",
-   "q":"두 문장이 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (네 단어)<br>I have been practicing every day in order to win the contest.<br>= I have been practicing every day ____ win the contest.",
-   "ko":"나는 그 대회에서 우승하기 위해 매일 연습해 오고 있다.",
-   "ans":["so that I can"],
-   "e":"목적의 in order to는 so that + 주어 + can으로 바꿔 쓸 수 있어요. 주절이 현재완료 진행이라 can을 그대로 써요.",
-   "ref":"Part 2 / 1. so that + 주어 + can"},
-  {"id":"1-15-P2-H-b03","type":"blank",
-   "q":"두 문장이 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>This bridge is so strong that trucks can cross it safely.<br>= This bridge is ____ for trucks to cross safely.",
-   "ko":"이 다리는 트럭이 안전하게 건널 수 있을 만큼 충분히 튼튼하다.",
-   "ans":["strong enough"],
-   "e":"so ~ that + 주어 + can은 형용사 + enough + to부정사로 바꿔요. enough는 형용사 뒤에 오고, 주어가 다르니 for trucks를 넣어요.",
-   "ref":"Part 2 / 3. 주의! enough는 형용사 뒤"},
-  {"id":"1-15-P2-H-f01","type":"fix","q":"The baby was enough old to walk by himself when we visited last year.","wrong":"enough old",
-   "ko":"작년에 우리가 방문했을 때 그 아기는 혼자 걸을 만큼 충분히 나이가 들어 있었다.","ans":["old enough"],
-   "e":"enough는 형용사 뒤에 와요. enough old → old enough",
-   "ref":"Part 2 / 3. 주의! enough는 형용사 뒤"},
-  {"id":"1-15-P2-H-f02","type":"fix","q":"He wore a thick coat in order to not catch a cold in the snow.","wrong":"to not",
-   "ko":"그는 눈 속에서 감기에 걸리지 않기 위해서 두꺼운 코트를 입었다.","ans":["not to"],
-   "e":"'~하지 않기 위해서'는 in order not to로 쓰고, not은 to 바로 앞에 와요. to not → not to",
-   "ref":"Part 2 / 1. in order not to"},
-  {"id":"1-15-P2-H-f03","type":"fix","q":"The question was so difficult that no one couldn't answer it in class.","wrong":"couldn't",
-   "ko":"그 문제는 너무 어려워서 수업 시간에 아무도 답할 수 없었다.","ans":["could"],
-   "e":"no one에 이미 부정의 뜻이 있어서 that절에 couldn't를 또 쓰면 안 돼요. no one could answer it으로 써요.",
-   "ref":"Part 2 / 3. so ~ that 문장으로 바꾸기"},
-  {"id":"1-15-P2-H-a01","type":"arrange","ko":"그 소년은 너무 어려서 어제 시작된 그 영화를 볼 수 없었다.",
-   "words":["too young","the boy","was","to watch","that","yesterday","the movie","started"],
-   "ans":["The boy was too young to watch the movie that started yesterday."],
-   "e":"too + 형용사 + to부정사 순서로 쓰고, the movie 뒤에 관계대명사 that절을 이어요.",
-   "ref":"Part 2 / 3. too ~ to / enough to"},
-  {"id":"1-15-P2-H-a02","type":"arrange","ko":"우리는 그 박물관의 그림들을 볼 수 있도록 일찍 떠났다.",
-   "cond":"주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
-   "words":["we","leave","early","so that","we","can","see","the paintings","in the museum"],
-   "ans":["We left early so that we could see the paintings in the museum."],
-   "e":"목적은 so that + 주어 + can으로 쓰는데, 주절이 과거 left라서 can도 could로 바꿔 시제를 맞춰요.",
-   "ref":"Part 2 / 1. so that + 주어 + can"},
-  {"id":"1-15-P2-H-a03","type":"arrange","ko":"그녀는 작년에 지어진 그 다리를 건널 만큼 충분히 용감했다.",
-   "cond":"주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
-   "words":["she","be","brave","enough","cross","the bridge","that","build","last year"],
-   "ans":["She was brave enough to cross the bridge that was built last year."],
-   "e":"형용사 + enough + to부정사 순서로 쓰고, 다리는 '지어진' 것이니 관계대명사절 안을 수동태 was built로 써요.",
-   "ref":"Part 2 / 3. 주의! enough는 형용사 뒤"}
+  {
+   "id": "1-15-P2-H-c01",
+   "type": "choice",
+   "q": "두 문장이 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>The box was so heavy that I couldn't carry it to the second floor.<br>= The box was ____ to the second floor.",
+   "o": [
+    "too heavy for me to carry",
+    "so heavy for me to carry",
+    "heavy enough for me to carry",
+    "too heavy that I carry",
+    "too heavy for me to carry it"
+   ],
+   "a": 0,
+   "e": "so + 형용사 + that + 주어 + can't는 too + 형용사 + to부정사로 바꿔요. to부정사로 바꾸면 that절의 목적어 it은 쓰지 않고, 주어가 달라서 for me를 넣어요.",
+   "ref": "Part 2 / 3. so ~ that 문장으로 바꾸기"
+  },
+  {
+   "id": "1-15-P2-H-c02",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>그녀는 비행기를 놓치지 않기 위해서 새벽 다섯 시에 집을 떠났다.<br>She left home at five in the morning ____ miss the plane.",
+   "o": [
+    "in order not to",
+    "in order to not",
+    "not in order to",
+    "so that not to",
+    "in order not"
+   ],
+   "a": 0,
+   "e": "'~하지 않기 위해서'는 in order not to + 동사원형으로 쓰고, not은 to 바로 앞에 와요.",
+   "ref": "Part 2 / 1. in order not to"
+  },
+  {
+   "id": "1-15-P2-H-c03",
+   "type": "choice",
+   "q": "밑줄 친 부분과 바꿔 쓸 수 있는 것을 고르세요.<br>My brother has been saving money since March <u>in order to buy</u> a new camera.",
+   "o": [
+    "so that he can buy",
+    "so that can buy",
+    "too much to buy",
+    "enough to buy",
+    "in order that buy"
+   ],
+   "a": 0,
+   "e": "목적의 in order to + 동사원형은 so that + 주어 + can + 동사원형으로 바꿔 쓸 수 있어요. so that 뒤에는 반드시 주어가 와야 해요.",
+   "ref": "Part 2 / 1. so that + 주어 + can"
+  },
+  {
+   "id": "1-15-P2-H-c04",
+   "type": "choice",
+   "q": "다음 중 어법상 옳은 문장을 고르세요.",
+   "o": [
+    "The water in the lake was warm enough for the children to swim in.",
+    "The water in the lake was enough warm for the children to swim in.",
+    "The water in the lake was warm enough that the children swim in.",
+    "The water in the lake was too warm for the children to swim in it.",
+    "The water in the lake was warm enough for the children swimming in."
+   ],
+   "a": 0,
+   "e": "enough는 형용사 뒤에 와서 형용사 + enough + (for + 목적격) + to부정사 순서로 써요. enough warm은 틀려요.",
+   "ref": "Part 2 / 3. 주의! enough는 형용사 뒤"
+  },
+  {
+   "id": "1-15-P2-H-c05",
+   "type": "choice",
+   "q": "밑줄 친 to부정사의 쓰임이 나머지 넷과 <b>다른</b> 것을 고르세요.",
+   "o": [
+    "My grandfather grew up <u>to become</u> a famous painter in his town.",
+    "He must be rich <u>to buy</u> a car that costs so much money.",
+    "She must be kind <u>to help</u> the old man who lives next door.",
+    "You must be brave <u>to speak</u> in front of so many people.",
+    "They must be tired <u>to fall</u> asleep so early in the evening."
+   ],
+   "a": 0,
+   "e": "첫 번째는 '자라서 결국 ~가 되었다'라는 결과의 to부정사예요. 나머지는 must be + 형용사 뒤에서 '~하다니'라는 판단의 근거를 나타내요.",
+   "ref": "Part 2 / 2. 결과 · 판단의 근거"
+  },
+  {
+   "id": "1-15-P2-H-c06",
+   "type": "choice",
+   "q": "두 문장이 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>He was clever enough to solve the puzzle that nobody else could solve.<br>= He was ____ the puzzle that nobody else could solve.",
+   "o": [
+    "so clever that he could solve",
+    "so clever that he couldn't solve",
+    "too clever to solve",
+    "clever so that he solves",
+    "so clever to solve"
+   ],
+   "a": 0,
+   "e": "형용사 + enough + to부정사는 so + 형용사 + that + 주어 + can(could)으로 바꿔요. 과거 문장이라 could를 쓰고, enough to는 긍정이라 couldn't는 틀려요.",
+   "ref": "Part 2 / 3. so ~ that 문장으로 바꾸기"
+  },
+  {
+   "id": "1-15-P2-H-e01",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "I turned off my phone so that could focus on my homework.",
+    "She studied all night in order not to fail the test again.",
+    "The boy was strong enough to lift the box that was full of books.",
+    "The soup was so hot that I couldn't eat it right away.",
+    "He was too sleepy to finish the book he had borrowed."
+   ],
+   "a": 0,
+   "e": "목적의 so that 뒤에는 반드시 주어 + can(could) + 동사원형이 와야 해요. → I turned off my phone so that I could focus on my homework.",
+   "ref": "Part 2 / 1. so that + 주어 + can"
+  },
+  {
+   "id": "1-15-P2-H-e02",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "He was so tired to finish the books that were on his desk.",
+    "The room is not big enough for all of us to sit in.",
+    "I wrote down his number in order not to forget it.",
+    "Tom ran fast enough to catch the bus that was leaving.",
+    "She was too busy to answer the e-mails that she had received."
+   ],
+   "a": 0,
+   "e": "'너무 ~해서 …할 수 없다'는 too + 형용사 + to부정사예요. so는 so ~ that + 주어 + can't와 짝이라 so ~ to로 섞어 쓰면 틀려요. → He was too tired to finish the books that were on his desk.",
+   "ref": "Part 2 / 3. too ~ to / enough to"
+  },
+  {
+   "id": "1-15-P2-H-e03",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "The tea was too hot for me to drink it at once.",
+    "It was so cold that we couldn't play outside for long.",
+    "The movie was interesting enough for the children to watch twice.",
+    "He got up at six in order to catch the first train to Seoul.",
+    "The girl was too shy to say hello to the new students."
+   ],
+   "a": 0,
+   "e": "too ~ to부정사로 바꾸면 주어(the tea)와 같은 목적어 it은 쓰지 않아요. → The tea was too hot for me to drink at once.",
+   "ref": "Part 2 / 3. too ~ to / enough to"
+  },
+  {
+   "id": "1-15-P2-H-b01",
+   "type": "blank",
+   "q": "두 문장이 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어 또는 세 단어)<br>The man was too old to climb the mountain that he loved.<br>= The man was so old that he ____ the mountain that he loved.",
+   "ko": "그 남자는 너무 나이가 들어서 자신이 사랑했던 그 산을 오를 수 없었다.",
+   "ans": [
+    "couldn't climb",
+    "could not climb"
+   ],
+   "e": "too ~ to는 so ~ that + 주어 + can't로 바꾸는데, 과거 문장이라 couldn't climb으로 써요.",
+   "ref": "Part 2 / 3. so ~ that 문장으로 바꾸기"
+  },
+  {
+   "id": "1-15-P2-H-b02",
+   "type": "blank",
+   "q": "두 문장이 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (네 단어)<br>I have been practicing every day in order to win the contest.<br>= I have been practicing every day ____ win the contest.",
+   "ko": "나는 그 대회에서 우승하기 위해 매일 연습해 오고 있다.",
+   "ans": [
+    "so that I can",
+    "so that I will",
+    "so that I'll"
+   ],
+   "e": "목적의 in order to는 so that + 주어 + can/will로 바꿔 쓸 수 있어요. 주절이 현재완료 진행이라 can을 그대로 써요.",
+   "ref": "Part 2 / 1. so that + 주어 + can"
+  },
+  {
+   "id": "1-15-P2-H-b03",
+   "type": "blank",
+   "q": "두 문장이 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>This bridge is so strong that trucks can cross it safely.<br>= This bridge is ____ for trucks to cross safely.",
+   "ko": "이 다리는 트럭이 안전하게 건널 수 있을 만큼 충분히 튼튼하다.",
+   "ans": [
+    "strong enough"
+   ],
+   "e": "so ~ that + 주어 + can은 형용사 + enough + to부정사로 바꿔요. enough는 형용사 뒤에 오고, 주어가 다르니 for trucks를 넣어요.",
+   "ref": "Part 2 / 3. 주의! enough는 형용사 뒤"
+  },
+  {
+   "id": "1-15-P2-H-f01",
+   "type": "fix",
+   "q": "The baby was enough old to walk by himself when we visited last year.",
+   "wrong": "enough old",
+   "ko": "작년에 우리가 방문했을 때 그 아기는 혼자 걸을 만큼 충분히 나이가 들어 있었다.",
+   "ans": [
+    "old enough"
+   ],
+   "e": "enough는 형용사 뒤에 와요. enough old → old enough",
+   "ref": "Part 2 / 3. 주의! enough는 형용사 뒤"
+  },
+  {
+   "id": "1-15-P2-H-f02",
+   "type": "fix",
+   "q": "He wore a thick coat in order to not catch a cold in the snow.",
+   "wrong": "to not",
+   "ko": "그는 눈 속에서 감기에 걸리지 않기 위해서 두꺼운 코트를 입었다.",
+   "ans": [
+    "not to"
+   ],
+   "e": "'~하지 않기 위해서'는 in order not to로 쓰고, not은 to 바로 앞에 와요. to not → not to",
+   "ref": "Part 2 / 1. in order not to"
+  },
+  {
+   "id": "1-15-P2-H-f03",
+   "type": "fix",
+   "q": "The question was too difficult that no one could answer it in class.",
+   "wrong": "too difficult that",
+   "ko": "그 문제는 너무 어려워서 수업 시간에 아무도 답할 수 없었다.",
+   "ans": [
+    "so difficult that"
+   ],
+   "e": "that절로 '너무 ~해서 …하다'를 쓸 때는 so + 형용사 + that이에요. too는 to부정사와만 짝을 이뤄요. too difficult that → so difficult that",
+   "ref": "Part 2 / 3. so ~ that 문장으로 바꾸기"
+  },
+  {
+   "id": "1-15-P2-H-a01",
+   "type": "arrange",
+   "ko": "그 소년은 너무 어려서 어제 시작된 그 영화를 볼 수 없었다.",
+   "words": [
+    "too young",
+    "the boy",
+    "was",
+    "to watch",
+    "that",
+    "yesterday",
+    "the movie",
+    "started"
+   ],
+   "ans": [
+    "The boy was too young to watch the movie that started yesterday."
+   ],
+   "e": "too + 형용사 + to부정사 순서로 쓰고, the movie 뒤에 관계대명사 that절을 이어요.",
+   "ref": "Part 2 / 3. too ~ to / enough to"
+  },
+  {
+   "id": "1-15-P2-H-a02",
+   "type": "arrange",
+   "ko": "우리는 그 박물관의 그림들을 볼 수 있도록 일찍 떠났다.",
+   "cond": "주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
+   "words": [
+    "we",
+    "leave",
+    "early",
+    "so that",
+    "we",
+    "can",
+    "see",
+    "the paintings",
+    "in the museum"
+   ],
+   "ans": [
+    "We left early so that we could see the paintings in the museum."
+   ],
+   "e": "목적은 so that + 주어 + can으로 쓰는데, 주절이 과거 left라서 can도 could로 바꿔 시제를 맞춰요.",
+   "ref": "Part 2 / 1. so that + 주어 + can"
+  },
+  {
+   "id": "1-15-P2-H-a03",
+   "type": "arrange",
+   "ko": "그녀는 작년에 지어진 그 다리를 건널 만큼 충분히 용감했다.",
+   "cond": "주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
+   "words": [
+    "she",
+    "be",
+    "brave",
+    "enough",
+    "cross",
+    "the bridge",
+    "that",
+    "build",
+    "last year"
+   ],
+   "ans": [
+    "She was brave enough to cross the bridge that was built last year."
+   ],
+   "e": "형용사 + enough + to부정사 순서로 쓰고, 다리는 '지어진' 것이니 관계대명사절 안을 수동태 was built로 써요.",
+   "ref": "Part 2 / 3. 주의! enough는 형용사 뒤"
+  }
  ]
 }
