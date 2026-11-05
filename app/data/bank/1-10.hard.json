@@ -1,0 +1,270 @@
+{
+ "unit": "1-10",
+ "grade": 1,
+ "level": "hard",
+ "title": "의문사 의문문",
+ "source": "10_의문사_의문문.md",
+ "questions": [
+  {
+   "id": "1-10-H-c01",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>너의 언니는 주말에 도서관에서 몇 시간 동안 공부하니?<br>How many hours ____ your sister study at the library on weekends?",
+   "o": [
+    "does",
+    "do",
+    "is",
+    "did",
+    "was"
+   ],
+   "a": 0,
+   "e": "일반동사 현재이고 주어 your sister가 3인칭 단수라서 does를 써요. How many hours를 맨 앞에 두고 그 뒤는 does + 주어 + 동사원형 순서예요. did는 과거라서 뜻이 맞지 않아요.",
+   "ref": "1. 기본 어순 — 의문사 + 의문문 어순"
+  },
+  {
+   "id": "1-10-H-c02",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>누가 너에게 이 생일 카드와 예쁜 빨간 꽃을 보냈니?<br>____ you this birthday card and the pretty red flowers?",
+   "o": [
+    "Who sent",
+    "Who did send",
+    "Who did sent",
+    "Who sends",
+    "Who was send"
+   ],
+   "a": 0,
+   "e": "의문사 Who가 주어일 때는 did 없이 바로 동사를 써요. '보냈니'는 과거라서 sent예요. Who sends는 현재라서 뜻이 맞지 않아요.",
+   "ref": "2. 의문사가 주어일 때 — do/does/did 없이 바로 동사"
+  },
+  {
+   "id": "1-10-H-c03",
+   "type": "choice",
+   "q": "다음 중 어법상 옳은 문장을 고르세요.",
+   "ko": "너는 오늘 아침에 실수로 누구의 우산을 가져갔니?",
+   "o": [
+    "Whose umbrella did you take by mistake this morning?",
+    "Whose umbrella you took by mistake this morning?",
+    "Whose umbrella did you took by mistake this morning?",
+    "Who umbrella did you take by mistake this morning?",
+    "Whose did you take umbrella by mistake this morning?"
+   ],
+   "a": 0,
+   "e": "'누구의 ~'는 whose + 명사를 맨 앞에 두고, 그 뒤는 did + 주어 + 동사원형 순서예요. did 뒤에 took을 쓰거나 whose와 umbrella를 떼어 놓으면 틀려요.",
+   "ref": "3. 의문사 + 명사 / how + 형용사·부사"
+  },
+  {
+   "id": "1-10-H-c04",
+   "type": "choice",
+   "q": "대화의 빈칸에 알맞은 말을 고르세요.<br>A: How often does your family eat out at a restaurant?<br>B: ____",
+   "o": [
+    "About twice a month.",
+    "Yes, we do.",
+    "For two hours.",
+    "At the new Italian restaurant.",
+    "Because we like pizza."
+   ],
+   "a": 0,
+   "e": "How often은 '얼마나 자주'를 묻는 말이라 횟수로 대답해요. 의문사 의문문에는 Yes/No로 답하지 않고, 장소나 이유를 말하면 질문과 맞지 않아요.",
+   "ref": "4. 대답은 Yes/No가 아니라 정보로"
+  },
+  {
+   "id": "1-10-H-c05",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>내가 이 근처 어디에서 좋고 싼 운동화를 살 수 있을까?<br>Where ____ good, cheap sneakers around here?",
+   "o": [
+    "can I buy",
+    "I can buy",
+    "can buy I",
+    "do I can buy",
+    "can I buying"
+   ],
+   "a": 0,
+   "e": "조동사가 있으면 의문사 + 조동사 + 주어 + 동사원형 순서예요. can이 있으니 do를 또 쓰지 않고, can 뒤에는 동사원형 buy를 써요.",
+   "ref": "1. 기본 어순 — 의문사 + 의문문 어순"
+  },
+  {
+   "id": "1-10-H-c06",
+   "type": "choice",
+   "q": "다음 대답에 알맞은 질문을 고르세요.<br>B: Because the bus was late again this morning.",
+   "o": [
+    "Why were you late for the first class today?",
+    "When were you late for the first class today?",
+    "Were you late for the first class today?",
+    "Where were you during the first class today?",
+    "What did you do in the first class today?"
+   ],
+   "a": 0,
+   "e": "Because로 이유를 말하는 대답이니 '왜'를 묻는 Why 의문문이 알맞아요. Were you ~?처럼 의문사가 없는 의문문에는 Yes/No로 답해요.",
+   "ref": "4. 대답은 Yes/No가 아니라 정보로"
+  },
+  {
+   "id": "1-10-H-e01",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "What does your brother wants to be in the future?",
+    "How many languages can your English teacher speak well?",
+    "Who gave you this nice pencil case for your birthday?",
+    "When did you and your family move to this town?",
+    "Why is the baby crying so loudly in the next room?"
+   ],
+   "a": 0,
+   "e": "does 뒤에는 동사원형이 와요. → What does your brother want to be in the future? Who gave ~?는 Who가 주어라서 did 없이 바로 동사를 쓴 맞는 문장이에요.",
+   "ref": "1. 기본 어순 — 의문사 + 의문문 어순"
+  },
+  {
+   "id": "1-10-H-e02",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "What did happen to your bike on the way home?",
+    "Whose dog is barking in the yard right now?",
+    "How much water should we drink every day?",
+    "Where are you going to stay during the winter vacation?",
+    "Who is the tall boy next to your sister?"
+   ],
+   "a": 0,
+   "e": "의문사 What이 주어일 때는 did 없이 바로 동사를 써요. → What happened to your bike on the way home?",
+   "ref": "2. 의문사가 주어일 때 — do/does/did 없이 바로 동사"
+  },
+  {
+   "id": "1-10-H-e03",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "How many homework do you have to do tonight?",
+    "What time do you usually get up on Sunday mornings?",
+    "Who is going to cook dinner for us tonight?",
+    "Why didn't you call me back yesterday afternoon?",
+    "How far is it from your house to the school?"
+   ],
+   "a": 0,
+   "e": "homework는 셀 수 없는 명사라서 How many가 아니라 How much를 써요. → How much homework do you have to do tonight?",
+   "ref": "3. 의문사 + 명사 / how + 형용사·부사"
+  },
+  {
+   "id": "1-10-H-b01",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (한 단어)<br>Who ____ this delicious chocolate cake for the party? (bake)",
+   "ko": "누가 파티를 위해 이 맛있는 초콜릿 케이크를 구웠니?",
+   "ans": [
+    "baked"
+   ],
+   "e": "의문사 Who가 주어라서 did 없이 동사를 바로 쓰고, '구웠니'는 과거라서 baked로 바꿔요.",
+   "ref": "2. 의문사가 주어일 때 — do/does/did 없이 바로 동사"
+  },
+  {
+   "id": "1-10-H-b02",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>그녀는 왜 어제 수학 수업에 늦었니?<br>Why ____ ____ late for math class yesterday?",
+   "ans": [
+    "was she"
+   ],
+   "e": "be동사 문장은 의문사 + be동사 + 주어 순서예요. 주어가 she이고 과거라서 was she를 써요.",
+   "ref": "1. 기본 어순 — 의문사 + 의문문 어순"
+  },
+  {
+   "id": "1-10-H-b03",
+   "type": "blank",
+   "q": "밑줄 친 부분을 묻는 의문문이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>Minsu goes to the library <u>twice a week</u>.<br>→ ____ ____ does Minsu go to the library?",
+   "ko": "민수는 도서관에 얼마나 자주 가니?",
+   "ans": [
+    "How often"
+   ],
+   "e": "twice a week(일주일에 두 번)는 횟수라서 '얼마나 자주'를 묻는 How often을 맨 앞에 써요. 그 뒤는 does + 주어 + 동사원형 순서예요.",
+   "ref": "3. 의문사 + 명사 / how + 형용사·부사"
+  },
+  {
+   "id": "1-10-H-f01",
+   "type": "fix",
+   "q": "How much students are there in your new school?",
+   "wrong": "much",
+   "ko": "너의 새 학교에는 학생이 몇 명 있니?",
+   "ans": [
+    "many"
+   ],
+   "e": "students는 셀 수 있는 복수명사라서 How many를 써요. much → many",
+   "ref": "3. 의문사 + 명사 / how + 형용사·부사"
+  },
+  {
+   "id": "1-10-H-f02",
+   "type": "fix",
+   "q": "When your sister is going to come back from Canada?",
+   "wrong": "your sister is",
+   "ko": "너의 언니는 언제 캐나다에서 돌아올 예정이니?",
+   "ans": [
+    "is your sister"
+   ],
+   "e": "의문사 뒤는 의문문 어순이라 be동사가 주어 앞에 와요. your sister is → is your sister",
+   "ref": "1. 기본 어순 — 의문사 + 의문문 어순"
+  },
+  {
+   "id": "1-10-H-f03",
+   "type": "fix",
+   "q": "What did your mother said to you after the test?",
+   "wrong": "said",
+   "ko": "시험이 끝난 후에 너의 어머니는 너에게 뭐라고 말씀하셨니?",
+   "ans": [
+    "say"
+   ],
+   "e": "did 뒤에는 동사원형이 와요. 과거는 did가 이미 나타내요. said → say",
+   "ref": "1. 기본 어순 — 의문사 + 의문문 어순"
+  },
+  {
+   "id": "1-10-H-a01",
+   "type": "arrange",
+   "ko": "너는 왜 어젯밤에 그렇게 늦게 잠자리에 들었니?",
+   "words": [
+    "so late",
+    "Why",
+    "did",
+    "you",
+    "go",
+    "to bed",
+    "last night"
+   ],
+   "ans": [
+    "Why did you go to bed so late last night?"
+   ],
+   "e": "의문사 Why + did + 주어 + 동사원형 순서예요. go to bed 뒤에 so late, last night을 이어서 써요.",
+   "ref": "1. 기본 어순 — 의문사 + 의문문 어순"
+  },
+  {
+   "id": "1-10-H-a02",
+   "type": "arrange",
+   "ko": "누가 어제 교실에서 내 새 지우개를 가져갔니?",
+   "words": [
+    "who",
+    "take",
+    "my new eraser",
+    "from the classroom",
+    "yesterday"
+   ],
+   "cond": "주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
+   "ans": [
+    "Who took my new eraser from the classroom yesterday?"
+   ],
+   "e": "의문사 Who가 주어라서 did 없이 Who + 동사 순서로 쓰고, 과거라서 take를 took으로 바꿔요.",
+   "ref": "2. 의문사가 주어일 때 — do/does/did 없이 바로 동사"
+  },
+  {
+   "id": "1-10-H-a03",
+   "type": "arrange",
+   "ko": "너의 남동생은 보통 하루에 몇 시간 동안 컴퓨터 게임을 하니?",
+   "words": [
+    "usually",
+    "How many hours",
+    "play",
+    "does",
+    "a day",
+    "your brother",
+    "computer games"
+   ],
+   "ans": [
+    "How many hours does your brother usually play computer games a day?",
+    "How many hours a day does your brother usually play computer games?"
+   ],
+   "e": "How many + 복수명사(hours)를 맨 앞에 두고, 그 뒤는 does + 주어 + 동사원형 순서예요. a day는 How many hours 바로 뒤나 문장 끝에 올 수 있어요.",
+   "ref": "3. 의문사 + 명사 / how + 형용사·부사"
+  }
+ ]
+}

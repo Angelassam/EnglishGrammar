@@ -1,0 +1,278 @@
+{
+ "unit": "1-20",
+ "grade": 1,
+ "level": "hard",
+ "title": "접속사 that (명사절)",
+ "source": "20_접속사_that_명사절.md — Part 1. 중1 기초",
+ "questions": [
+  {
+   "id": "1-20-H-c01",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말이 순서대로 짝지어진 것을 고르세요.<br>Minho는 어제 그의 형이 집에 없었다고 말했다.<br>Minho said yesterday ____ his brother ____ at home.",
+   "o": [
+    "that – wasn't",
+    "that – isn't",
+    "what – wasn't",
+    "that – not was",
+    "who – wasn't"
+   ],
+   "a": 0,
+   "e": "say의 목적어로 '주어 + 동사' 문장을 묶어 줄 때 접속사 that을 써요. 과거 문장(said)이라 that절의 동사도 과거 wasn't로 맞춰요.",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-H-c02",
+   "type": "choice",
+   "q": "다음 중 밑줄 친 that의 쓰임이 나머지 넷과 <b>다른</b> 것을 고르세요.",
+   "o": [
+    "I think <u>that</u> old man by the gate is our new neighbor.",
+    "We know <u>that</u> our teacher was born in Jeju.",
+    "She hopes <u>that</u> her grandmother will get well soon.",
+    "He said <u>that</u> he was tired after the long game.",
+    "Everyone believes <u>that</u> Minho can win the race."
+   ],
+   "a": 0,
+   "e": "첫 문장의 that은 old man을 가리키는 '저'라는 뜻이고, 그 뒤의 that old man is our new neighbor가 think의 목적어예요. 나머지 that은 '주어 + 동사'를 묶어 주는 접속사예요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-20-H-c03",
+   "type": "choice",
+   "q": "두 문장을 한 문장으로 바르게 연결한 것을 고르세요.<br>Do you know? + Sora is going to move to Canada next month.",
+   "ko": "너는 Sora가 다음 달에 캐나다로 이사 갈 거라는 것을 아니?",
+   "o": [
+    "Do you know that Sora is going to move to Canada next month?",
+    "Do you know that is Sora going to move to Canada next month?",
+    "Do you know that Sora going to move to Canada next month?",
+    "Do you know what Sora is going to move to Canada next month?",
+    "Do you know Sora that is going to move to Canada next month?"
+   ],
+   "a": 0,
+   "e": "know의 목적어로 문장을 넣을 때는 know + that + 주어 + 동사 순서예요. that 뒤에는 Sora is going to ~처럼 완전한 문장이 그대로 와요.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-H-c04",
+   "type": "choice",
+   "q": "다음 중 어법상 옳은 문장을 고르세요.",
+   "o": [
+    "I hope that my favorite singer visits our town this summer.",
+    "I think that she very good at drawing pictures.",
+    "Tom said that he is hungry after school yesterday.",
+    "Do you know what Jina moved to a new house?",
+    "We believe that can our team win the final game."
+   ],
+   "a": 0,
+   "e": "hope + that + 주어 + 동사로 쓴 문장이 맞아요. that 뒤에는 동사가 있는 완전한 문장이 와야 하고, 과거 문장에서는 that절 동사도 과거로, 접속사는 what이 아니라 that을 써요.",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-H-c05",
+   "type": "choice",
+   "q": "다음 중 밑줄 친 that을 생략할 수 <b>있는</b> 문장을 고르세요.",
+   "o": [
+    "Jiho thinks <u>that</u> his new bike is faster than mine.",
+    "Is <u>that</u> girl with the red umbrella your sister?",
+    "<u>That</u> was the best concert of my life.",
+    "I don't like <u>that</u> noisy song on the radio.",
+    "Look at <u>that</u> beautiful rainbow over the mountain."
+   ],
+   "a": 0,
+   "e": "think의 목적어 역할을 하는 that절의 접속사 that은 생략할 수 있어요. 나머지 that은 '저, 저것'을 뜻하는 말이라서 생략하면 뜻이 달라져요.",
+   "ref": "2. 목적어 that은 생략할 수 있어요"
+  },
+  {
+   "id": "1-20-H-c06",
+   "type": "choice",
+   "q": "다음 문장을 의문문으로 바르게 바꾼 것을 고르세요.<br>You know that Sumi has two little brothers.",
+   "ko": "너는 Sumi에게 남동생이 두 명 있다는 것을 안다.",
+   "o": [
+    "Do you know that Sumi has two little brothers?",
+    "Do you know that Sumi have two little brothers?",
+    "Are you know that Sumi has two little brothers?",
+    "Do you know that does Sumi have two little brothers?",
+    "Know you that Sumi has two little brothers?"
+   ],
+   "a": 0,
+   "e": "일반동사 know의 의문문은 Do + 주어 + know로 시작해요. that 뒤의 문장 Sumi has two little brothers는 그대로 두어요.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-H-e01",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "My mom believes that my brother and I is good friends.",
+    "I think that this book is more interesting than that one.",
+    "Do you know that Jisu's father works at a bank?",
+    "She said that she was busy with her homework last night.",
+    "We hope that the weather will be nice tomorrow."
+   ],
+   "a": 0,
+   "e": "that 뒤의 완전한 문장에서 주어 my brother and I는 복수라서 be동사 are를 써야 해요. → My mom believes that my brother and I are good friends.",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-H-e02",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "Last week he said that he wants to buy a new bike.",
+    "I believe that my little sister can swim better than me.",
+    "Everyone knows that the earth goes around the sun.",
+    "I hope that you will enjoy your trip to Busan.",
+    "They think that their new teacher is from Canada."
+   ],
+   "a": 0,
+   "e": "과거 문장(said)에서는 that절의 동사도 보통 과거로 맞춰요. → Last week he said that he wanted to buy a new bike.",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-H-e03",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "My aunt thinks that her son good at playing the piano.",
+    "I think that math is more difficult than science.",
+    "Jiho said that he was at the library at that time.",
+    "Do you believe that the story in this book is real?",
+    "We hope that our grandparents will visit us this winter."
+   ],
+   "a": 0,
+   "e": "that 뒤에는 주어 + 동사가 모두 있는 완전한 문장이 와야 하는데 동사가 빠졌어요. → My aunt thinks that her son is good at playing the piano.",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-H-b01",
+   "type": "blank",
+   "q": "두 문장을 that을 써서 한 문장으로 만들 때 빈칸에 알맞은 말을 쓰세요. (세 단어, 시제에 주의)<br>Yesterday Mina said. + She is sick.<br>→ Yesterday Mina said ____ ____ ____ sick.",
+   "ko": "어제 Mina는 자기가 아프다고 말했다.",
+   "ans": [
+    "that she was"
+   ],
+   "e": "said 뒤에 접속사 that + 주어 she를 쓰고, 과거 문장이라 that절의 동사도 과거 was로 맞춰요.",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-H-b02",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>우리 부모님은 내가 언젠가 훌륭한 의사가 될 거라고 믿으신다.<br>My parents ____ ____ I will be a great doctor someday.",
+   "ans": [
+    "believe that"
+   ],
+   "e": "'~라고 믿다'는 believe + that + 주어 + 동사예요. 주어 My parents가 복수라서 believe에 -s를 붙이지 않아요.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-H-b03",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (시제에 주의)<br>My uncle said that he ____ to visit us next weekend. (want)",
+   "ko": "삼촌은 다음 주말에 우리를 방문하고 싶다고 말했다.",
+   "ans": [
+    "wanted"
+   ],
+   "e": "주절이 과거(said)라서 that절의 동사도 과거 wanted로 맞춰요. 현재형 wants를 쓰면 시제가 어긋나요.",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-H-f01",
+   "type": "fix",
+   "q": "Last night Dad said that he is very tired after work.",
+   "wrong": "is",
+   "ko": "어젯밤 아빠는 퇴근 후에 매우 피곤하다고 말씀하셨다.",
+   "ans": [
+    "was"
+   ],
+   "e": "과거 문장(said)에서는 that절의 동사도 과거로 맞춰요. is → was",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-H-f02",
+   "type": "fix",
+   "q": "Everyone in my class thinks that Minho and Jiho is twins.",
+   "wrong": "is",
+   "ko": "우리 반 모두는 Minho와 Jiho가 쌍둥이라고 생각한다.",
+   "ans": [
+    "are"
+   ],
+   "e": "that 뒤의 완전한 문장에서 주어 Minho and Jiho는 복수라서 are를 써요. is → are",
+   "ref": "3. that 뒤는 완전한 문장"
+  },
+  {
+   "id": "1-20-H-f03",
+   "type": "fix",
+   "q": "Do you know what Suji's brother is a famous soccer player?",
+   "wrong": "what",
+   "ko": "너는 Suji의 오빠가 유명한 축구 선수라는 것을 아니?",
+   "ans": [
+    "that"
+   ],
+   "e": "know의 목적어로 완전한 문장을 묶어 줄 때는 what이 아니라 접속사 that을 써요. what → that",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-H-a01",
+   "type": "arrange",
+   "ko": "나는 네가 제주에서 즐거운 시간을 보내기를 바란다.",
+   "words": [
+    "that",
+    "will",
+    "have",
+    "I",
+    "hope",
+    "you",
+    "a great time",
+    "in Jeju"
+   ],
+   "ans": [
+    "I hope that you will have a great time in Jeju."
+   ],
+   "e": "I hope + that + 주어(you) + 동사(will have) 순서로 써요. that 뒤에는 완전한 문장이 와요.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-H-a02",
+   "type": "arrange",
+   "ko": "너는 우리 엄마가 20년 전에 가수였다는 것을 아니?",
+   "words": [
+    "Do",
+    "you",
+    "know",
+    "that",
+    "my mom",
+    "was",
+    "a singer",
+    "twenty years ago"
+   ],
+   "ans": [
+    "Do you know that my mom was a singer twenty years ago?",
+    "Do you know that twenty years ago my mom was a singer?"
+   ],
+   "e": "Do you know + that + 주어(my mom) + 동사(was) 순서예요. 의문문이지만 that 뒤의 문장은 평서문 어순 그대로 써요.",
+   "ref": "1. that절을 목적어로 쓰는 동사"
+  },
+  {
+   "id": "1-20-H-a03",
+   "type": "arrange",
+   "ko": "Tom은 어제 그의 개가 아프다고 말했다.",
+   "cond": "주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
+   "words": [
+    "Tom",
+    "say",
+    "that",
+    "his dog",
+    "be",
+    "sick",
+    "yesterday"
+   ],
+   "ans": [
+    "Tom said that his dog was sick yesterday.",
+    "Yesterday Tom said that his dog was sick.",
+    "Tom said yesterday that his dog was sick.",
+    "Yesterday, Tom said that his dog was sick."
+   ],
+   "e": "'말했다'는 과거라서 say를 said로 바꾸고, that절의 동사도 과거 was로 맞춰요. that 뒤에는 주어 + 동사가 있는 완전한 문장이 와요.",
+   "ref": "3. that 뒤는 완전한 문장"
+  }
+ ]
+}

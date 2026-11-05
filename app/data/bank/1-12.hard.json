@@ -1,0 +1,277 @@
+{
+ "unit": "1-12",
+ "grade": 1,
+ "level": "hard",
+ "title": "비인칭주어 it",
+ "source": "12_비인칭주어_it.md",
+ "questions": [
+  {
+   "id": "1-12-H-c01",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>어제는 바람이 아주 많이 불어서 우리는 소풍을 갈 수 없었다.<br>____ very windy yesterday, so we couldn't go on a picnic.",
+   "o": [
+    "It was",
+    "It is",
+    "There was",
+    "Was it",
+    "It were"
+   ],
+   "a": 0,
+   "e": "날씨를 말할 때는 비인칭주어 It을 쓰고, 어제의 일이라 was를 써요. There was는 '~가 있었다'라서 뜻이 맞지 않아요.",
+   "ref": "핵심 개념 — 날씨"
+  },
+  {
+   "id": "1-12-H-c02",
+   "type": "choice",
+   "q": "다음 중 밑줄 친 <u>it</u>의 쓰임이 나머지 넷과 <b>다른</b> 것을 고르세요.",
+   "o": [
+    "I bought a new umbrella, but I left <u>it</u> on the bus.",
+    "<u>It</u> was already dark when we got home from the trip.",
+    "<u>It</u> is only ten minutes from my house to the park.",
+    "<u>It</u> is going to be very cold this weekend, so wear a coat.",
+    "Hurry up! <u>It</u>'s almost nine o'clock, and the bus is coming."
+   ],
+   "a": 0,
+   "e": "첫 번째 it은 앞의 a new umbrella를 가리키는 대명사 it이라 '그것'이라고 해석해요. 나머지는 명암·거리·날씨·시간을 말하는 비인칭주어 it이라 해석하지 않아요.",
+   "ref": "1. 비인칭주어 it vs 대명사 it"
+  },
+  {
+   "id": "1-12-H-c03",
+   "type": "choice",
+   "q": "대화의 빈칸에 알맞은 말을 고르세요.<br>A: ____ from here to the nearest subway station?<br>B: It's about two kilometers.",
+   "o": [
+    "How far is it",
+    "How far it is",
+    "How far is there",
+    "How far is",
+    "How far does it"
+   ],
+   "a": 0,
+   "e": "거리를 물을 때는 비인칭주어 it을 써서 How far is it ~?으로 물어요. 의문문이라 is가 it 앞에 오고, 주어 it을 빼면 안 돼요.",
+   "ref": "2. 질문과 대답에서"
+  },
+  {
+   "id": "1-12-H-c04",
+   "type": "choice",
+   "q": "다음 중 어법상 옳은 문장을 고르세요.",
+   "ko": "밖에 아직 비가 오고 있니, 아니면 지금 나가도 되니?",
+   "o": [
+    "Is it still raining outside, or can we go out now?",
+    "Does it very hot in your country in August?",
+    "It not was sunny on the day of the picnic.",
+    "Was dark in the room, so I turned on the light.",
+    "What day it is today? I forgot again."
+   ],
+   "a": 0,
+   "e": "비인칭주어 it의 의문문은 Is it ~? 순서예요. Does it very hot은 be동사가 없고, It not was는 It wasn't, Was dark는 It was dark, What day it is는 What day is it으로 고쳐야 해요.",
+   "ref": "3. 부정문·의문문"
+  },
+  {
+   "id": "1-12-H-c05",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>지난주 토요일에는 비가 오지 않아서 우리는 밖에서 축구를 했다.<br>It ____ rain last Saturday, so we played soccer outside.",
+   "o": [
+    "didn't",
+    "wasn't",
+    "isn't",
+    "doesn't",
+    "not"
+   ],
+   "a": 0,
+   "e": "날씨를 말하는 비인칭주어 It 뒤에 일반동사 rain이 왔으니, 과거 부정은 didn't + 동사원형으로 써요. wasn't는 It wasn't sunny처럼 be동사 뒤에 형용사가 올 때 써요.",
+   "ref": "3. 부정문·의문문"
+  },
+  {
+   "id": "1-12-H-c06",
+   "type": "choice",
+   "q": "다음 문장의 밑줄 친 It이 나타내는 것을 고르세요.<br><u>It</u> is getting dark outside, so let's go home now.",
+   "ko": "밖이 어두워지고 있으니 지금 집에 가자.",
+   "o": [
+    "명암",
+    "날씨",
+    "시간",
+    "계절",
+    "거리"
+   ],
+   "a": 0,
+   "e": "dark(어두운)는 밝고 어두움을 말하는 것이라 명암을 나타내는 비인칭주어 It이에요. '그것'이라고 해석하지 않아요.",
+   "ref": "핵심 개념 — 명암"
+  },
+  {
+   "id": "1-12-H-e01",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "It are 5 kilometers from my school to the city library.",
+    "It was very foggy this morning, so my dad drove slowly.",
+    "What time is it in London when it's noon in Seoul?",
+    "Is it still snowing in the mountains near your town?",
+    "It will be spring soon, and the flowers will come out."
+   ],
+   "a": 0,
+   "e": "비인칭주어 It은 단수라서 be동사 is를 써요. → It is 5 kilometers from my school to the city library.",
+   "ref": "핵심 개념 — 거리"
+  },
+  {
+   "id": "1-12-H-e02",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "Was windy and cold at the beach last weekend.",
+    "Is it sunny in Jeju today, or is it raining there?",
+    "It is about 2 km from here to the bus stop.",
+    "I have a new puppy, and it is very small and cute.",
+    "It gets very hot in Daegu in the summer."
+   ],
+   "a": 0,
+   "e": "영어 문장에는 주어가 꼭 있어야 해서 날씨를 말할 때도 It을 빼면 안 돼요. → It was windy and cold at the beach last weekend.",
+   "ref": "핵심 개념 — 주어 it을 빼면 안 됨"
+  },
+  {
+   "id": "1-12-H-e03",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "Does it dark outside now, or is it still bright?",
+    "It's Friday today, so let's watch a movie tonight.",
+    "It was 7 o'clock when I woke up this morning.",
+    "It isn't far from the station to the museum.",
+    "It rains a lot in this city in July."
+   ],
+   "a": 0,
+   "e": "dark는 형용사라서 be동사로 의문문을 만들어요. Does는 일반동사 의문문에 써요. → Is it dark outside now, or is it still bright?",
+   "ref": "3. 부정문·의문문"
+  },
+  {
+   "id": "1-12-H-b01",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>지금 뉴욕은 몇 시니?<br>What time ____ ____ in New York now?",
+   "ans": [
+    "is it"
+   ],
+   "e": "시간을 물을 때는 비인칭주어 it을 쓰고, 의문문이라 is it 순서예요.",
+   "ref": "2. 질문과 대답에서"
+  },
+  {
+   "id": "1-12-H-b02",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요.<br>It ____ cold and rainy yesterday, so we stayed at home. (be)",
+   "ko": "어제는 춥고 비가 와서 우리는 집에 있었다.",
+   "ans": [
+    "was"
+   ],
+   "e": "날씨를 말하는 비인칭주어 It은 단수이고, yesterday가 있어 과거라서 was를 써요.",
+   "ref": "핵심 개념 — 날씨"
+  },
+  {
+   "id": "1-12-H-b03",
+   "type": "blank",
+   "q": "다음 문장을 부정문으로 바꿀 때 빈칸에 알맞은 말을 쓰세요. (축약형 한 단어)<br>It is very dark in the forest at night.<br>→ It ____ very dark in the forest at night.",
+   "ko": "밤에 숲속은 아주 어둡지 않다.",
+   "ans": [
+    "isn't",
+    "is not"
+   ],
+   "e": "비인칭주어 It의 부정문은 be동사 뒤에 not을 붙여 It isn't ~로 써요.",
+   "ref": "3. 부정문·의문문"
+  },
+  {
+   "id": "1-12-H-f01",
+   "type": "fix",
+   "q": "Is very hot and humid in Korea in August.",
+   "wrong": "Is very",
+   "ko": "한국은 8월에 아주 덥고 습하다.",
+   "ans": [
+    "It is very",
+    "It's very"
+   ],
+   "e": "우리말에는 주어가 없어도 영어에는 주어 It이 꼭 있어야 해요. Is very → It is very",
+   "ref": "핵심 개념 — 주어 it을 빼면 안 됨"
+  },
+  {
+   "id": "1-12-H-f02",
+   "type": "fix",
+   "q": "There was very dark outside, so I was scared.",
+   "wrong": "There",
+   "ko": "밖이 아주 어두워서 나는 무서웠다.",
+   "ans": [
+    "It"
+   ],
+   "e": "명암을 말할 때는 비인칭주어 It을 써요. There was는 '~가 있었다'라는 뜻이라 맞지 않아요. There → It",
+   "ref": "핵심 개념 — 명암"
+  },
+  {
+   "id": "1-12-H-f03",
+   "type": "fix",
+   "q": "It weren't cloudy this morning, but now it is raining.",
+   "wrong": "weren't",
+   "ko": "오늘 아침에는 흐리지 않았는데 지금은 비가 오고 있다.",
+   "ans": [
+    "wasn't",
+    "was not"
+   ],
+   "e": "비인칭주어 It은 단수라서 과거 부정은 wasn't를 써요. weren't → wasn't",
+   "ref": "3. 부정문·의문문"
+  },
+  {
+   "id": "1-12-H-a01",
+   "type": "arrange",
+   "ko": "지금 밖에 눈이 오고 있니, 아니면 비가 오고 있니?",
+   "words": [
+    "raining",
+    "Is it",
+    "outside now",
+    "or",
+    "snowing",
+    "is it"
+   ],
+   "ans": [
+    "Is it snowing outside now, or is it raining?",
+    "Is it snowing or is it raining outside now?"
+   ],
+   "e": "비인칭주어 it의 의문문은 Is it ~? 순서예요. 눈이 오는지 먼저 묻고 or로 비가 오는지 이어서 물어요.",
+   "ref": "3. 부정문·의문문"
+  },
+  {
+   "id": "1-12-H-a02",
+   "type": "arrange",
+   "ko": "어제는 아주 추워서 그 호수가 얼었다.",
+   "words": [
+    "it",
+    "be",
+    "very cold",
+    "yesterday",
+    "so",
+    "the lake",
+    "freeze"
+   ],
+   "cond": "주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
+   "ans": [
+    "It was very cold yesterday, so the lake froze.",
+    "Yesterday it was very cold, so the lake froze."
+   ],
+   "e": "날씨를 말할 때는 비인칭주어 It을 쓰고, 어제의 일이라 be는 was, freeze는 froze로 바꿔요.",
+   "ref": "핵심 개념 — 날씨"
+  },
+  {
+   "id": "1-12-H-a03",
+   "type": "arrange",
+   "ko": "학교에서 수영장까지는 약 3킬로미터이다.",
+   "words": [
+    "about",
+    "It",
+    "from",
+    "is",
+    "3 kilometers",
+    "to the pool",
+    "the school"
+   ],
+   "ans": [
+    "It is about 3 kilometers from the school to the pool.",
+    "It is about 3 kilometers to the pool from the school."
+   ],
+   "e": "거리를 말할 때는 비인칭주어 It을 주어로 써요. It is + 거리 + from A to B 순서예요.",
+   "ref": "핵심 개념 — 거리"
+  }
+ ]
+}
