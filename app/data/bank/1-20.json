@@ -326,7 +326,8 @@
    "wrong": "she right",
    "ko": "나는 그녀가 옳다고 생각한다.",
    "ans": [
-    "she is right"
+    "she is right",
+    "she's right"
    ],
    "e": "that 뒤에는 주어 + 동사가 모두 있어야 해요. she right → she is right",
    "ref": "3. that 뒤는 완전한 문장"
