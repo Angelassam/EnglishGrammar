@@ -265,14 +265,14 @@
    "type": "error",
    "q": "다음 중 어법상 틀린 문장을 고르세요.",
    "o": [
-    "She hopes seeing you again.",
+    "He hopes becoming a doctor.",
     "I want to buy a new bike.",
     "They decided to play soccer.",
     "To make friends is important.",
     "We need to hurry."
    ],
    "a": 0,
-   "e": "hope는 목적어로 to부정사를 쓰는 동사라서 seeing이 아니라 to see를 써요. → She hopes to see you again.",
+   "e": "hope는 목적어로 to부정사를 쓰는 동사라서 becoming이 아니라 to become을 써요. → He hopes to become a doctor.",
    "ref": "1. 목적어로 to부정사를 쓰는 동사 — hope"
   },
   {
