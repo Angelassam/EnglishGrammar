@@ -287,7 +287,7 @@ function renderQuiz(){
       body+=`<p class="text">${allowTags(q.q)}</p>${q.ko?`<p class="ko">(${esc(q.ko)})</p>`:''}`;
     }
     if(q.o){
-      body+='<ul class="opts">'+it.perm.map((orig,k)=>`<li><label><input type="radio" name="q${idx}" value="${orig}"><span class="mark">${CIRC[k]}</span><span>${esc(q.o[orig])}</span></label></li>`).join('')+'</ul>';
+      body+='<ul class="opts">'+it.perm.map((orig,k)=>`<li><label><input type="radio" name="q${idx}" value="${orig}"><span class="mark">${CIRC[k]}</span><span>${allowTags(q.o[orig])}</span></label></li>`).join('')+'</ul>';
     } else {
       body+=`<div class="ansline"><input type="text" data-i="${idx}" placeholder="${q.type==='arrange'?'문장을 쓰세요':'답을 쓰세요'}" autocomplete="off" autocapitalize="off" spellcheck="false"></div>`;
     }
@@ -326,9 +326,9 @@ function showResults(){
     const q=it.q, ans=readAnswer(i), ok=grade1(it,ans); it.ans=ans; it.ok=ok; if(ok)correct++;
     const box=$(`.q[data-i="${i}"]`), r=box.querySelector('.result');
     box.classList.add(ok?'ok':'bad');
-    const correctText=q.o? `${CIRC[it.perm.indexOf(q.a)]} ${esc(q.o[q.a])}` : esc(q.ans[0])+(q.ans.length>1?` <span class="hint" style="display:inline">(또는 ${q.ans.slice(1).map(esc).join(' / ')})</span>`:'');
+    const correctText=q.o? `${CIRC[it.perm.indexOf(q.a)]} ${allowTags(q.o[q.a])}` : esc(q.ans[0])+(q.ans.length>1?` <span class="hint" style="display:inline">(또는 ${q.ans.slice(1).map(esc).join(' / ')})</span>`:'');
     let mine='';
-    if(!ok){ mine= ans===null?'(답 없음)': q.o?`${CIRC[it.perm.indexOf(ans)]} ${esc(q.o[ans])}`:esc(ans); }
+    if(!ok){ mine= ans===null?'(답 없음)': q.o?`${CIRC[it.perm.indexOf(ans)]} ${allowTags(q.o[ans])}`:esc(ans); }
     r.className='result '+(ok?'ok':'bad');
     r.innerHTML=`<span class="badge ${ok?'ok':'bad'}">${ok?'정답':'오답'}</span> ${!ok?`<span class="lab">내 답:</span> ${mine} &nbsp; `:''}<span class="lab">정답:</span> ${correctText}<div><span class="lab">해설</span> ${esc(q.e)}</div><div class="ref">근거: ${esc(UNITS.find(u=>u.id===q.unit).title)} › ${esc(q.ref)}</div>`;
     box.querySelectorAll('input').forEach(x=>x.disabled=true);
@@ -347,7 +347,7 @@ function renderTeacher(){
   // 답지에 쓸 정답·해설을 미리 채워 두고 화면에서는 토글로 보여줌
   state.items.forEach((it,i)=>{
     const q=it.q, r=$(`.q[data-i="${i}"] .result`);
-    const correctText=q.o? `${CIRC[it.perm.indexOf(q.a)]} ${esc(q.o[q.a])}` : q.ans.map(esc).join(' / ');
+    const correctText=q.o? `${CIRC[it.perm.indexOf(q.a)]} ${allowTags(q.o[q.a])}` : q.ans.map(esc).join(' / ');
     r.className='result ok';
     r.innerHTML=`<span class="lab">정답</span> ${correctText} &nbsp; <span class="lab">해설</span> ${esc(q.e)}<div class="ref">근거: ${esc(UNITS.find(u=>u.id===q.unit).title)} › ${esc(q.ref)}</div>`;
     $(`.q[data-i="${i}"]`).querySelectorAll('input').forEach(x=>x.disabled=true);
@@ -409,7 +409,7 @@ function printAs(kind){
 function fillKeyForPrint(){
   state.items.forEach((it,i)=>{
     const q=it.q, r=$(`.q[data-i="${i}"] .result`);
-    const correctText=q.o? `${CIRC[it.perm.indexOf(q.a)]} ${esc(q.o[q.a])}` : q.ans.map(esc).join(' / ');
+    const correctText=q.o? `${CIRC[it.perm.indexOf(q.a)]} ${allowTags(q.o[q.a])}` : q.ans.map(esc).join(' / ');
     r.className='result ok';
     r.innerHTML=`<span class="lab">정답</span> ${correctText} &nbsp; <span class="lab">해설</span> ${esc(q.e)}`;
   });
