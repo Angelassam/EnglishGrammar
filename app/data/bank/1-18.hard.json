@@ -1,0 +1,279 @@
+{
+ "unit": "1-18",
+ "grade": 1,
+ "title": "4형식 (수여동사)",
+ "source": "18_4형식_수여동사.md — Part 1. 중1 기초",
+ "level": "hard",
+ "questions": [
+  {
+   "id": "1-18-H-c01",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>내일 내가 너에게 내 새 자전거를 보여 줄게.<br>I will show ____ tomorrow.",
+   "o": [
+    "you my new bike",
+    "my new bike you",
+    "your my new bike",
+    "yours my new bike",
+    "me my new bike"
+   ],
+   "a": 0,
+   "e": "수여동사 show 뒤에는 사람(~에게) 먼저, 물건(…을) 나중이에요. '너에게'는 목적격 you를 써요.",
+   "ref": "Part 1 / 2. 순서 주의 — \"사람(~에게) 먼저, 물건(…을) 나중\""
+  },
+  {
+   "id": "1-18-H-c02",
+   "type": "choice",
+   "q": "다음 중 어법상 옳은 문장을 고르세요.",
+   "o": [
+    "My aunt sent me a long letter when she lived in Canada.",
+    "My aunt sent I a long letter when she lived in Canada.",
+    "My aunt sent a long letter me when she lived in Canada.",
+    "My aunt sent my a long letter when she lived in Canada.",
+    "My aunt sended me a long letter when she lived in Canada."
+   ],
+   "a": 0,
+   "e": "수여동사 뒤는 사람 + 물건 순서이고, 사람 자리의 대명사는 목적격 me를 써요. send의 과거형은 sent예요.",
+   "ref": "Part 1 / 2. 순서 주의 — \"사람(~에게) 먼저, 물건(…을) 나중\""
+  },
+  {
+   "id": "1-18-H-c03",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>그에게 그 비밀을 말하지 마.<br>____ him the secret.",
+   "o": [
+    "Don't tell",
+    "Doesn't tell",
+    "Not tell",
+    "Don't say",
+    "Don't told"
+   ],
+   "a": 0,
+   "e": "'~하지 마'는 Don't + 동사원형이고, '~에게 …을 말해 주다'는 수여동사 tell을 써요. say는 뒤에 사람 + 물건을 쓰지 않아요.",
+   "ref": "Part 1 / 1. 중1 교과서 단골 수여동사"
+  },
+  {
+   "id": "1-18-H-c04",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>작년에 누가 너에게 영어를 가르쳐 주었니?<br>Who ____ you English last year?",
+   "o": [
+    "taught",
+    "learned",
+    "teached",
+    "studied",
+    "was taught"
+   ],
+   "a": 0,
+   "e": "'~에게 …을 가르쳐 주다'는 수여동사 teach이고, 과거형은 taught예요. learn(배우다)은 뒤에 사람 + 물건을 쓸 수 없어요.",
+   "ref": "Part 1 / 1. 중1 교과서 단골 수여동사"
+  },
+  {
+   "id": "1-18-H-c05",
+   "type": "choice",
+   "q": "대화의 빈칸에 알맞은 말을 고르세요.<br>A: Where is Tom?<br>B: He is in the garden. He is showing ____ his new tent.",
+   "ko": "A: 톰은 어디 있니? B: 그는 정원에 있어. 그들에게 자기 새 텐트를 보여 주고 있어.",
+   "o": [
+    "them",
+    "they",
+    "their",
+    "theirs",
+    "themselves"
+   ],
+   "a": 0,
+   "e": "수여동사 뒤 사람 자리에 대명사를 쓸 때는 목적격 them이에요. 주격 they나 소유격 their는 쓸 수 없어요.",
+   "ref": "Part 1 / 2. 순서 주의 — \"사람(~에게) 먼저, 물건(…을) 나중\""
+  },
+  {
+   "id": "1-18-H-c06",
+   "type": "choice",
+   "q": "다음 문장을 부정문으로 바꿀 때 빈칸에 알맞은 말을 고르세요.<br>My brother gives me his old toys.<br>→ My brother ____ me his old toys.",
+   "ko": "내 형은 나에게 자기 오래된 장난감들을 주지 않는다.",
+   "o": [
+    "doesn't give",
+    "don't give",
+    "doesn't gives",
+    "isn't give",
+    "not gives"
+   ],
+   "a": 0,
+   "e": "수여동사 give는 일반동사라서 3인칭 단수 주어의 부정문은 doesn't + 동사원형으로 써요. 뒤의 사람 + 물건 순서는 그대로예요.",
+   "ref": "Part 1 / 1. 중1 교과서 단골 수여동사"
+  },
+  {
+   "id": "1-18-H-e01",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "Grandpa told we an interesting story about his school days.",
+    "Can you show me your new drawing after lunch?",
+    "My sister made me a paper flower when I was sick.",
+    "Our teacher gives us a lot of homework every Friday.",
+    "I will send them a postcard when I arrive in London."
+   ],
+   "a": 0,
+   "e": "수여동사 뒤 사람 자리에는 목적격 대명사를 써야 해요. → Grandpa told us an interesting story about his school days.",
+   "ref": "Part 1 / 2. 순서 주의 — \"사람(~에게) 먼저, 물건(…을) 나중\""
+  },
+  {
+   "id": "1-18-H-e02",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "Mr. Brown teach us science, and his class is always fun.",
+    "Please tell me your phone number again.",
+    "Dad bought my brother a soccer ball at the mall yesterday.",
+    "Did your friend give you a present on your birthday?",
+    "Show me your homework before you go out and play."
+   ],
+   "a": 0,
+   "e": "주어 Mr. Brown은 3인칭 단수라서 수여동사에 -es를 붙여 teaches로 써야 해요. → Mr. Brown teaches us science, and his class is always fun.",
+   "ref": "Part 1 / 1. 중1 교과서 단골 수여동사"
+  },
+  {
+   "id": "1-18-H-e03",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "The teacher showed a beautiful picture us in class today.",
+    "My mom is making us pancakes in the kitchen right now.",
+    "He didn't tell her the truth because he was afraid.",
+    "I'm going to buy my dad a tie this Saturday.",
+    "Who gave you that pretty hat with the red ribbon?"
+   ],
+   "a": 0,
+   "e": "수여동사 뒤에는 사람(~에게)을 먼저, 물건(…을)을 나중에 써요. → The teacher showed us a beautiful picture in class today.",
+   "ref": "Part 1 / 2. 순서 주의 — \"사람(~에게) 먼저, 물건(…을) 나중\""
+  },
+  {
+   "id": "1-18-H-b01",
+   "type": "blank",
+   "q": "다음 문장을 의문문으로 바꿀 때 빈칸에 알맞은 말을 쓰세요. (각 한 단어)<br>Your uncle sent you this big box.<br>→ ____ your uncle ____ you this big box?",
+   "ko": "너희 삼촌이 너에게 이 큰 상자를 보냈니?",
+   "ans": [
+    "Did, send",
+    "Did send",
+    "Did / send"
+   ],
+   "e": "과거 일반동사의 의문문은 Did + 주어 + 동사원형이라 sent를 send로 바꿔요. 뒤의 사람 + 물건 순서는 그대로예요.",
+   "ref": "Part 1 / 1. 중1 교과서 단골 수여동사"
+  },
+  {
+   "id": "1-18-H-b02",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (두 단어)<br>Last Sunday, my grandmother ____ ____ a warm sweater. (make, I)",
+   "ko": "지난 일요일에, 할머니가 나에게 따뜻한 스웨터를 만들어 주셨다.",
+   "ans": [
+    "made me"
+   ],
+   "e": "지난 일요일의 일이라 make의 과거형 made를 쓰고, 사람 자리에는 목적격 me를 써요. 물건 a warm sweater는 그 뒤에 와요.",
+   "ref": "Part 1 / 2. 순서 주의 — \"사람(~에게) 먼저, 물건(…을) 나중\""
+  },
+  {
+   "id": "1-18-H-b03",
+   "type": "blank",
+   "q": "괄호 안의 말을 알맞은 순서로 빈칸에 쓰세요.<br>I will ____ ____ ____ after school. (my photos, show, her)",
+   "ko": "나는 방과 후에 그녀에게 내 사진들을 보여 줄 것이다.",
+   "ans": [
+    "show her my photos"
+   ],
+   "e": "will 뒤에 동사원형 show를 쓰고, 사람(her) 먼저, 물건(my photos) 나중 순서로 써요.",
+   "ref": "Part 1 / 2. 순서 주의 — \"사람(~에게) 먼저, 물건(…을) 나중\""
+  },
+  {
+   "id": "1-18-H-f01",
+   "type": "fix",
+   "q": "My aunt sent a birthday card I last week, and I was very happy.",
+   "wrong": "a birthday card I",
+   "ko": "지난주에 이모가 나에게 생일 카드를 보내 주셨고, 나는 아주 기뻤다.",
+   "ans": [
+    "me a birthday card"
+   ],
+   "e": "수여동사 뒤에는 사람을 먼저, 물건을 나중에 쓰고, 사람 자리의 대명사는 목적격이에요. a birthday card I → me a birthday card",
+   "ref": "Part 1 / 2. 순서 주의 — \"사람(~에게) 먼저, 물건(…을) 나중\""
+  },
+  {
+   "id": "1-18-H-f02",
+   "type": "fix",
+   "q": "Minho gave she a pretty flower on the first day of school.",
+   "wrong": "she",
+   "ko": "민호는 개학 첫날에 그녀에게 예쁜 꽃을 주었다.",
+   "ans": [
+    "her"
+   ],
+   "e": "간접목적어(~에게) 자리에 대명사를 쓸 때는 주격이 아니라 목적격을 써요. she → her",
+   "ref": "Part 1 / 2. 순서 주의 — \"사람(~에게) 먼저, 물건(…을) 나중\""
+  },
+  {
+   "id": "1-18-H-f03",
+   "type": "fix",
+   "q": "My grandmother always make me rice cakes when I visit her.",
+   "wrong": "make",
+   "ko": "할머니는 내가 찾아뵐 때 항상 나에게 떡을 만들어 주신다.",
+   "ans": [
+    "makes"
+   ],
+   "e": "주어 My grandmother는 3인칭 단수라서 수여동사 make에 -s를 붙여요. 사람 + 물건 순서는 맞아요. make → makes",
+   "ref": "Part 1 / 1. 중1 교과서 단골 수여동사"
+  },
+  {
+   "id": "1-18-H-a01",
+   "type": "arrange",
+   "ko": "우리 아빠는 매일 저녁 나에게 재미있는 이야기를 해 주신다.",
+   "words": [
+    "story",
+    "me",
+    "every evening",
+    "dad",
+    "tells",
+    "My",
+    "a funny"
+   ],
+   "ans": [
+    "My dad tells me a funny story every evening.",
+    "Every evening my dad tells me a funny story."
+   ],
+   "e": "수여동사 tell 뒤에 사람 me를 먼저, 물건 a funny story를 나중에 써요.",
+   "ref": "Part 1 / 핵심 개념"
+  },
+  {
+   "id": "1-18-H-a02",
+   "type": "arrange",
+   "ko": "지난 크리스마스에 내 삼촌이 우리에게 큰 로봇을 사 주셨다.",
+   "cond": "주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
+   "words": [
+    "robot",
+    "my uncle",
+    "we",
+    "buy",
+    "last Christmas",
+    "big",
+    "a"
+   ],
+   "ans": [
+    "Last Christmas, my uncle bought us a big robot.",
+    "My uncle bought us a big robot last Christmas."
+   ],
+   "e": "과거의 일이라 buy → bought로 바꾸고, 사람 자리의 we는 목적격 us로 바꿔요. 물건 a big robot은 사람 뒤에 써요.",
+   "ref": "Part 1 / 2. 순서 주의 — \"사람(~에게) 먼저, 물건(…을) 나중\""
+  },
+  {
+   "id": "1-18-H-a03",
+   "type": "arrange",
+   "ko": "너는 어제 너희 선생님께 네 그림을 보여 드렸니?",
+   "cond": "주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
+   "words": [
+    "your",
+    "show",
+    "teacher",
+    "yesterday",
+    "you",
+    "drawing",
+    "your"
+   ],
+   "ans": [
+    "Did you show your teacher your drawing yesterday?",
+    "Yesterday, did you show your teacher your drawing?"
+   ],
+   "e": "과거 의문문이라 Did you + 동사원형 show로 쓰고, 사람 your teacher를 먼저, 물건 your drawing을 나중에 써요.",
+   "ref": "Part 1 / 2. 순서 주의 — \"사람(~에게) 먼저, 물건(…을) 나중\""
+  }
+ ]
+}
