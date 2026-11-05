@@ -1,0 +1,282 @@
+{
+ "unit": "1-17",
+ "grade": 1,
+ "title": "감각동사 + 형용사 (2형식)",
+ "source": "17_감각동사_형용사_2형식.md",
+ "level": "hard",
+ "questions": [
+  {
+   "id": "1-17-H-c01",
+   "type": "choice",
+   "q": "빈칸에 알맞은 말을 고르세요.<br>The soup on the stove ____ delicious, so I can't wait for dinner.",
+   "ko": "가스레인지 위의 수프가 맛있는 냄새가 나서, 나는 저녁 식사를 기다릴 수가 없다.",
+   "o": [
+    "smells",
+    "smells like",
+    "smell",
+    "smelling",
+    "is smell"
+   ],
+   "a": 0,
+   "e": "주어 The soup은 3인칭 단수라서 smells를 쓰고, 뒤에 형용사 delicious가 오니 like는 필요 없어요. like는 명사 앞에만 써요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-17-H-c02",
+   "type": "choice",
+   "q": "다음 빈칸에 들어갈 수 <b>없는</b> 말을 고르세요.<br>My grandmother's voice sounded ____ on the phone yesterday.",
+   "ko": "어제 전화에서 할머니의 목소리는 ____하게 들렸다.",
+   "o": [
+    "happily",
+    "tired",
+    "strange",
+    "lovely",
+    "weak"
+   ],
+   "a": 0,
+   "e": "감각동사 sound 뒤에는 부사가 아니라 형용사가 와요. happily는 부사라서 쓸 수 없고, lovely는 -ly로 끝나지만 형용사라 쓸 수 있어요.",
+   "ref": "1. 우리말은 \"~하게\"인데 영어는 형용사!"
+  },
+  {
+   "id": "1-17-H-c03",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>비가 온 뒤에, 하늘은 바다처럼 보였다.<br>After the rain, the sky ____ the sea.",
+   "o": [
+    "looked like",
+    "looked",
+    "looked as",
+    "looked at",
+    "was looked like"
+   ],
+   "a": 0,
+   "e": "감각동사 뒤에 명사(the sea)가 오면 like를 꼭 넣어요. '~처럼 보였다'는 looked like + 명사예요.",
+   "ref": "2. 뒤에 명사가 오면 → 감각동사 + like + 명사"
+  },
+  {
+   "id": "1-17-H-c04",
+   "type": "choice",
+   "q": "다음 중 어법상 옳은 문장을 고르세요.",
+   "o": [
+    "When I touched the kitten, its fur felt very soft.",
+    "When I touched the kitten, its fur felt very softly.",
+    "When I touched the kitten, its fur felt like very soft.",
+    "When I touched the kitten, its fur was felt soft.",
+    "When I touched the kitten, its fur felt softness."
+   ],
+   "a": 0,
+   "e": "감각동사 feel 뒤에는 주어의 상태를 설명하는 형용사 soft가 와요. 부사 softly, 명사 softness는 안 되고, 형용사 앞에 like를 쓰지 않아요.",
+   "ref": "1. 우리말은 \"~하게\"인데 영어는 형용사!"
+  },
+  {
+   "id": "1-17-H-c05",
+   "type": "choice",
+   "q": "대화의 빈칸에 알맞은 말을 고르세요.<br>A: Let's go camping by the river this weekend!<br>B: That ____. I'll bring my tent.",
+   "ko": "A: 이번 주말에 강가로 캠핑 가자! B: 그거 좋은 계획인 것 같아. 내가 텐트를 가져올게.",
+   "o": [
+    "sounds like a great plan",
+    "sounds a great plan",
+    "sounds greatly",
+    "sounds like great",
+    "is sounding great"
+   ],
+   "a": 0,
+   "e": "sound 뒤에 명사 a great plan이 오니 like가 필요해요. 형용사 great 앞에는 like를 쓰지 않고, 부사 greatly는 쓸 수 없어요.",
+   "ref": "2. 뒤에 명사가 오면 → 감각동사 + like + 명사"
+  },
+  {
+   "id": "1-17-H-c06",
+   "type": "choice",
+   "q": "빈칸에 알맞은 말을 고르세요.<br>It ____ dark outside, so we should go home now.",
+   "ko": "밖이 어두워지고 있으니까, 우리는 지금 집에 가야 한다.",
+   "o": [
+    "is getting",
+    "is getting to",
+    "gets darkly",
+    "is getting like",
+    "getting"
+   ],
+   "a": 0,
+   "e": "get도 뒤에 형용사 보어가 오는 2형식 동사예요. '~해지고 있다'는 현재진행형 is getting + 형용사 dark로 쓰고, like는 명사 앞에만 써요.",
+   "ref": "3. 감각동사 외의 2형식 동사 (참고)"
+  },
+  {
+   "id": "1-17-H-e01",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "These cookies taste sweetly because my mom put a lot of sugar in them.",
+    "Your little brother looks like a baby bear in that coat.",
+    "When I called her, her voice sounded sad and tired.",
+    "The old blanket still feels warm after many years.",
+    "The new student seems friendly, so I will talk to him tomorrow."
+   ],
+   "a": 0,
+   "e": "감각동사 taste 뒤에는 부사가 아니라 형용사를 써요. → These cookies taste sweet because my mom put a lot of sugar in them.",
+   "ref": "1. 우리말은 \"~하게\"인데 영어는 형용사!"
+  },
+  {
+   "id": "1-17-H-e02",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "This juice tastes like strange, so I will not drink it.",
+    "The flowers in the garden smell wonderful in the morning.",
+    "My feet feel cold because I didn't wear socks today.",
+    "The baby looked lovely in her new yellow dress yesterday.",
+    "His plan sounds like a good idea, but it will take time."
+   ],
+   "a": 0,
+   "e": "like는 뒤에 명사가 올 때만 써요. strange는 형용사라서 like 없이 바로 써야 해요. → This juice tastes strange, so I will not drink it.",
+   "ref": "2. 뒤에 명사가 오면 → 감각동사 + like + 명사"
+  },
+  {
+   "id": "1-17-H-e03",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "Her new room look nice because she painted the walls yesterday.",
+    "The music from the next room sounds too loud at night.",
+    "I felt lonely when my best friend moved to another city.",
+    "This bread smells like chocolate, so my sister loves it.",
+    "The weather turned cold suddenly, and the leaves became red."
+   ],
+   "a": 0,
+   "e": "주어 Her new room은 3인칭 단수라서 감각동사에 -s를 붙여 looks로 써야 해요. → Her new room looks nice because she painted the walls yesterday.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-17-H-b01",
+   "type": "blank",
+   "q": "괄호 안의 동사를 알맞은 형태로 바꾸고, 알맞은 말을 골라 빈칸에 쓰세요. (두 단어)<br>The pizza at that new restaurant ____ ____ because the cheese is fresh. (taste, great / greatly)",
+   "ko": "그 새 식당의 피자는 치즈가 신선해서 맛이 아주 좋다.",
+   "ans": [
+    "tastes great"
+   ],
+   "e": "주어 The pizza가 3인칭 단수라 tastes로 쓰고, 감각동사 뒤에는 부사 greatly가 아니라 형용사 great을 써요.",
+   "ref": "1. 우리말은 \"~하게\"인데 영어는 형용사!"
+  },
+  {
+   "id": "1-17-H-b02",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>그 모자를 쓰면, 내 남동생은 카우보이처럼 보인다.<br>When he wears that hat, my brother looks ____ a cowboy.",
+   "ans": [
+    "like"
+   ],
+   "e": "감각동사 뒤에 명사 a cowboy가 오니까 like를 넣어 '~처럼 보이다'라고 써요.",
+   "ref": "2. 뒤에 명사가 오면 → 감각동사 + like + 명사"
+  },
+  {
+   "id": "1-17-H-b03",
+   "type": "blank",
+   "q": "다음 문장을 부정문으로 바꿀 때 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>The soup tastes salty.<br>→ The soup ____ ____ salty.",
+   "ko": "그 수프는 짠맛이 나지 않는다.",
+   "ans": [
+    "doesn't taste",
+    "does not taste"
+   ],
+   "e": "감각동사 taste는 일반동사라서 3인칭 단수 주어의 부정문은 doesn't + 동사원형으로 써요. 보어 salty는 형용사 그대로 둬요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-17-H-f01",
+   "type": "fix",
+   "q": "My mom's new perfume smells sweetly, and I like it very much.",
+   "wrong": "sweetly",
+   "ko": "엄마의 새 향수는 달콤한 냄새가 나고, 나는 그것을 아주 좋아한다.",
+   "ans": [
+    "sweet"
+   ],
+   "e": "우리말은 '달콤하게'지만 감각동사 뒤에는 주어의 상태를 설명하는 형용사를 써요. sweetly → sweet",
+   "ref": "1. 우리말은 \"~하게\"인데 영어는 형용사!"
+  },
+  {
+   "id": "1-17-H-f02",
+   "type": "fix",
+   "q": "When I heard the news on the radio, it sounded a joke.",
+   "wrong": "sounded a joke",
+   "ko": "라디오에서 그 소식을 들었을 때, 그것은 농담처럼 들렸다.",
+   "ans": [
+    "sounded like a joke",
+    "like a joke"
+   ],
+   "e": "감각동사 뒤에 명사 a joke가 오면 like가 꼭 필요해요. sounded a joke → sounded like a joke",
+   "ref": "2. 뒤에 명사가 오면 → 감각동사 + like + 명사"
+  },
+  {
+   "id": "1-17-H-f03",
+   "type": "fix",
+   "q": "These oranges from Jeju tastes really sweet and fresh.",
+   "wrong": "tastes",
+   "ko": "제주에서 온 이 오렌지들은 정말 달콤하고 신선한 맛이 난다.",
+   "ans": [
+    "taste"
+   ],
+   "e": "주어 These oranges는 복수라서 감각동사에 -s를 붙이지 않아요. 보어 sweet, fresh는 형용사라 그대로예요. tastes → taste",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-17-H-a01",
+   "type": "arrange",
+   "ko": "네 새 안경을 쓰니 너는 과학자처럼 보인다.",
+   "words": [
+    "a scientist",
+    "look",
+    "in",
+    "You",
+    "new glasses",
+    "like",
+    "your"
+   ],
+   "ans": [
+    "You look like a scientist in your new glasses.",
+    "In your new glasses, you look like a scientist."
+   ],
+   "e": "감각동사 look 뒤에 명사 a scientist가 오니까 like를 넣어 look like + 명사로 써요.",
+   "ref": "2. 뒤에 명사가 오면 → 감각동사 + like + 명사"
+  },
+  {
+   "id": "1-17-H-a02",
+   "type": "arrange",
+   "ko": "그 수프는 짜게 보였지만, 내가 먹었을 때 달콤한 맛이 났다.",
+   "cond": "주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
+   "words": [
+    "sweet",
+    "the soup",
+    "when I",
+    "taste",
+    "but it",
+    "eat",
+    "look",
+    "salty",
+    "it"
+   ],
+   "ans": [
+    "The soup looked salty, but it tasted sweet when I ate it.",
+    "The soup looked salty, but when I ate it, it tasted sweet."
+   ],
+   "e": "look, taste 뒤에는 형용사 salty, sweet을 써요. 과거의 일이라 look → looked, taste → tasted, eat → ate로 바꿔요.",
+   "ref": "핵심 개념"
+  },
+  {
+   "id": "1-17-H-a03",
+   "type": "arrange",
+   "ko": "너희 할머니는 왜 그 사진에서 그렇게 슬퍼 보이시니?",
+   "cond": "주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
+   "words": [
+    "so",
+    "look",
+    "that photo",
+    "why",
+    "your grandmother",
+    "sad",
+    "in"
+   ],
+   "ans": [
+    "Why does your grandmother look so sad in that photo?",
+    "In that photo, why does your grandmother look so sad?"
+   ],
+   "e": "의문사 Why 뒤에 does + 주어 + 동사원형 look을 쓰고, 감각동사 뒤에는 형용사 sad를 써요. sadly를 쓰면 안 돼요.",
+   "ref": "1. 우리말은 \"~하게\"인데 영어는 형용사!"
+  }
+ ]
+}
