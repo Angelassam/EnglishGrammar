@@ -177,7 +177,7 @@
    "words":["him","bought","Grandma","a toy car"],"ans":["Grandma bought him a toy car."],
    "e":"bought 뒤에 사람(him)을 먼저, 물건(a toy car)을 나중에 써요.",
    "ref":"1. 중1 교과서 단골 수여동사"},
-  {"id":"1-18-a06","type":"arrange","ko":"그녀는 그들에게 그 소식을 말해 주었다.",
+  {"id":"1-18-a06","type":"arrange","ko":"그녀는 그들에게 그 소식을 말해 주었다. (네 단어로)",
    "cond":"주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
    "words":["she","tell","they","the news"],"ans":["She told them the news."],
    "e":"과거라서 tell을 told로 바꾸고, 간접목적어는 목적격 them으로 써요. 사람 먼저, 물건 나중이에요.",
