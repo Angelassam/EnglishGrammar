@@ -21,7 +21,7 @@
    "ref":"2. 시제별 형태"},
   {"id":"2-05-c04","type":"choice",
    "q":"우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>결과는 내일 발표될 것이다.<br>The results ____ tomorrow.",
-   "o":["will be announced","will announce","will be announce","are announced","will announced"],"a":0,
+   "o":["will be announced","will announce","will be announce","were announced","will announced"],"a":0,
    "e":"미래 수동태는 will be + p.p.예요. will 뒤에 be를 빠뜨리면 안 돼요.",
    "ref":"2. 시제별 형태"},
   {"id":"2-05-c05","type":"choice",
