@@ -172,7 +172,7 @@
    "ref":"1. 어순: 대명사 → 형용사 → to부정사"},
   {"id":"1-23-P2-a03","type":"arrange","ko":"오늘은 할 만한 특별한 게 없다.",
    "words":["to do","nothing","There is","special","today"],
-   "ans":["There is nothing special to do today."],
+   "ans":["There is nothing special to do today.","Today there is nothing special to do."],
    "e":"There is nothing 뒤에 형용사 special, to부정사 to do 순서로 써요.",
    "ref":"1. 어순: 대명사 → 형용사 → to부정사"},
   {"id":"1-23-P2-a04","type":"arrange","ko":"나는 말할 중요한 것이 있다.",
