@@ -1,0 +1,498 @@
+{
+ "unit": "1-12",
+ "grade": 1,
+ "title": "비인칭주어 it",
+ "source": "12_비인칭주어_it.md",
+ "questions": [
+  {
+   "id": "1-12-c01",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>오늘은 날씨가 맑다.<br>____ is sunny today.",
+   "o": [
+    "It",
+    "This",
+    "That",
+    "There",
+    "Weather"
+   ],
+   "a": 0,
+   "e": "날씨를 말할 때는 비인칭주어 It을 주어로 써요. 이때 It은 '그것'이라고 해석하지 않아요.",
+   "ref": "핵심 개념 — 날씨"
+  },
+  {
+   "id": "1-12-c02",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>3시이다.<br>____ is 3 o'clock.",
+   "o": [
+    "It",
+    "Time",
+    "This",
+    "There",
+    "Clock"
+   ],
+   "a": 0,
+   "e": "시간을 말할 때도 주어 자리에 비인칭주어 It을 써요. 우리말에는 주어가 없어도 영어에는 꼭 있어야 해요.",
+   "ref": "핵심 개념 — 시간"
+  },
+  {
+   "id": "1-12-c03",
+   "type": "choice",
+   "q": "대화의 빈칸에 알맞은 말을 고르세요.<br>A: What day is it today?<br>B: ____ Friday.",
+   "o": [
+    "It's",
+    "This is",
+    "There is",
+    "That's",
+    "I'm"
+   ],
+   "a": 0,
+   "e": "요일을 묻는 What day is it today?에는 It's Friday.처럼 비인칭주어 It으로 대답해요.",
+   "ref": "2. 질문과 대답에서"
+  },
+  {
+   "id": "1-12-c04",
+   "type": "choice",
+   "q": "대화의 빈칸에 알맞은 말을 고르세요.<br>A: How's the weather?<br>B: ____",
+   "o": [
+    "It's windy.",
+    "It windy.",
+    "Is windy.",
+    "It's a windy.",
+    "It windy is."
+   ],
+   "a": 0,
+   "e": "날씨는 It's + 날씨 형용사로 말해요. 주어 It과 동사 is를 빼면 안 되고, windy 앞에 a를 붙이지 않아요.",
+   "ref": "2. 질문과 대답에서"
+  },
+  {
+   "id": "1-12-c05",
+   "type": "choice",
+   "q": "다음 중 밑줄 친 <u>it</u>의 쓰임이 나머지 넷과 <b>다른</b> 것을 고르세요.",
+   "o": [
+    "I have a cat. <u>It</u> is cute.",
+    "<u>It</u> is raining.",
+    "<u>It</u> is Monday.",
+    "<u>It</u> is dark outside.",
+    "<u>It</u> is 2 km from here to the station."
+   ],
+   "a": 0,
+   "e": "I have a cat. It is cute.의 It은 앞의 a cat을 가리키는 대명사라서 '그것은'이라고 해석해요. 나머지는 날씨·요일·명암·거리를 나타내는 비인칭주어예요.",
+   "ref": "1. 비인칭주어 it vs 대명사 it"
+  },
+  {
+   "id": "1-12-c06",
+   "type": "choice",
+   "q": "다음 중 밑줄 친 <u>it</u>을 '그것'이라고 해석하는 것을 고르세요.",
+   "o": [
+    "I lost my pen. I can't find <u>it</u>.",
+    "<u>It</u> is May 5th.",
+    "<u>It</u> is spring now.",
+    "<u>It</u>'s 7:30.",
+    "<u>It</u> wasn't sunny yesterday."
+   ],
+   "a": 0,
+   "e": "'그것'이라고 해석하는 건 앞의 명사(my pen)를 가리키는 대명사 it뿐이에요. 날짜·계절·시간·날씨의 it은 해석하지 않아요.",
+   "ref": "4. 미리 보기 — it의 네 가지 쓰임"
+  },
+  {
+   "id": "1-12-c07",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>밖에 바람이 부니?<br>____ windy outside?",
+   "o": [
+    "Is it",
+    "Is",
+    "Does it",
+    "It is",
+    "Are it"
+   ],
+   "a": 0,
+   "e": "비인칭주어 it의 의문문은 Is it ~?으로 써요. 의문문에서도 주어 it을 빼면 안 돼요.",
+   "ref": "3. 부정문·의문문"
+  },
+  {
+   "id": "1-12-c08",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>오늘은 춥지 않다.<br>It ____ cold today.",
+   "o": [
+    "isn't",
+    "doesn't",
+    "not",
+    "aren't",
+    "don't"
+   ],
+   "a": 0,
+   "e": "It is cold의 부정문은 be동사 뒤에 not을 붙여 It isn't cold로 써요. doesn't는 be동사와 함께 쓰지 않아요.",
+   "ref": "3. 부정문·의문문"
+  },
+  {
+   "id": "1-12-c09",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>어제는 맑지 않았다.<br>It ____ sunny yesterday.",
+   "o": [
+    "wasn't",
+    "isn't",
+    "didn't",
+    "weren't",
+    "won't"
+   ],
+   "a": 0,
+   "e": "yesterday가 있는 과거 문장이고 주어가 It이라서 was not의 축약형 wasn't를 써요.",
+   "ref": "3. 부정문·의문문"
+  },
+  {
+   "id": "1-12-c10",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>여기서 역까지 2킬로미터이다.<br>____ 2 km from here to the station.",
+   "o": [
+    "It is",
+    "There is",
+    "This is",
+    "That is",
+    "Here is"
+   ],
+   "a": 0,
+   "e": "거리를 말할 때도 비인칭주어 It을 주어로 써요. There is는 '~이 있다'라는 뜻이라 맞지 않아요.",
+   "ref": "핵심 개념 — 거리"
+  },
+  {
+   "id": "1-12-c11",
+   "type": "choice",
+   "q": "다음 중 어법상 옳은 문장을 고르세요.",
+   "o": [
+    "It is dark outside.",
+    "Is dark outside.",
+    "It dark outside.",
+    "It are dark outside.",
+    "Dark is outside."
+   ],
+   "a": 0,
+   "e": "명암을 말할 때는 주어 It과 be동사 is를 모두 써야 해요. 주어 It은 단수라서 are가 아니라 is를 써요.",
+   "ref": "핵심 개념 — 명암"
+  },
+  {
+   "id": "1-12-c12",
+   "type": "choice",
+   "q": "대화의 빈칸에 알맞은 말을 고르세요.<br>A: What time is it?<br>B: ____ 7:30.",
+   "o": [
+    "It's",
+    "It",
+    "Is",
+    "Its",
+    "Time is"
+   ],
+   "a": 0,
+   "e": "시간을 묻는 What time is it?에는 It's 7:30.처럼 It's(It is)로 대답해요. Its는 '그것의'라는 뜻이라 틀려요.",
+   "ref": "2. 질문과 대답에서"
+  },
+  {
+   "id": "1-12-c13",
+   "type": "choice",
+   "q": "다음 문장의 It이 나타내는 것을 고르세요.<br>It is spring now.",
+   "o": [
+    "계절",
+    "날씨",
+    "시간",
+    "요일",
+    "거리"
+   ],
+   "a": 0,
+   "e": "spring(봄)은 계절이에요. 비인칭주어 it은 날씨·시간·요일·날짜·계절·거리·명암을 나타낼 때 써요.",
+   "ref": "핵심 개념 — 계절"
+  },
+  {
+   "id": "1-12-e01",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "Is cold today.",
+    "It is sunny today.",
+    "It is 3 o'clock.",
+    "It is spring now.",
+    "Is it windy outside?"
+   ],
+   "a": 0,
+   "e": "영어 문장에는 주어가 꼭 있어야 해서 날씨를 말할 때도 It을 빼면 안 돼요. → It is cold today.",
+   "ref": "핵심 개념 — 주어 it을 빼면 안 됨"
+  },
+  {
+   "id": "1-12-e02",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "It are Monday.",
+    "It's Friday.",
+    "It was sunny yesterday.",
+    "It isn't cold today.",
+    "It is May 5th."
+   ],
+   "a": 0,
+   "e": "주어 It은 단수라서 be동사 is를 써야 해요. → It is Monday.",
+   "ref": "핵심 개념 — 요일"
+  },
+  {
+   "id": "1-12-e03",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "Does it windy outside?",
+    "Is it dark outside?",
+    "What time is it?",
+    "It's about 500 meters.",
+    "It is 2 km from here to the station."
+   ],
+   "a": 0,
+   "e": "It is windy의 의문문은 be동사를 앞으로 보내 Is it ~?으로 써요. Does는 be동사 문장에 쓰지 않아요. → Is it windy outside?",
+   "ref": "3. 부정문·의문문"
+  },
+  {
+   "id": "1-12-e04",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "It doesn't cold today.",
+    "It isn't hot today.",
+    "It wasn't rainy yesterday.",
+    "How's the weather?",
+    "It is winter now."
+   ],
+   "a": 0,
+   "e": "It is cold의 부정문은 is 뒤에 not을 붙여요. doesn't는 be동사와 함께 쓰지 않아요. → It isn't cold today.",
+   "ref": "3. 부정문·의문문"
+  },
+  {
+   "id": "1-12-b01",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>오늘은 월요일이다.<br>____ is Monday today.",
+   "ans": [
+    "It"
+   ],
+   "e": "요일을 말할 때는 비인칭주어 It을 주어로 써요.",
+   "ref": "핵심 개념 — 요일"
+  },
+  {
+   "id": "1-12-b02",
+   "type": "blank",
+   "q": "대화의 빈칸에 알맞은 말을 쓰세요. (축약형 한 단어)<br>A: What time is it?<br>B: ____ 7:30.",
+   "ans": [
+    "It's",
+    "It is"
+   ],
+   "e": "시간을 물으면 It's(It is) + 시각으로 대답해요.",
+   "ref": "2. 질문과 대답에서"
+  },
+  {
+   "id": "1-12-b03",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (축약형 한 단어)<br>오늘은 춥지 않다.<br>It ____ cold today.",
+   "ans": [
+    "isn't",
+    "is not"
+   ],
+   "e": "비인칭주어 it의 부정문은 be동사 뒤에 not을 붙여 isn't로 써요.",
+   "ref": "3. 부정문·의문문"
+  },
+  {
+   "id": "1-12-b04",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>밖이 어둡니?<br>____ ____ dark outside?",
+   "ans": [
+    "Is it"
+   ],
+   "e": "의문문은 be동사를 주어 it 앞으로 보내 Is it ~?으로 써요.",
+   "ref": "3. 부정문·의문문"
+  },
+  {
+   "id": "1-12-b05",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (축약형 한 단어)<br>어제는 맑지 않았다.<br>It ____ sunny yesterday.",
+   "ans": [
+    "wasn't",
+    "was not"
+   ],
+   "e": "과거의 부정문이라 was not의 축약형 wasn't를 써요.",
+   "ref": "3. 부정문·의문문"
+  },
+  {
+   "id": "1-12-b06",
+   "type": "blank",
+   "q": "대화의 빈칸에 알맞은 말을 쓰세요. (축약형 한 단어)<br>A: How's the weather?<br>B: ____ snowing.",
+   "ans": [
+    "It's",
+    "It is"
+   ],
+   "e": "날씨를 물으면 비인칭주어 It을 써서 It's snowing.처럼 대답해요.",
+   "ref": "2. 질문과 대답에서"
+  },
+  {
+   "id": "1-12-f01",
+   "type": "fix",
+   "q": "Is dark outside.",
+   "wrong": "Is dark",
+   "ko": "밖이 어둡다.",
+   "ans": [
+    "It is dark",
+    "It's dark"
+   ],
+   "e": "영어 문장에는 주어가 꼭 필요해요. 명암을 말할 때는 비인칭주어 It을 써요. Is dark → It is dark",
+   "ref": "핵심 개념 — 주어 it을 빼면 안 됨"
+  },
+  {
+   "id": "1-12-f02",
+   "type": "fix",
+   "q": "It are Sunday today.",
+   "wrong": "are",
+   "ko": "오늘은 일요일이다.",
+   "ans": [
+    "is"
+   ],
+   "e": "주어 It은 단수라서 be동사 is를 써요. are → is",
+   "ref": "핵심 개념 — 요일"
+  },
+  {
+   "id": "1-12-f03",
+   "type": "fix",
+   "q": "It doesn't cold today.",
+   "wrong": "doesn't",
+   "ko": "오늘은 춥지 않다.",
+   "ans": [
+    "isn't",
+    "is not"
+   ],
+   "e": "It is cold의 부정은 be동사 뒤에 not을 붙여요. doesn't → isn't",
+   "ref": "3. 부정문·의문문"
+  },
+  {
+   "id": "1-12-f04",
+   "type": "fix",
+   "q": "Does it hot today?",
+   "wrong": "Does it",
+   "ko": "오늘은 덥니?",
+   "ans": [
+    "Is it"
+   ],
+   "e": "be동사 문장의 의문문은 Is it ~?으로 써요. Does it → Is it",
+   "ref": "3. 부정문·의문문"
+  },
+  {
+   "id": "1-12-f05",
+   "type": "fix",
+   "q": "This is 3 o'clock now.",
+   "wrong": "This",
+   "ko": "지금 3시이다.",
+   "ans": [
+    "It"
+   ],
+   "e": "시간을 말할 때 주어는 비인칭주어 It이에요. This → It",
+   "ref": "핵심 개념 — 시간"
+  },
+  {
+   "id": "1-12-f06",
+   "type": "fix",
+   "q": "It were sunny yesterday.",
+   "wrong": "were",
+   "ko": "어제는 맑았다.",
+   "ans": [
+    "was"
+   ],
+   "e": "주어 It은 단수라서 과거 be동사는 was를 써요. were → was",
+   "ref": "핵심 개념 — 날씨"
+  },
+  {
+   "id": "1-12-a01",
+   "type": "arrange",
+   "ko": "비가 오고 있다.",
+   "words": [
+    "raining",
+    "It",
+    "is"
+   ],
+   "ans": [
+    "It is raining."
+   ],
+   "e": "날씨를 말할 때는 비인칭주어 It을 주어로 쓰고 It + is + raining 순서로 써요.",
+   "ref": "핵심 개념 — 날씨"
+  },
+  {
+   "id": "1-12-a02",
+   "type": "arrange",
+   "ko": "여기서 역까지 2킬로미터이다.",
+   "words": [
+    "from here",
+    "It",
+    "to the station",
+    "is",
+    "2 km"
+   ],
+   "ans": [
+    "It is 2 km from here to the station."
+   ],
+   "e": "거리를 말할 때도 비인칭주어 It을 맨 앞에 두고 It is + 거리 순서로 써요.",
+   "ref": "핵심 개념 — 거리"
+  },
+  {
+   "id": "1-12-a03",
+   "type": "arrange",
+   "ko": "밖에 바람이 부니?",
+   "words": [
+    "windy",
+    "it",
+    "Is",
+    "outside"
+   ],
+   "ans": [
+    "Is it windy outside?"
+   ],
+   "e": "의문문은 Is + it + 날씨 형용사 ~? 순서예요.",
+   "ref": "3. 부정문·의문문"
+  },
+  {
+   "id": "1-12-a04",
+   "type": "arrange",
+   "ko": "어제는 맑지 않았다.",
+   "words": [
+    "sunny",
+    "wasn't",
+    "It",
+    "yesterday"
+   ],
+   "ans": [
+    "It wasn't sunny yesterday.",
+    "Yesterday it wasn't sunny."
+   ],
+   "e": "과거의 부정문은 It + wasn't + 날씨 형용사 순서로 써요.",
+   "ref": "3. 부정문·의문문"
+  },
+  {
+   "id": "1-12-a05",
+   "type": "arrange",
+   "ko": "지금은 봄이다.",
+   "words": [
+    "spring",
+    "It",
+    "now",
+    "is"
+   ],
+   "ans": [
+    "It is spring now.",
+    "Now it is spring."
+   ],
+   "e": "계절을 말할 때도 주어는 비인칭주어 It이에요. It + is + 계절 순서로 써요.",
+   "ref": "핵심 개념 — 계절"
+  },
+  {
+   "id": "1-12-a06",
+   "type": "arrange",
+   "ko": "공원까지 얼마나 머니?",
+   "words": [
+    "is it",
+    "How far",
+    "to the park"
+   ],
+   "ans": [
+    "How far is it to the park?"
+   ],
+   "e": "거리를 물을 때는 How far + is it + to 장소 ~? 순서로 써요.",
+   "ref": "2. 질문과 대답에서"
+  }
+ ]
+}
