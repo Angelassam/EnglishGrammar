@@ -354,15 +354,15 @@
   {
    "id": "1-06-a01",
    "type": "arrange",
-   "ko": "너는 안전벨트를 매야 한다.",
+   "ko": "너는 약속을 지켜야 한다.",
    "words": [
-    "wear",
+    "keep",
     "must",
     "You",
-    "a seat belt"
+    "your promise"
    ],
    "ans": [
-    "You must wear a seat belt."
+    "You must keep your promise."
    ],
    "e": "주어 + must + 동사원형 순서로 써요.",
    "ref": "1. must — 의무"
@@ -370,33 +370,32 @@
   {
    "id": "1-06-a02",
    "type": "arrange",
-   "ko": "학생들은 도서관에서 조용히 해야 한다.",
+   "ko": "모두 제시간에 와야 한다.",
    "words": [
-    "quiet",
+    "on time",
     "must",
-    "Students",
-    "be",
-    "in the library"
+    "Everyone",
+    "be"
    ],
    "ans": [
-    "Students must be quiet in the library."
+    "Everyone must be on time."
    ],
-   "e": "must 뒤에 동사원형 be를 쓰고, 그 뒤에 quiet를 써요.",
+   "e": "must 뒤에 동사원형 be를 쓰고, 그 뒤에 on time을 써요.",
    "ref": "1. must — 의무"
   },
   {
    "id": "1-06-a03",
    "type": "arrange",
-   "ko": "너는 복도에서 뛰면 안 된다.",
+   "ko": "너는 수업 중에 휴대폰을 사용하면 안 된다.",
    "words": [
     "not",
-    "run",
+    "use",
     "You",
     "must",
-    "in the hallway"
+    "your phone in class"
    ],
    "ans": [
-    "You must not run in the hallway."
+    "You must not use your phone in class."
    ],
    "e": "금지는 must not + 동사원형 순서로 써요.",
    "ref": "1. must — 부정 must not"
@@ -404,32 +403,32 @@
   {
    "id": "1-06-a04",
    "type": "arrange",
-   "ko": "그녀는 버스를 타야 한다.",
+   "ko": "내 남동생은 설거지를 해야 한다.",
    "words": [
     "has",
-    "take",
-    "She",
+    "wash",
+    "My brother",
     "to",
-    "the bus"
+    "the dishes"
    ],
    "ans": [
-    "She has to take the bus."
+    "My brother has to wash the dishes."
    ],
-   "e": "주어가 She라서 has to + 동사원형으로 써요.",
+   "e": "주어 My brother는 3인칭 단수라서 has to + 동사원형으로 써요.",
    "ref": "2. have to — 의무"
   },
   {
    "id": "1-06-a05",
    "type": "arrange",
-   "ko": "내가 그녀에게 전화하는 게 좋을까?",
+   "ko": "우리가 우산을 가져가는 게 좋을까?",
    "words": [
-    "I",
-    "call",
+    "we",
+    "take",
     "Should",
-    "her"
+    "an umbrella"
    ],
    "ans": [
-    "Should I call her?"
+    "Should we take an umbrella?"
    ],
    "e": "의문문은 Should + 주어 + 동사원형 ~? 순서예요.",
    "ref": "3. should — 의문문"
@@ -437,15 +436,15 @@
   {
    "id": "1-06-a06",
    "type": "arrange",
-   "ko": "너는 늦게까지 깨어 있지 않는 게 좋겠다.",
+   "ko": "우리는 음식을 낭비하지 않는 게 좋겠다.",
    "words": [
-    "stay up",
-    "late",
+    "waste",
+    "food",
     "shouldn't",
-    "You"
+    "We"
    ],
    "ans": [
-    "You shouldn't stay up late."
+    "We shouldn't waste food."
    ],
    "e": "shouldn't + 동사원형 순서로 써요.",
    "ref": "3. should — 충고·조언"

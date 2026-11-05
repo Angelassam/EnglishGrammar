@@ -272,18 +272,18 @@
   {
    "id": "1-12-b02",
    "type": "blank",
-   "q": "대화의 빈칸에 알맞은 말을 쓰세요. (축약형 한 단어)<br>A: What time is it?<br>B: ____ 7:30.",
+   "q": "대화의 빈칸에 알맞은 말을 쓰세요. (축약형 한 단어)<br>A: What's the date today?<br>B: ____ June 10th.",
    "ans": [
     "It's",
     "It is"
    ],
-   "e": "시간을 물으면 It's(It is) + 시각으로 대답해요.",
-   "ref": "2. 질문과 대답에서"
+   "e": "날짜를 물으면 비인칭주어 It을 써서 It's(It is) + 날짜로 대답해요.",
+   "ref": "핵심 개념 — 날짜"
   },
   {
    "id": "1-12-b03",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (축약형 한 단어)<br>오늘은 춥지 않다.<br>It ____ cold today.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (축약형 한 단어)<br>지금은 어둡지 않다.<br>It ____ dark now.",
    "ans": [
     "isn't",
     "is not"
@@ -294,7 +294,7 @@
   {
    "id": "1-12-b04",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>밖이 어둡니?<br>____ ____ dark outside?",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>지금 비가 오니?<br>____ ____ raining now?",
    "ans": [
     "Is it"
    ],
@@ -304,7 +304,7 @@
   {
    "id": "1-12-b05",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (축약형 한 단어)<br>어제는 맑지 않았다.<br>It ____ sunny yesterday.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (축약형 한 단어)<br>지난주에는 춥지 않았다.<br>It ____ cold last week.",
    "ans": [
     "wasn't",
     "was not"
@@ -315,12 +315,12 @@
   {
    "id": "1-12-b06",
    "type": "blank",
-   "q": "대화의 빈칸에 알맞은 말을 쓰세요. (축약형 한 단어)<br>A: How's the weather?<br>B: ____ snowing.",
+   "q": "대화의 빈칸에 알맞은 말을 쓰세요. (축약형 한 단어)<br>A: What's the weather like today?<br>B: ____ cloudy.",
    "ans": [
     "It's",
     "It is"
    ],
-   "e": "날씨를 물으면 비인칭주어 It을 써서 It's snowing.처럼 대답해요.",
+   "e": "날씨를 물으면 비인칭주어 It을 써서 It's cloudy.처럼 대답해요.",
    "ref": "2. 질문과 대답에서"
   },
   {
@@ -415,16 +415,15 @@
   {
    "id": "1-12-a02",
    "type": "arrange",
-   "ko": "여기서 역까지 2킬로미터이다.",
+   "ko": "학교에서 우리 집까지 1킬로미터이다.",
    "words": [
-    "from here",
+    "from school to my house",
     "It",
-    "to the station",
-    "is",
-    "2 km"
+    "1 km",
+    "is"
    ],
    "ans": [
-    "It is 2 km from here to the station."
+    "It is 1 km from school to my house."
    ],
    "e": "거리를 말할 때도 비인칭주어 It을 맨 앞에 두고 It is + 거리 순서로 써요.",
    "ref": "핵심 개념 — 거리"
@@ -432,32 +431,32 @@
   {
    "id": "1-12-a03",
    "type": "arrange",
-   "ko": "밖에 바람이 부니?",
+   "ko": "오늘은 금요일이니?",
    "words": [
-    "windy",
+    "Friday",
     "it",
     "Is",
-    "outside"
+    "today"
    ],
    "ans": [
-    "Is it windy outside?"
+    "Is it Friday today?"
    ],
-   "e": "의문문은 Is + it + 날씨 형용사 ~? 순서예요.",
+   "e": "요일을 물을 때도 be동사를 앞으로 보내 Is + it + 요일 ~? 순서로 써요.",
    "ref": "3. 부정문·의문문"
   },
   {
    "id": "1-12-a04",
    "type": "arrange",
-   "ko": "어제는 맑지 않았다.",
+   "ko": "지난 일요일에는 따뜻하지 않았다.",
    "words": [
-    "sunny",
+    "warm",
     "wasn't",
     "It",
-    "yesterday"
+    "last Sunday"
    ],
    "ans": [
-    "It wasn't sunny yesterday.",
-    "Yesterday it wasn't sunny."
+    "It wasn't warm last Sunday.",
+    "Last Sunday it wasn't warm."
    ],
    "e": "과거의 부정문은 It + wasn't + 날씨 형용사 순서로 써요.",
    "ref": "3. 부정문·의문문"
@@ -465,16 +464,17 @@
   {
    "id": "1-12-a05",
    "type": "arrange",
-   "ko": "지금은 봄이다.",
+   "ko": "지금은 여름이다.",
    "words": [
-    "spring",
+    "summer",
     "It",
     "now",
     "is"
    ],
    "ans": [
-    "It is spring now.",
-    "Now it is spring."
+    "It is summer now.",
+    "Now it is summer.",
+    "It is now summer."
    ],
    "e": "계절을 말할 때도 주어는 비인칭주어 It이에요. It + is + 계절 순서로 써요.",
    "ref": "핵심 개념 — 계절"

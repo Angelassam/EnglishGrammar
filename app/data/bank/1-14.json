@@ -278,10 +278,10 @@
   {
    "id": "1-14-b01",
    "type": "blank",
-   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (두 단어)<br>I want ____ ____ Paris. (visit)",
-   "ko": "나는 파리를 방문하고 싶다.",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (두 단어)<br>I want ____ ____ pizza for dinner. (eat)",
+   "ko": "나는 저녁으로 피자를 먹고 싶다.",
    "ans": [
-    "to visit"
+    "to eat"
    ],
    "e": "want 뒤에는 to부정사(to + 동사원형)가 와요.",
    "ref": "1. 목적어로 to부정사를 쓰는 동사 — want"
@@ -289,29 +289,29 @@
   {
    "id": "1-14-b02",
    "type": "blank",
-   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (두 단어)<br>She hopes ____ ____ you again. (see)",
-   "ko": "그녀는 너를 다시 만나기를 바란다.",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (두 단어)<br>They hope ____ ____ the museum tomorrow. (visit)",
+   "ko": "그들은 내일 그 박물관을 방문하기를 바란다.",
    "ans": [
-    "to see"
+    "to visit"
    ],
-   "e": "hope는 목적어로 to부정사를 쓰는 동사라서 to see로 써요.",
+   "e": "hope는 목적어로 to부정사를 쓰는 동사라서 to visit으로 써요.",
    "ref": "1. 목적어로 to부정사를 쓰는 동사 — hope"
   },
   {
    "id": "1-14-b03",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 괄호 안의 말을 이용해 빈칸을 채우세요. (두 단어)<br>그는 더 열심히 공부하기로 결심했다.<br>He decided ____ ____ harder. (study)",
+   "q": "우리말과 같은 뜻이 되도록 괄호 안의 말을 이용해 빈칸을 채우세요. (두 단어)<br>그녀는 매일 아침 조깅을 하기로 결심했다.<br>She decided ____ ____ every morning. (jog)",
    "ans": [
-    "to study"
+    "to jog"
    ],
-   "e": "decide 뒤에는 to부정사가 오고, 문장이 과거여도 to 뒤는 동사원형 study예요.",
+   "e": "decide 뒤에는 to부정사가 오고, 문장이 과거여도 to 뒤는 동사원형 jog예요.",
    "ref": "1. 목적어로 to부정사를 쓰는 동사 — decide"
   },
   {
    "id": "1-14-b04",
    "type": "blank",
-   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요.<br>To exercise every day ____ important. (be)",
-   "ko": "매일 운동하는 것은 중요하다.",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요.<br>To eat breakfast ____ good for you. (be)",
+   "ko": "아침을 먹는 것은 너에게 좋다.",
    "ans": [
     "is"
    ],
@@ -321,20 +321,20 @@
   {
    "id": "1-14-b05",
    "type": "blank",
-   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (두 단어)<br>My dream is ____ ____ a singer. (become)",
-   "ko": "내 꿈은 가수가 되는 것이다.",
+   "q": "괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (두 단어)<br>His goal is ____ ____ the race. (win)",
+   "ko": "그의 목표는 그 경주에서 이기는 것이다.",
    "ans": [
-    "to become"
+    "to win"
    ],
-   "e": "보어 자리에 '되는 것'이라는 뜻의 to부정사 to become을 써요.",
+   "e": "보어 자리에 '이기는 것'이라는 뜻의 to부정사 to win을 써요.",
    "ref": "핵심 개념 — 보어"
   },
   {
    "id": "1-14-b06",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 괄호 안의 말을 이용해 빈칸을 채우세요. (두 단어)<br>너는 쉴 필요가 있다.<br>You need ____ ____. (rest)",
+   "q": "우리말과 같은 뜻이 되도록 괄호 안의 말을 이용해 빈칸을 채우세요. (두 단어)<br>우리는 물을 더 많이 마실 필요가 있다.<br>We need ____ ____ more water. (drink)",
    "ans": [
-    "to rest"
+    "to drink"
    ],
    "e": "need는 목적어로 to부정사를 쓰는 동사예요. need + to + 동사원형으로 써요.",
    "ref": "1. 목적어로 to부정사를 쓰는 동사 — need"
@@ -430,83 +430,85 @@
   {
    "id": "1-14-a02",
    "type": "arrange",
-   "ko": "영어를 배우는 것은 재미있다.",
+   "ko": "일찍 일어나는 것은 힘들다.",
    "words": [
     "is",
-    "To learn",
-    "fun",
-    "English"
+    "To get up",
+    "hard",
+    "early"
    ],
    "ans": [
-    "To learn English is fun."
+    "To get up early is hard."
    ],
-   "e": "To learn English가 주어로 맨 앞에 오고, 단수 취급이라 is를 써요.",
+   "e": "To get up early가 주어로 맨 앞에 오고, 단수 취급이라 is를 써요.",
    "ref": "핵심 개념 — 주어"
   },
   {
    "id": "1-14-a03",
    "type": "arrange",
-   "ko": "내 꿈은 가수가 되는 것이다.",
+   "ko": "내 계획은 일본으로 여행하는 것이다.",
    "words": [
-    "a singer",
-    "My dream",
-    "to become",
+    "to Japan",
+    "My plan",
+    "to travel",
     "is"
    ],
    "ans": [
-    "My dream is to become a singer."
+    "My plan is to travel to Japan."
    ],
-   "e": "주어 + be동사 + to부정사(보어) 순서예요.",
+   "e": "주어 + be동사 + to부정사(보어) 순서예요. 내 계획 = 일본으로 여행하는 것이에요.",
    "ref": "핵심 개념 — 보어"
   },
   {
    "id": "1-14-a04",
    "type": "arrange",
-   "ko": "그녀는 너를 다시 만나기를 바란다.",
+   "ko": "우리는 오늘 밤 별을 보기를 바란다.",
    "words": [
     "to see",
-    "She",
-    "again",
-    "hopes",
-    "you"
+    "We",
+    "tonight",
+    "hope",
+    "the stars"
    ],
    "ans": [
-    "She hopes to see you again."
+    "We hope to see the stars tonight.",
+    "Tonight we hope to see the stars."
    ],
-   "e": "주어 + hopes + to부정사 + 목적어 순서로 써요.",
+   "e": "주어 + hope + to부정사 + 목적어 순서로 써요. hope는 목적어로 to부정사를 쓰는 동사예요.",
    "ref": "1. 목적어로 to부정사를 쓰는 동사 — hope"
   },
   {
    "id": "1-14-a05",
    "type": "arrange",
-   "ko": "나는 작년에 수영하는 것을 배웠다.",
+   "ko": "내 여동생은 이번 여름에 자전거 타는 것을 배웠다.",
    "words": [
-    "last year",
-    "I",
-    "to swim",
-    "learned"
+    "this summer",
+    "My sister",
+    "to ride",
+    "learned",
+    "a bike"
    ],
    "ans": [
-    "I learned to swim last year.",
-    "Last year I learned to swim."
+    "My sister learned to ride a bike this summer.",
+    "This summer my sister learned to ride a bike."
    ],
-   "e": "주어 + learned + to부정사 순서로 쓰고, 시간 표현 last year는 문장 끝이나 맨 앞에 둬요.",
+   "e": "주어 + learned + to부정사 순서로 쓰고, 시간 표현 this summer는 문장 끝이나 맨 앞에 둬요.",
    "ref": "1. 목적어로 to부정사를 쓰는 동사 — learn"
   },
   {
    "id": "1-14-a06",
    "type": "arrange",
-   "ko": "매일 운동하는 것은 중요하다.",
+   "ko": "매일 일기를 쓰는 것은 좋은 습관이다.",
    "words": [
-    "important",
-    "To exercise",
+    "a good habit",
+    "To keep",
     "is",
-    "every day"
+    "a diary every day"
    ],
    "ans": [
-    "To exercise every day is important."
+    "To keep a diary every day is a good habit."
    ],
-   "e": "to부정사 주어 To exercise every day 뒤에 단수 동사 is를 써요.",
+   "e": "to부정사 주어 To keep a diary every day 뒤에 단수 동사 is를 써요.",
    "ref": "3. 주어로 쓰인 to부정사는 단수 취급"
   }
  ]

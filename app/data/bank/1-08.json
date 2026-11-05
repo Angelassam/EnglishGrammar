@@ -277,31 +277,31 @@
   {
    "id": "1-08-b01",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>정말 좋은 날이구나!<br>____ a nice day it is!",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>정말 멋진 선물이구나!<br>____ a wonderful gift it is!",
    "ans": [
     "What"
    ],
-   "e": "뒤에 명사 day가 있어서 What으로 시작해요.",
+   "e": "뒤에 명사 gift가 있어서 What으로 시작해요.",
    "ref": "핵심 개념"
   },
   {
    "id": "1-08-b02",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>그녀는 정말 빨리 달리는구나!<br>____ fast she runs!",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>그는 정말 열심히 일하는구나!<br>____ hard he works!",
    "ans": [
     "How"
    ],
-   "e": "부사 fast만 있고 명사가 없으니 How로 시작해요.",
+   "e": "부사 hard만 있고 명사가 없으니 How로 시작해요.",
    "ref": "2. How 감탄문 — 형용사·부사가 주인공"
   },
   {
    "id": "1-08-b03",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>정말 흥미로운 이야기구나!<br>____ ____ interesting story it is!",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>정말 오래된 건물이구나!<br>____ ____ old building it is!",
    "ans": [
     "What an"
    ],
-   "e": "셀 수 있는 단수 명사 story가 있으니 What + a/an이에요. interesting 앞이라 an을 써요.",
+   "e": "셀 수 있는 단수 명사 building이 있으니 What + a/an이에요. old 앞이라 an을 써요.",
    "ref": "1. What 감탄문 — 명사가 주인공"
   },
   {
@@ -318,32 +318,32 @@
   {
    "id": "1-08-b05",
    "type": "blank",
-   "q": "다음 문장을 감탄문으로 바꿀 때 빈칸에 알맞은 말을 쓰세요. (세 단어)<br>It is a very big house.<br>→ ____ ____ ____ house it is!",
+   "q": "다음 문장을 감탄문으로 바꿀 때 빈칸에 알맞은 말을 쓰세요. (세 단어)<br>She is a very smart girl.<br>→ ____ ____ ____ girl she is!",
    "ans": [
-    "What a big",
-    "How big a"
+    "What a smart",
+    "How smart a"
    ],
-   "e": "very를 지우고 명사 house 앞에 What a big을 써요.",
+   "e": "very를 지우고 명사 girl 앞에 What a smart를 써요.",
    "ref": "4. 평서문 → 감탄문 바꾸기"
   },
   {
    "id": "1-08-b06",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>정말 좋은 날씨구나!<br>____ nice weather it is!",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>정말 아름다운 음악이구나!<br>____ beautiful music it is!",
    "ans": [
     "What"
    ],
-   "e": "명사 weather가 있으니 What으로 시작해요. 셀 수 없는 명사라 a는 쓰지 않아요.",
+   "e": "명사 music이 있으니 What으로 시작해요. 셀 수 없는 명사라 a는 쓰지 않아요.",
    "ref": "1. What 감탄문 — 명사가 주인공"
   },
   {
    "id": "1-08-b07",
    "type": "blank",
-   "q": "다음 문장을 How 감탄문으로 바꿀 때 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>She is a very good singer.<br>→ How ____ she sings!",
+   "q": "다음 문장을 How 감탄문으로 바꿀 때 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>He is a very good cook.<br>→ How ____ he cooks!",
    "ans": [
     "well"
    ],
-   "e": "동사 sings를 꾸며야 하니까 형용사 good이 아니라 부사 well을 써요.",
+   "e": "동사 cooks를 꾸며야 하니까 형용사 good이 아니라 부사 well을 써요.",
    "ref": "4. 평서문 → 감탄문 바꾸기"
   },
   {
@@ -421,14 +421,14 @@
   {
    "id": "1-08-a01",
    "type": "arrange",
-   "ko": "정말 좋은 날이구나!",
+   "ko": "정말 귀여운 고양이구나!",
    "words": [
-    "a nice day",
+    "a cute cat",
     "What",
     "it is"
    ],
    "ans": [
-    "What a nice day it is!"
+    "What a cute cat it is!"
    ],
    "e": "What + a + 형용사 + 명사 + 주어 + 동사 순서예요.",
    "ref": "핵심 개념"
@@ -436,14 +436,14 @@
   {
    "id": "1-08-a02",
    "type": "arrange",
-   "ko": "그녀는 정말 빨리 달리는구나!",
+   "ko": "그는 정말 일찍 일어나는구나!",
    "words": [
-    "fast",
+    "early",
     "How",
-    "she runs"
+    "he gets up"
    ],
    "ans": [
-    "How fast she runs!"
+    "How early he gets up!"
    ],
    "e": "How + 부사 + 주어 + 동사 순서예요.",
    "ref": "2. How 감탄문 — 형용사·부사가 주인공"
@@ -451,14 +451,14 @@
   {
    "id": "1-08-a03",
    "type": "arrange",
-   "ko": "정말 흥미로운 이야기구나!",
+   "ko": "정말 쉬운 문제구나!",
    "words": [
-    "interesting story",
+    "easy question",
     "it is",
     "What an"
    ],
    "ans": [
-    "What an interesting story it is!"
+    "What an easy question it is!"
    ],
    "e": "What an + 형용사 + 명사 뒤에 주어 + 동사(it is)를 써요.",
    "ref": "1. What 감탄문 — 명사가 주인공"
@@ -466,50 +466,50 @@
   {
    "id": "1-08-a04",
    "type": "arrange",
-   "ko": "너는 정말 친절하구나!",
+   "ko": "우리는 정말 운이 좋구나!",
    "words": [
-    "kind",
-    "you",
+    "lucky",
+    "we",
     "are",
     "How"
    ],
    "ans": [
-    "How kind you are!"
+    "How lucky we are!"
    ],
-   "e": "How + 형용사 뒤에 주어 + 동사(you are) 순서로 써요. 뒤집지 않아요.",
+   "e": "How + 형용사 뒤에 주어 + 동사(we are) 순서로 써요. 뒤집지 않아요.",
    "ref": "3. 어순 주의 — 감탄문은 \"주어 + 동사\" 순서"
   },
   {
    "id": "1-08-a05",
    "type": "arrange",
-   "ko": "정말 좋은 날씨구나!",
+   "ko": "정말 좋은 소식이구나!",
    "words": [
-    "nice",
+    "great",
     "What",
-    "weather",
+    "news",
     "it is"
    ],
    "ans": [
-    "What nice weather it is!"
+    "What great news it is!"
    ],
-   "e": "weather는 셀 수 없는 명사라 a 없이 What + 형용사 + 명사로 써요.",
+   "e": "news는 셀 수 없는 명사라 a 없이 What + 형용사 + 명사로 써요.",
    "ref": "1. What 감탄문 — 명사가 주인공"
   },
   {
    "id": "1-08-a06",
    "type": "arrange",
-   "ko": "정말 큰 집이구나!",
+   "ko": "정말 긴 다리구나!",
    "words": [
-    "house",
-    "big",
+    "bridge",
+    "long",
     "it is"
    ],
    "cond": "주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
    "ans": [
-    "What a big house it is!",
-    "How big a house it is!"
+    "What a long bridge it is!",
+    "How long a bridge it is!"
    ],
-   "e": "명사 house가 있으니 What a big house로 시작하고, 끝에 it is를 써요.",
+   "e": "명사 bridge가 있으니 What a long bridge로 시작하고, 끝에 it is를 써요.",
    "ref": "4. 평서문 → 감탄문 바꾸기"
   }
  ]
