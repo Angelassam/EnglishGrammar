@@ -52,7 +52,7 @@
    "ref":"Part 2 / 4. 준사역동사 help"},
   {"id":"1-19-P2-c10","type":"choice",
    "q":"우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>나는 그가 방을 청소하게 했다.<br>I got him ____ the room.",
-   "o":["to clean","clean","cleaning","cleans","cleaned"],"a":0,
+   "o":["to clean","clean","to cleaning","cleans","cleaned"],"a":0,
    "e":"get은 사역의 뜻이지만 예외로 목적어 뒤에 to부정사를 써요.",
    "ref":"Part 2 / 4. get은 예외 — to부정사"},
   {"id":"1-19-P2-c11","type":"choice",
@@ -100,7 +100,7 @@
    "ref":"Part 2 / 5. 지각동사 — see / watch / hear / feel + 목적어 + 동사원형 / -ing"},
   {"id":"1-19-P2-c19","type":"choice",
    "q":"우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>나는 남동생이 가방을 들게 했다.<br>I had my brother ____ the bag.",
-   "o":["carry","to carry","carrying","carries","carried"],"a":0,
+   "o":["carry","to carry","to carrying","carries","carried"],"a":0,
    "e":"사역동사 have 뒤에는 목적어 + 동사원형이 와요.",
    "ref":"Part 2 / 4. 사역동사 — make / have / let + 목적어 + 동사원형"},
 
