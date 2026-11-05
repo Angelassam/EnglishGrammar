@@ -167,7 +167,7 @@
    "e":"happy는 '자음 + y'로 끝나서 y를 i로 바꾸고 -er을 붙여요. happyer → happier",
    "ref":"1. 규칙 변화"},
   {"id":"1-16-a01","type":"arrange","ko":"그는 우리 반에서 가장 키가 크다.",
-   "words":["in our class","the tallest","He","is"],"ans":["He is the tallest in our class."],
+   "words":["in our class","the tallest","He","is"],"ans":["He is the tallest in our class.","In our class he is the tallest."],
    "e":"주어 + is + the + 최상급 + in + 집단 순서로 써요.",
    "ref":"핵심 개념"},
   {"id":"1-16-a02","type":"arrange","ko":"이 꽃은 저 꽃보다 더 아름답다.",

@@ -160,7 +160,7 @@
    "e":"우리말은 '차갑게'지만 feel 뒤에는 형용사 cold를 써요. coldly → cold",
    "ref":"1. 우리말은 \"~하게\"인데 영어는 형용사!"},
   {"id":"1-17-a01","type":"arrange","ko":"너 오늘 행복해 보인다.",
-   "words":["happy","look","You","today"],"ans":["You look happy today."],
+   "words":["happy","look","You","today"],"ans":["You look happy today.","Today you look happy."],
    "e":"주어 + 감각동사 look + 형용사 순서로 써요.",
    "ref":"핵심 개념"},
   {"id":"1-17-a02","type":"arrange","ko":"이 수프는 좋은 냄새가 난다.",

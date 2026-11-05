@@ -35,7 +35,7 @@
    "e":"수여동사 뒤에는 사람(목적격)을 먼저, 물건을 나중에 써요. 나머지는 순서가 바뀌었거나 I처럼 주격을 썼어요.",
    "ref":"2. 순서 주의 — \"사람(~에게) 먼저, 물건(…을) 나중\""},
   {"id":"1-18-c07","type":"choice",
-   "q":"대화의 빈칸에 알맞은 말을 고르세요.<br>A: What did you get on your birthday?<br>B: My dad ____ a new bike.",
+   "q":"대화의 빈칸에 알맞은 말을 고르세요.<br>A: What did you get for your birthday?<br>B: My dad ____ a new bike.",
    "o":["bought me","bought I","bought my","me bought","bought mine"],"a":0,
    "e":"'나에게 사 주셨다'는 bought + 간접목적어 me + 직접목적어 순서예요. I, my, mine은 간접목적어 자리에 쓸 수 없어요.",
    "ref":"1. 중1 교과서 단골 수여동사"},
