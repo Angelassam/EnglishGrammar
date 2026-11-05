@@ -5,95 +5,276 @@
  "title": "비교 심화 (최상급·비교급 강조·as~as·the+비교급)",
  "source": "16_비교급_최상급.md — Part 2. 중2 심화",
  "questions": [
-  {"id":"1-16-P2-H-c01","type":"choice",
-   "q":"두 문장이 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>The Nile is the longest river in the world.<br>= No other river in the world is ____ the Nile.",
-   "o":["longer than","the longest than","as long than","longest of","long than"],"a":0,
-   "e":"최상급은 No other + 명사 + is + 비교급 + than으로 바꿔 쓸 수 있어요. than 앞에는 비교급 longer가 와요.",
-   "ref":"Part 2 / 1. 최상급과 같은 뜻의 비교급 표현"},
-  {"id":"1-16-P2-H-c02","type":"choice",
-   "q":"다음 중 어법상 옳은 문장을 고르세요.",
-   "o":["The problems that we solved today were much harder than yesterday's.","The problems that we solved today were very harder than yesterday's.","The problems that we solved today were much more harder than yesterday's.","The problems that we solved today were much hard than yesterday's.","The problems that we solved today were harder much than yesterday's."],"a":0,
-   "e":"비교급 앞에 much를 써서 '훨씬'이라고 강조해요. very는 비교급을 꾸밀 수 없고, more와 -er을 함께 쓰지 않아요.",
-   "ref":"Part 2 / 2. 비교급 강조 — much / even / far / a lot / still"},
-  {"id":"1-16-P2-H-c03","type":"choice",
-   "q":"우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>네가 더 많이 읽을수록, 네가 모르는 단어는 더 적어진다.<br>____ you read, ____ words you don't know.",
-   "o":["The more / the fewer","More / fewer","The more / the less","The most / the fewest","The much / the few"],"a":0,
-   "e":"'~할수록 더 …하다'는 the + 비교급 ~, the + 비교급 … 으로 써요. 셀 수 있는 words 앞이라 fewer를 써요.",
-   "ref":"Part 2 / 4. the + 비교급 ~, the + 비교급 …"},
-  {"id":"1-16-P2-H-c04","type":"choice",
-   "q":"두 문장이 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>The movie that we saw last night was not as exciting as the book.<br>= The book was ____ the movie that we saw last night.",
-   "o":["more exciting than","as exciting as","not as exciting as","less exciting than","the most exciting of"],"a":0,
-   "e":"A is not as ~ as B는 B is 비교급 than A로 바꿔요. 책이 영화보다 더 흥미진진했다는 뜻이에요.",
-   "ref":"Part 2 / 3. not as(so) + 원급 + as"},
-  {"id":"1-16-P2-H-c05","type":"choice",
-   "q":"우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>이곳은 내가 지금까지 방문한 곳 중 가장 아름다운 장소들 중 하나이다.<br>This is one of ____ that I have ever visited.",
-   "o":["the most beautiful places","the most beautiful place","most beautiful places","the more beautiful places","the beautifulest places"],"a":0,
-   "e":"'가장 ~한 것들 중 하나'는 one of the + 최상급 + 복수명사예요. beautiful의 최상급은 the most beautiful이고, 뒤에는 복수 places가 와요.",
-   "ref":"Part 2 / 1. one of the + 최상급 + 복수명사"},
-  {"id":"1-16-P2-H-c06","type":"choice",
-   "q":"빈칸에 알맞은 말을 고르세요.<br>Since the test is tomorrow, you should finish the report ____.",
-   "ko":"시험이 내일이니까, 너는 그 보고서를 가능한 한 빨리 끝내야 한다.",
-   "o":["as quickly as possible","as quicker as possible","as quickly as you possible","so quickly as possible","as quickly possible"],"a":0,
-   "e":"'가능한 한 ~하게'는 as + 원급 + as possible로 써요. as와 as 사이에는 비교급이 아니라 원급 quickly가 와요.",
-   "ref":"Part 2 / 3. as + 원급 + as possible"},
-  {"id":"1-16-P2-H-e01","type":"error","q":"다음 중 어법상 틀린 문장을 고르세요.",
-   "o":["Busan is one of the largest city that I have visited in Korea.","The higher we climbed, the harder it was to breathe.","My new phone is a lot lighter than the one I used before.","No other student in our class is taller than Minho.","The weather today is not as cold as it was last week."],"a":0,
-   "e":"one of the + 최상급 뒤에는 복수명사가 와야 해요. → Busan is one of the largest cities that I have visited in Korea.",
-   "ref":"Part 2 / 1. one of the + 최상급 + 복수명사"},
-  {"id":"1-16-P2-H-e02","type":"error","q":"다음 중 어법상 틀린 문장을 고르세요.",
-   "o":["Jupiter is bigger than any other planets in the solar system.","The more time you spend with him, the more you will like him.","This bag is far heavier than the one that I bought last year.","Please send me the photos as soon as possible after the trip.","He speaks English as well as his teacher does."],"a":0,
-   "e":"비교급 + than any other 뒤에는 단수명사가 와요. → Jupiter is bigger than any other planet in the solar system.",
-   "ref":"Part 2 / 1. 최상급과 같은 뜻의 비교급 표현"},
-  {"id":"1-16-P2-H-e03","type":"error","q":"다음 중 어법상 틀린 문장을 고르세요.",
-   "o":["The new library is not as bigger as the old one that was closed.","Today's homework is even easier than what we did yesterday.","She is one of the most popular writers in the country.","The earlier you leave, the less traffic you will meet.","Mt. Halla is higher than any other mountain in South Korea."],"a":0,
-   "e":"as와 as 사이에는 비교급이 아니라 원급을 써요. → The new library is not as big as the old one that was closed.",
-   "ref":"Part 2 / 3. 주의! as와 as 사이에는 원급"},
-  {"id":"1-16-P2-H-b01","type":"blank",
-   "q":"두 문장이 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (세 단어)<br>Jimin is the fastest runner in our school.<br>= Jimin is faster than ____ in our school.",
-   "ko":"지민은 우리 학교에서 가장 빠른 달리기 선수이다.",
-   "ans":["any other runner"],
-   "e":"최상급은 비교급 + than any other + 단수명사로 바꿔 쓸 수 있어요. runner를 복수로 쓰면 안 돼요.",
-   "ref":"Part 2 / 1. 최상급과 같은 뜻의 비교급 표현"},
-  {"id":"1-16-P2-H-b02","type":"blank",
-   "q":"두 문장이 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (네 단어)<br>This question is easier than the one that we solved yesterday.<br>= The question that we solved yesterday is ____ this one.",
-   "ko":"어제 우리가 푼 문제는 이 문제만큼 쉽지 않다.",
-   "ans":["not as easy as","not so easy as"],
-   "e":"A is 비교급 than B는 B is not as(so) + 원급 + as A로 바꿔요. as와 as 사이에는 원급 easy를 써요.",
-   "ref":"Part 2 / 3. not as(so) + 원급 + as"},
-  {"id":"1-16-P2-H-b03","type":"blank",
-   "q":"우리말과 같은 뜻이 되도록 괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (각 두 단어)<br>네가 더 열심히 연습할수록, 너는 더 좋은 선수가 될 것이다.<br>____ you practice, ____ player you will become. (hard, good)",
-   "ko":"네가 더 열심히 연습할수록, 너는 더 좋은 선수가 될 것이다.",
-   "ans":["The harder, the better","The harder the better","The harder / the better"],
-   "e":"'~할수록 더 …하다'는 the + 비교급 ~, the + 비교급 … 이에요. hard → harder, good → better로 바꿔요.",
-   "ref":"Part 2 / 4. the + 비교급 ~, the + 비교급 …"},
-  {"id":"1-16-P2-H-f01","type":"fix","q":"The movie that we watched yesterday was very more interesting than the book.","wrong":"very more",
-   "ko":"우리가 어제 본 영화는 그 책보다 훨씬 더 재미있었다.","ans":["much more","far more","even more","a lot more","still more"],
-   "e":"very는 비교급을 꾸밀 수 없어요. '훨씬'은 much, even, far, a lot, still로 써요. very more → much more",
-   "ref":"Part 2 / 2. 주의! very는 비교급을 꾸밀 수 없어요"},
-  {"id":"1-16-P2-H-f02","type":"fix","q":"The older my grandmother gets, more often she talks about her childhood.","wrong":"more often",
-   "ko":"할머니는 나이가 드실수록, 어린 시절에 대해 더 자주 이야기하신다.","ans":["the more often"],
-   "e":"'~할수록 더 …하다'는 두 번째 비교급 앞에도 the를 꼭 붙여요. more often → the more often",
-   "ref":"Part 2 / 4. the + 비교급 ~, the + 비교급 …"},
-  {"id":"1-16-P2-H-f03","type":"fix","q":"No other city in Korea is bigger as Seoul, which has about ten million people.","wrong":"bigger as",
-   "ko":"한국의 다른 어떤 도시도 약 천만 명이 사는 서울보다 크지 않다.","ans":["bigger than"],
-   "e":"No other + 명사 + is + 비교급 뒤에는 as가 아니라 than을 써요. bigger as → bigger than",
-   "ref":"Part 2 / 1. 최상급과 같은 뜻의 비교급 표현"},
-  {"id":"1-16-P2-H-a01","type":"arrange","ko":"우리가 어제 먹은 피자는 내가 만든 것만큼 맛있지 않았다.",
-   "words":["was not","the pizza","as delicious as","that we ate","the one","yesterday","that I made"],
-   "ans":["The pizza that we ate yesterday was not as delicious as the one that I made."],
-   "e":"not as + 원급 + as 순서로 쓰고, the pizza와 the one 뒤에 각각 관계대명사 that절을 이어요.",
-   "ref":"Part 2 / 3. not as(so) + 원급 + as"},
-  {"id":"1-16-P2-H-a02","type":"arrange","ko":"이 다리는 그 나라에서 가장 오래된 다리들 중 하나이다.",
-   "cond":"주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
-   "words":["this bridge","be","one of","old","bridges","in","the country"],
-   "ans":["This bridge is one of the oldest bridges in the country."],
-   "e":"'가장 ~한 것들 중 하나'는 one of the + 최상급 + 복수명사예요. old를 최상급 the oldest로 바꾸고 bridges는 복수로 둬요.",
-   "ref":"Part 2 / 1. one of the + 최상급 + 복수명사"},
-  {"id":"1-16-P2-H-a03","type":"arrange","ko":"우리가 그 산을 더 높이 올라갈수록, 공기는 더 차가워졌다.",
-   "cond":"주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
-   "words":["high","we","climb","the mountain","cold","the air","become"],
-   "ans":["The higher we climbed the mountain, the colder the air became."],
-   "e":"the + 비교급 ~, the + 비교급 … 순서로 쓰고, high → the higher, cold → the colder로 바꾼 뒤 동사는 과거 climbed, became으로 써요.",
-   "ref":"Part 2 / 4. the + 비교급 ~, the + 비교급 …"}
+  {
+   "id": "1-16-P2-H-c01",
+   "type": "choice",
+   "q": "두 문장이 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>The Nile is the longest river in the world.<br>= No other river in the world is ____ the Nile.",
+   "o": [
+    "longer than",
+    "the longest than",
+    "as long than",
+    "longest of",
+    "long than"
+   ],
+   "a": 0,
+   "e": "최상급은 No other + 명사 + is + 비교급 + than으로 바꿔 쓸 수 있어요. than 앞에는 비교급 longer가 와요.",
+   "ref": "Part 2 / 1. 최상급과 같은 뜻의 비교급 표현"
+  },
+  {
+   "id": "1-16-P2-H-c02",
+   "type": "choice",
+   "q": "다음 중 어법상 옳은 문장을 고르세요.",
+   "o": [
+    "The problems that we solved today were much harder than yesterday's.",
+    "The problems that we solved today were very harder than yesterday's.",
+    "The problems that we solved today were much more harder than yesterday's.",
+    "The problems that we solved today were much hard than yesterday's.",
+    "The problems that we solved today were harder much than yesterday's."
+   ],
+   "a": 0,
+   "e": "비교급 앞에 much를 써서 '훨씬'이라고 강조해요. very는 비교급을 꾸밀 수 없고, more와 -er을 함께 쓰지 않아요.",
+   "ref": "Part 2 / 2. 비교급 강조 — much / even / far / a lot / still"
+  },
+  {
+   "id": "1-16-P2-H-c03",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>네가 더 많이 연습할수록, 너는 실수를 더 적게 한다.<br>____ you practice, ____ mistakes you make.",
+   "o": [
+    "The more / the fewer",
+    "More / fewer",
+    "The more / the less",
+    "The most / the fewest",
+    "The much / the few"
+   ],
+   "a": 0,
+   "e": "'~할수록 더 …하다'는 the + 비교급 ~, the + 비교급 … 으로 써요. 셀 수 있는 mistakes 앞이라 fewer를 써요.",
+   "ref": "Part 2 / 4. the + 비교급 ~, the + 비교급 …"
+  },
+  {
+   "id": "1-16-P2-H-c04",
+   "type": "choice",
+   "q": "두 문장이 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>The movie that we saw last night was not as exciting as the book.<br>= The book was ____ the movie that we saw last night.",
+   "o": [
+    "more exciting than",
+    "as exciting as",
+    "not as exciting as",
+    "less exciting than",
+    "the most exciting of"
+   ],
+   "a": 0,
+   "e": "A is not as ~ as B는 B is 비교급 than A로 바꿔요. 책이 영화보다 더 흥미진진했다는 뜻이에요.",
+   "ref": "Part 2 / 3. not as(so) + 원급 + as"
+  },
+  {
+   "id": "1-16-P2-H-c05",
+   "type": "choice",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>이곳은 내가 지금까지 방문한 곳 중 가장 아름다운 장소들 중 하나이다.<br>This is one of ____ that I have ever visited.",
+   "o": [
+    "the most beautiful places",
+    "the most beautiful place",
+    "most beautiful places",
+    "the more beautiful places",
+    "the beautifulest places"
+   ],
+   "a": 0,
+   "e": "'가장 ~한 것들 중 하나'는 one of the + 최상급 + 복수명사예요. beautiful의 최상급은 the most beautiful이고, 뒤에는 복수 places가 와요.",
+   "ref": "Part 2 / 1. one of the + 최상급 + 복수명사"
+  },
+  {
+   "id": "1-16-P2-H-c06",
+   "type": "choice",
+   "q": "빈칸에 알맞은 말을 고르세요.<br>Since the test is tomorrow, you should finish the report ____.",
+   "ko": "시험이 내일이니까, 너는 그 보고서를 가능한 한 빨리 끝내야 한다.",
+   "o": [
+    "as quickly as possible",
+    "as quicker as possible",
+    "as quickly as you possible",
+    "so quickly as possible",
+    "as quickly possible"
+   ],
+   "a": 0,
+   "e": "'가능한 한 ~하게'는 as + 원급 + as possible로 써요. as와 as 사이에는 비교급이 아니라 원급 quickly가 와요.",
+   "ref": "Part 2 / 3. as + 원급 + as possible"
+  },
+  {
+   "id": "1-16-P2-H-e01",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "Busan is one of the largest city that I have visited in Korea.",
+    "The higher we climbed, the harder it was to breathe.",
+    "My new phone is a lot lighter than the one I used before.",
+    "No other student in our class is taller than Minho.",
+    "The weather today is not as cold as it was last week."
+   ],
+   "a": 0,
+   "e": "one of the + 최상급 뒤에는 복수명사가 와야 해요. → Busan is one of the largest cities that I have visited in Korea.",
+   "ref": "Part 2 / 1. one of the + 최상급 + 복수명사"
+  },
+  {
+   "id": "1-16-P2-H-e02",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "Jupiter is bigger than any other planets in the solar system.",
+    "The more time you spend with him, the more you will like him.",
+    "This bag is far heavier than the one that I bought last year.",
+    "Please send me the photos as soon as possible after the trip.",
+    "He speaks English as well as his teacher does."
+   ],
+   "a": 0,
+   "e": "비교급 + than any other 뒤에는 단수명사가 와요. → Jupiter is bigger than any other planet in the solar system.",
+   "ref": "Part 2 / 1. 최상급과 같은 뜻의 비교급 표현"
+  },
+  {
+   "id": "1-16-P2-H-e03",
+   "type": "error",
+   "q": "다음 중 어법상 틀린 문장을 고르세요.",
+   "o": [
+    "The new library is not as bigger as the old one that was closed.",
+    "Today's homework is even easier than what we did yesterday.",
+    "She is one of the most popular writers in the country.",
+    "The earlier you leave, the less traffic you will meet.",
+    "Mt. Halla is higher than any other mountain in South Korea."
+   ],
+   "a": 0,
+   "e": "as와 as 사이에는 비교급이 아니라 원급을 써요. → The new library is not as big as the old one that was closed.",
+   "ref": "Part 2 / 3. 주의! as와 as 사이에는 원급"
+  },
+  {
+   "id": "1-16-P2-H-b01",
+   "type": "blank",
+   "q": "두 문장이 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (세 단어)<br>Jimin is the fastest runner in our school.<br>= Jimin is faster than ____ in our school.",
+   "ko": "지민은 우리 학교에서 가장 빠른 달리기 선수이다.",
+   "ans": [
+    "any other runner"
+   ],
+   "e": "최상급은 비교급 + than any other + 단수명사로 바꿔 쓸 수 있어요. runner를 복수로 쓰면 안 돼요.",
+   "ref": "Part 2 / 1. 최상급과 같은 뜻의 비교급 표현"
+  },
+  {
+   "id": "1-16-P2-H-b02",
+   "type": "blank",
+   "q": "두 문장이 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (네 단어)<br>This question is easier than the one that we solved yesterday.<br>= The question that we solved yesterday is ____ this one.",
+   "ko": "어제 우리가 푼 문제는 이 문제만큼 쉽지 않다.",
+   "ans": [
+    "not as easy as",
+    "not so easy as"
+   ],
+   "e": "A is 비교급 than B는 B is not as(so) + 원급 + as A로 바꿔요. as와 as 사이에는 원급 easy를 써요.",
+   "ref": "Part 2 / 3. not as(so) + 원급 + as"
+  },
+  {
+   "id": "1-16-P2-H-b03",
+   "type": "blank",
+   "q": "우리말과 같은 뜻이 되도록 괄호 안의 말을 알맞은 형태로 바꿔 빈칸에 쓰세요. (각 두 단어)<br>네가 더 열심히 연습할수록, 너는 더 좋은 선수가 될 것이다.<br>____ you practice, ____ player you will become. (hard, good)",
+   "ko": "네가 더 열심히 연습할수록, 너는 더 좋은 선수가 될 것이다.",
+   "ans": [
+    "The harder, the better",
+    "The harder the better",
+    "The harder / the better"
+   ],
+   "e": "'~할수록 더 …하다'는 the + 비교급 ~, the + 비교급 … 이에요. hard → harder, good → better로 바꿔요.",
+   "ref": "Part 2 / 4. the + 비교급 ~, the + 비교급 …"
+  },
+  {
+   "id": "1-16-P2-H-f01",
+   "type": "fix",
+   "q": "The movie that we watched yesterday was very more interesting than the book.",
+   "wrong": "very more",
+   "ko": "우리가 어제 본 영화는 그 책보다 훨씬 더 재미있었다.",
+   "ans": [
+    "much more",
+    "far more",
+    "even more",
+    "a lot more",
+    "still more"
+   ],
+   "e": "very는 비교급을 꾸밀 수 없어요. '훨씬'은 much, even, far, a lot, still로 써요. very more → much more",
+   "ref": "Part 2 / 2. 주의! very는 비교급을 꾸밀 수 없어요"
+  },
+  {
+   "id": "1-16-P2-H-f02",
+   "type": "fix",
+   "q": "The older my grandmother gets, more often she talks about her childhood.",
+   "wrong": "more often",
+   "ko": "할머니는 나이가 드실수록, 어린 시절에 대해 더 자주 이야기하신다.",
+   "ans": [
+    "the more often"
+   ],
+   "e": "'~할수록 더 …하다'는 두 번째 비교급 앞에도 the를 꼭 붙여요. more often → the more often",
+   "ref": "Part 2 / 4. the + 비교급 ~, the + 비교급 …"
+  },
+  {
+   "id": "1-16-P2-H-f03",
+   "type": "fix",
+   "q": "No other city in Korea is bigger as Seoul, which has about ten million people.",
+   "wrong": "bigger as",
+   "ko": "한국의 다른 어떤 도시도 약 천만 명이 사는 서울보다 크지 않다.",
+   "ans": [
+    "bigger than"
+   ],
+   "e": "No other + 명사 + is + 비교급 뒤에는 as가 아니라 than을 써요. bigger as → bigger than",
+   "ref": "Part 2 / 1. 최상급과 같은 뜻의 비교급 표현"
+  },
+  {
+   "id": "1-16-P2-H-a01",
+   "type": "arrange",
+   "ko": "우리가 어제 먹은 피자는 내가 만든 것만큼 맛있지 않았다.",
+   "words": [
+    "was not",
+    "the pizza",
+    "as delicious as",
+    "that we ate",
+    "the one",
+    "yesterday",
+    "that I made"
+   ],
+   "ans": [
+    "The pizza that we ate yesterday was not as delicious as the one that I made."
+   ],
+   "e": "not as + 원급 + as 순서로 쓰고, the pizza와 the one 뒤에 각각 관계대명사 that절을 이어요.",
+   "ref": "Part 2 / 3. not as(so) + 원급 + as"
+  },
+  {
+   "id": "1-16-P2-H-a02",
+   "type": "arrange",
+   "ko": "이 다리는 그 나라에서 가장 오래된 다리들 중 하나이다.",
+   "cond": "주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
+   "words": [
+    "this bridge",
+    "be",
+    "one of",
+    "old",
+    "bridges",
+    "in",
+    "the country"
+   ],
+   "ans": [
+    "This bridge is one of the oldest bridges in the country."
+   ],
+   "e": "'가장 ~한 것들 중 하나'는 one of the + 최상급 + 복수명사예요. old를 최상급 the oldest로 바꾸고 bridges는 복수로 둬요.",
+   "ref": "Part 2 / 1. one of the + 최상급 + 복수명사"
+  },
+  {
+   "id": "1-16-P2-H-a03",
+   "type": "arrange",
+   "ko": "우리가 그 산을 더 높이 올라갈수록, 공기는 더 차가워졌다.",
+   "cond": "주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
+   "words": [
+    "high",
+    "we",
+    "climb",
+    "the mountain",
+    "cold",
+    "the air",
+    "become"
+   ],
+   "ans": [
+    "The higher we climbed the mountain, the colder the air became."
+   ],
+   "e": "the + 비교급 ~, the + 비교급 … 순서로 쓰고, high → the higher, cold → the colder로 바꾼 뒤 동사는 과거 climbed, became으로 써요.",
+   "ref": "Part 2 / 4. the + 비교급 ~, the + 비교급 …"
+  }
  ]
 }
