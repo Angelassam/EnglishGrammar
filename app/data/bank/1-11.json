@@ -292,37 +292,37 @@
   {
    "id": "1-11-b01",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>그녀는 거울 속의 자신을 보았다.<br>She looked at ____ in the mirror.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>Tom은 축구 경기에서 다쳤다.<br>Tom hurt ____ in the soccer game.",
    "ans": [
-    "herself"
+    "himself"
    ],
-   "e": "주어 She 자신을 보는 것이라 재귀대명사 herself를 써요.",
+   "e": "주어 Tom 자신이 다친 것이라 재귀대명사 himself를 써요.",
    "ref": "1. 재귀 용법 — 주어 = 목적어 (생략 불가)"
   },
   {
    "id": "1-11-b02",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>그는 반 친구들에게 자신을 소개했다.<br>He introduced ____ to the class.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>우리는 새로 온 학생들에게 우리 자신을 소개했다.<br>We introduced ____ to the new students.",
    "ans": [
-    "himself"
+    "ourselves"
    ],
-   "e": "주어와 목적어가 같은 사람이라 himself를 써요.",
+   "e": "주어와 목적어가 같은 사람들이라 We에 맞춰 ourselves를 써요.",
    "ref": "1. 재귀 용법 — 주어 = 목적어 (생략 불가)"
   },
   {
    "id": "1-11-b03",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 enjoy를 이용해 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>우리는 파티에서 즐거운 시간을 보냈다.<br>We ____ ____ at the party.",
+   "q": "우리말과 같은 뜻이 되도록 enjoy를 이용해 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>나는 여행에서 즐거운 시간을 보냈다.<br>I ____ ____ on the trip.",
    "ans": [
-    "enjoyed ourselves"
+    "enjoyed myself"
    ],
-   "e": "'즐거운 시간을 보내다'는 enjoy oneself예요. 과거라서 enjoyed, 주어 We에 맞춰 ourselves를 써요.",
+   "e": "'즐거운 시간을 보내다'는 enjoy oneself예요. 과거라서 enjoyed, 주어 I에 맞춰 myself를 써요.",
    "ref": "4. 관용 표현"
   },
   {
    "id": "1-11-b04",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>쿠키를 마음껏 드세요.<br>Please help ____ to the cookies.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>과일을 마음껏 드세요.<br>Please help ____ to the fruit.",
    "ans": [
     "yourself",
     "yourselves"
@@ -333,18 +333,18 @@
   {
    "id": "1-11-b05",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>그는 그것을 혼자 힘으로 풀었다.<br>He solved it ____ ____.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>그녀는 그 프로젝트를 혼자 힘으로 끝냈다.<br>She finished the project ____ ____.",
    "ans": [
-    "by himself"
+    "by herself"
    ],
-   "e": "'혼자서'는 by oneself예요. he에 맞춰 by himself로 써요.",
+   "e": "'혼자서'는 by oneself예요. she에 맞춰 by herself로 써요.",
    "ref": "4. 관용 표현"
   },
   {
    "id": "1-11-b06",
    "type": "blank",
-   "q": "괄호 안의 말을 알맞은 재귀대명사로 바꿔 빈칸에 쓰세요.<br>They enjoyed ____ at the party. (they)",
-   "ko": "그들은 파티에서 즐거운 시간을 보냈다.",
+   "q": "괄호 안의 말을 알맞은 재귀대명사로 바꿔 빈칸에 쓰세요.<br>They looked at ____ in the photo. (they)",
+   "ko": "그들은 사진 속의 자신들을 보았다.",
    "ans": [
     "themselves"
    ],
@@ -354,11 +354,11 @@
   {
    "id": "1-11-b07",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>그녀는 자주 혼잣말을 한다.<br>She often talks ____ ____.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>우리 할아버지는 자주 혼잣말을 하신다.<br>My grandfather often talks ____ ____.",
    "ans": [
-    "to herself"
+    "to himself"
    ],
-   "e": "'혼잣말하다'는 talk to oneself예요. 주어 She에 맞춰 to herself로 써요.",
+   "e": "'혼잣말하다'는 talk to oneself예요. 주어 My grandfather에 맞춰 to himself로 써요.",
    "ref": "4. 관용 표현"
   },
   {
@@ -437,15 +437,15 @@
   {
    "id": "1-11-a01",
    "type": "arrange",
-   "ko": "그녀는 거울 속의 자신을 보았다.",
+   "ko": "나는 TV에서 나 자신을 보았다.",
    "words": [
-    "herself",
-    "looked at",
-    "She",
-    "in the mirror"
+    "myself",
+    "saw",
+    "I",
+    "on TV"
    ],
    "ans": [
-    "She looked at herself in the mirror."
+    "I saw myself on TV."
    ],
    "e": "주어 + 동사 + 재귀대명사(목적어) 순서로 써요.",
    "ref": "1. 재귀 용법 — 주어 = 목적어 (생략 불가)"
@@ -453,47 +453,48 @@
   {
    "id": "1-11-a02",
    "type": "arrange",
-   "ko": "그는 반 친구들에게 자신을 소개했다.",
+   "ko": "그녀는 새 선생님에게 자신을 소개했다.",
    "words": [
     "introduced",
-    "to the class",
-    "He",
-    "himself"
+    "to the new teacher",
+    "She",
+    "herself"
    ],
    "ans": [
-    "He introduced himself to the class."
+    "She introduced herself to the new teacher."
    ],
-   "e": "introduced 뒤에 목적어 himself를 쓰고, 그 뒤에 to the class를 써요.",
+   "e": "introduced 뒤에 목적어 herself를 쓰고, 그 뒤에 to the new teacher를 써요.",
    "ref": "1. 재귀 용법 — 주어 = 목적어 (생략 불가)"
   },
   {
    "id": "1-11-a03",
    "type": "arrange",
-   "ko": "우리는 파티에서 즐거운 시간을 보냈다.",
+   "ko": "그들은 콘서트에서 즐거운 시간을 보냈다.",
    "words": [
-    "ourselves",
-    "We",
+    "themselves",
+    "They",
     "enjoyed",
-    "at the party"
+    "at the concert"
    ],
    "ans": [
-    "We enjoyed ourselves at the party."
+    "They enjoyed themselves at the concert."
    ],
-   "e": "enjoy oneself는 '즐거운 시간을 보내다'예요. We에 맞춰 ourselves를 써요.",
+   "e": "enjoy oneself는 '즐거운 시간을 보내다'예요. They에 맞춰 themselves를 써요.",
    "ref": "4. 관용 표현"
   },
   {
    "id": "1-11-a04",
    "type": "arrange",
-   "ko": "쿠키를 마음껏 드세요.",
+   "ko": "피자를 마음껏 드세요.",
    "words": [
     "help",
     "Please",
     "yourself",
-    "to the cookies"
+    "to the pizza"
    ],
    "ans": [
-    "Please help yourself to the cookies."
+    "Please help yourself to the pizza.",
+    "Help yourself to the pizza, please."
    ],
    "e": "help oneself to ~는 '~을 마음껏 먹다'예요. Please + help + yourself + to ~ 순서예요.",
    "ref": "4. 관용 표현"
@@ -501,15 +502,15 @@
   {
    "id": "1-11-a05",
    "type": "arrange",
-   "ko": "그는 그것을 혼자 힘으로 풀었다.",
+   "ko": "그는 혼자서 거기에 갔다.",
    "words": [
     "by himself",
     "He",
-    "solved",
-    "it"
+    "went",
+    "there"
    ],
    "ans": [
-    "He solved it by himself."
+    "He went there by himself."
    ],
    "e": "by oneself는 '혼자서'라는 뜻으로 문장 끝에 써요.",
    "ref": "4. 관용 표현"
@@ -517,16 +518,16 @@
   {
    "id": "1-11-a06",
    "type": "arrange",
-   "ko": "내가 직접 이 케이크를 만들었다.",
+   "ko": "Tom이 직접 그 자전거를 고쳤다.",
    "words": [
-    "myself",
-    "I",
-    "made",
-    "this cake"
+    "himself",
+    "Tom",
+    "fixed",
+    "the bike"
    ],
    "ans": [
-    "I myself made this cake.",
-    "I made this cake myself."
+    "Tom himself fixed the bike.",
+    "Tom fixed the bike himself."
    ],
    "e": "강조 용법의 재귀대명사는 주어 바로 뒤나 문장 끝에 둘 수 있어요.",
    "ref": "2. 강조 용법 — \"직접, 스스로\" (생략 가능)"
@@ -534,18 +535,19 @@
   {
    "id": "1-11-a07",
    "type": "arrange",
-   "ko": "그녀는 자주 혼잣말을 한다.",
+   "ko": "그들은 가끔 혼잣말을 한다.",
    "words": [
-    "she",
-    "often",
+    "they",
+    "sometimes",
     "talk to"
    ],
    "cond": "주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
    "ans": [
-    "She often talks to herself.",
-    "She talks to herself often."
+    "They sometimes talk to themselves.",
+    "They talk to themselves sometimes.",
+    "Sometimes they talk to themselves."
    ],
-   "e": "'혼잣말하다'는 talk to oneself예요. 주어가 She라서 talks로 바꾸고 herself를 더해요.",
+   "e": "'혼잣말하다'는 talk to oneself예요. 주어가 They라서 themselves를 더해요.",
    "ref": "4. 관용 표현"
   }
  ]

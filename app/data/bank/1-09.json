@@ -277,27 +277,27 @@
   {
    "id": "1-09-b01",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>책상 위에 책이 한 권 있다.<br>There ____ a book on the desk.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>학교 앞에 버스 정류장이 하나 있다.<br>There ____ a bus stop in front of the school.",
    "ans": [
     "is"
    ],
-   "e": "a book이 단수라서 is를 써요.",
+   "e": "a bus stop이 단수라서 is를 써요.",
    "ref": "핵심 개념"
   },
   {
    "id": "1-09-b02",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>파티에 사람이 많이 있었다.<br>There ____ many people at the party.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>오늘 아침 공원에 새가 많이 있었다.<br>There ____ many birds in the park this morning.",
    "ans": [
     "were"
    ],
-   "e": "과거이고 many people이 복수라서 were를 써요.",
+   "e": "과거이고 many birds가 복수라서 were를 써요.",
    "ref": "1. 과거형 — There was / There were"
   },
   {
    "id": "1-09-b03",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>냉장고에 우유가 하나도 없다.<br>There isn't ____ milk in the fridge.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (한 단어)<br>식탁 위에 빵이 하나도 없다.<br>There isn't ____ bread on the table.",
    "ans": [
     "any"
    ],
@@ -307,7 +307,7 @@
   {
    "id": "1-09-b04",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>이 근처에 은행이 있나요?<br>____ ____ a bank near here?",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>역 근처에 병원이 있나요?<br>____ ____ a hospital near the station?",
    "ans": [
     "Is there"
    ],
@@ -317,23 +317,23 @@
   {
    "id": "1-09-b05",
    "type": "blank",
-   "q": "괄호 안의 말을 알맞은 현재형으로 바꿔 빈칸에 쓰세요.<br>There ____ a lot of water in the bottle. (be)",
-   "ko": "병에 물이 많이 있다.",
+   "q": "괄호 안의 말을 알맞은 현재형으로 바꿔 빈칸에 쓰세요.<br>There ____ a lot of money in the box. (be)",
+   "ko": "상자 안에 돈이 많이 있다.",
    "ans": [
     "is"
    ],
-   "e": "water는 셀 수 없는 명사라서 양이 많아도 is를 써요.",
+   "e": "money는 셀 수 없는 명사라서 양이 많아도 is를 써요.",
    "ref": "4. 셀 수 없는 명사는 is!"
   },
   {
    "id": "1-09-b06",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (축약형 한 단어)<br>교실에 학생이 한 명도 없다.<br>There ____ any students in the classroom.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (축약형 한 단어)<br>방에 의자가 하나도 없다.<br>There ____ any chairs in the room.",
    "ans": [
     "aren't",
     "are not"
    ],
-   "e": "students가 복수라서 are의 부정형 aren't를 써요.",
+   "e": "chairs가 복수라서 are의 부정형 aren't를 써요.",
    "ref": "2. 부정문 — There is/are + not (+ any)"
   },
   {
@@ -433,15 +433,15 @@
   {
    "id": "1-09-a01",
    "type": "arrange",
-   "ko": "책상 위에 책이 한 권 있다.",
+   "ko": "벽에 시계가 하나 있다.",
    "words": [
-    "a book",
+    "a clock",
     "is",
     "There",
-    "on the desk"
+    "on the wall"
    ],
    "ans": [
-    "There is a book on the desk."
+    "There is a clock on the wall."
    ],
    "e": "There is + 단수명사 + 장소 순서로 써요.",
    "ref": "핵심 개념"
@@ -449,15 +449,15 @@
   {
    "id": "1-09-a02",
    "type": "arrange",
-   "ko": "정원에 고양이 한 마리가 있었다.",
+   "ko": "침대 밑에 큰 개 한 마리가 있었다.",
    "words": [
     "There",
-    "a cat",
+    "a big dog",
     "was",
-    "in the garden"
+    "under the bed"
    ],
    "ans": [
-    "There was a cat in the garden."
+    "There was a big dog under the bed."
    ],
    "e": "과거이고 단수라서 There was + 명사 순서로 써요.",
    "ref": "1. 과거형 — There was / There were"
@@ -465,15 +465,15 @@
   {
    "id": "1-09-a03",
    "type": "arrange",
-   "ko": "냉장고에 우유가 하나도 없다.",
+   "ko": "수프에 소금이 전혀 없다.",
    "words": [
-    "any milk",
+    "any salt",
     "isn't",
     "There",
-    "in the fridge"
+    "in the soup"
    ],
    "ans": [
-    "There isn't any milk in the fridge."
+    "There isn't any salt in the soup."
    ],
    "e": "부정문은 There isn't + any + 명사 순서예요.",
    "ref": "2. 부정문 — There is/are + not (+ any)"
@@ -481,15 +481,15 @@
   {
    "id": "1-09-a04",
    "type": "arrange",
-   "ko": "이 근처에 은행이 있나요?",
+   "ko": "너희 마을에 도서관이 있니?",
    "words": [
     "there",
-    "a bank",
+    "a library",
     "Is",
-    "near here"
+    "in your town"
    ],
    "ans": [
-    "Is there a bank near here?"
+    "Is there a library in your town?"
    ],
    "e": "의문문은 be동사를 맨 앞에 두고 Is there + 명사 ~? 순서로 써요.",
    "ref": "3. 의문문 — Is / Are there ~?"
@@ -497,15 +497,15 @@
   {
    "id": "1-09-a05",
    "type": "arrange",
-   "ko": "교실에 학생이 한 명도 없다.",
+   "ko": "하늘에 구름이 하나도 없다.",
    "words": [
     "aren't",
-    "any students",
+    "any clouds",
     "There",
-    "in the classroom"
+    "in the sky"
    ],
    "ans": [
-    "There aren't any students in the classroom."
+    "There aren't any clouds in the sky."
    ],
    "e": "복수명사의 부정문은 There aren't + any + 복수명사 순서예요.",
    "ref": "2. 부정문 — There is/are + not (+ any)"
@@ -513,34 +513,35 @@
   {
    "id": "1-09-a06",
    "type": "arrange",
-   "ko": "파티에 사람이 많이 있었다.",
+   "ko": "정원에 꽃이 많이 있었다.",
    "words": [
     "there",
     "be",
-    "many people",
-    "at the party"
+    "many flowers",
+    "in the garden"
    ],
    "cond": "주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
    "ans": [
-    "There were many people at the party."
+    "There were many flowers in the garden."
    ],
-   "e": "과거이고 many people이 복수라서 be를 were로 바꿔 There were ~로 써요.",
+   "e": "과거이고 many flowers가 복수라서 be를 were로 바꿔 There were ~로 써요.",
    "ref": "1. 과거형 — There was / There were"
   },
   {
    "id": "1-09-a07",
    "type": "arrange",
-   "ko": "질문 있나요?",
+   "ko": "냉장고에 사과가 좀 있니?",
    "words": [
-    "questions",
+    "apples",
     "Are",
     "any",
-    "there"
+    "there",
+    "in the fridge"
    ],
    "ans": [
-    "Are there any questions?"
+    "Are there any apples in the fridge?"
    ],
-   "e": "복수명사의 의문문은 Are there + any + 복수명사? 순서예요.",
+   "e": "복수명사의 의문문은 Are there + any + 복수명사 ~? 순서예요.",
    "ref": "3. 의문문 — Is / Are there ~?"
   }
  ]

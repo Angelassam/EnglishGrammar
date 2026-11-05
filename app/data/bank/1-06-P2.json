@@ -249,7 +249,7 @@
   {
    "id": "1-06-P2-b01",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (세 단어)<br>너는 그것에 대해 걱정할 필요가 없다.<br>You ____ ____ ____ worry about it.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (세 단어)<br>너는 우산을 가져올 필요가 없다.<br>You ____ ____ ____ bring an umbrella.",
    "ans": [
     "don't have to",
     "don't need to"
@@ -260,17 +260,17 @@
   {
    "id": "1-06-P2-b02",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>그는 예전에 부산에 살았다.<br>He ____ ____ live in Busan.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>우리는 예전에 같은 학교에 다녔다.<br>We ____ ____ go to the same school.",
    "ans": [
     "used to"
    ],
-   "e": "지금은 아닌 과거의 상태는 used to + 동사원형으로 써요.",
+   "e": "지금은 아닌 과거의 습관·상태는 used to + 동사원형으로 써요.",
    "ref": "4. used to"
   },
   {
    "id": "1-06-P2-b03",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>너는 더 열심히 공부해야 할 것이다.<br>You will ____ ____ study harder.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>그녀는 내일 일찍 일어나야 할 것이다.<br>She will ____ ____ get up early tomorrow.",
    "ans": [
     "have to",
     "need to"
@@ -281,18 +281,18 @@
   {
    "id": "1-06-P2-b04",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (세 단어)<br>그녀는 올 필요가 없다.<br>She ____ ____ ____ come.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (세 단어)<br>그는 오늘 숙제를 할 필요가 없다.<br>He ____ ____ ____ do his homework today.",
    "ans": [
     "doesn't have to",
     "doesn't need to"
    ],
-   "e": "주어가 She라서 doesn't have to(= doesn't need to)를 써요.",
+   "e": "주어가 He라서 doesn't have to(= doesn't need to)를 써요.",
    "ref": "1. don't have to — 3인칭 단수"
   },
   {
    "id": "1-06-P2-b05",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>너는 휴대폰을 충전할 필요가 있다.<br>You ____ ____ charge your phone.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>너는 손을 씻을 필요가 있다.<br>You ____ ____ wash your hands.",
    "ans": [
     "need to"
    ],
@@ -302,7 +302,7 @@
   {
    "id": "1-06-P2-b06",
    "type": "blank",
-   "q": "괄호 안의 말을 이용해 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>우리는 서두를 필요가 없다.<br>We don't ____ ____ hurry. (need)",
+   "q": "괄호 안의 말을 이용해 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>너는 지금 결정할 필요가 없다.<br>You don't ____ ____ decide now. (need)",
    "ans": [
     "need to"
    ],
@@ -390,16 +390,16 @@
   {
    "id": "1-06-P2-a01",
    "type": "arrange",
-   "ko": "너는 늦으면 안 된다.",
+   "ko": "너는 여기서 사진을 찍으면 안 된다.",
    "words": [
-    "be",
+    "take pictures",
     "must",
-    "late",
+    "here",
     "You",
     "not"
    ],
    "ans": [
-    "You must not be late."
+    "You must not take pictures here."
    ],
    "e": "금지는 must not + 동사원형 순서예요.",
    "ref": "1. don't have to vs must not"
@@ -407,17 +407,17 @@
   {
    "id": "1-06-P2-a02",
    "type": "arrange",
-   "ko": "너는 그것에 대해 걱정할 필요가 없다.",
+   "ko": "너는 티켓을 살 필요가 없다.",
    "words": [
     "to",
-    "worry",
+    "buy",
     "don't",
     "You",
     "have",
-    "about it"
+    "a ticket"
    ],
    "ans": [
-    "You don't have to worry about it."
+    "You don't have to buy a ticket."
    ],
    "e": "불필요는 don't have to + 동사원형 순서로 써요.",
    "ref": "1. don't have to vs must not"
@@ -425,17 +425,17 @@
   {
    "id": "1-06-P2-a03",
    "type": "arrange",
-   "ko": "내가 교복을 입어야 하나요?",
+   "ko": "내가 지금 떠나야 하나요?",
    "words": [
     "have",
     "Do",
     "I",
     "to",
-    "wear",
-    "a uniform"
+    "leave",
+    "now"
    ],
    "ans": [
-    "Do I have to wear a uniform?"
+    "Do I have to leave now?"
    ],
    "e": "Do + 주어 + have to + 동사원형 ~? 순서예요.",
    "ref": "2. have to의 의문문"
@@ -443,33 +443,34 @@
   {
    "id": "1-06-P2-a04",
    "type": "arrange",
-   "ko": "나는 예전에 개를 무서워했다.",
+   "ko": "그녀는 예전에 수줍음이 많았다.",
    "words": [
     "used",
     "be",
-    "I",
+    "She",
     "to",
-    "afraid of dogs"
+    "shy"
    ],
    "ans": [
-    "I used to be afraid of dogs."
+    "She used to be shy."
    ],
-   "e": "주어 + used to + 동사원형 순서예요.",
+   "e": "주어 + used to + 동사원형 순서예요. 지금은 그렇지 않은 과거의 상태를 나타내요.",
    "ref": "4. used to"
   },
   {
    "id": "1-06-P2-a05",
    "type": "arrange",
-   "ko": "우리는 일찍 떠나야 했다.",
+   "ko": "나는 어제 병원에 가야 했다.",
    "words": [
     "had",
-    "We",
+    "I",
     "to",
-    "leave",
-    "early"
+    "go to the hospital",
+    "yesterday"
    ],
    "ans": [
-    "We had to leave early."
+    "I had to go to the hospital yesterday.",
+    "Yesterday I had to go to the hospital."
    ],
    "e": "과거의 의무는 had to + 동사원형으로 써요.",
    "ref": "2. have to의 시제 변화"
@@ -477,17 +478,17 @@
   {
    "id": "1-06-P2-a06",
    "type": "arrange",
-   "ko": "내가 뭐 가져가야 하나요?",
+   "ko": "내가 지금 그에게 전화할 필요가 있나요?",
    "words": [
     "need",
     "Do",
     "I",
     "to",
-    "bring",
-    "anything"
+    "call him",
+    "now"
    ],
    "ans": [
-    "Do I need to bring anything?"
+    "Do I need to call him now?"
    ],
    "e": "Do + 주어 + need to + 동사원형 ~? 순서예요.",
    "ref": "3. need to"

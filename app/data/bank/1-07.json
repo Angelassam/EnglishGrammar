@@ -288,10 +288,10 @@
   {
    "id": "1-07-b02",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>교실에서 뛰지 마라.<br>____ ____ in the classroom.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>잔디밭 위를 걷지 마라.<br>____ ____ on the grass.",
    "ans": [
-    "Don't run",
-    "Do not run"
+    "Don't walk",
+    "Do not walk"
    ],
    "e": "'~하지 마라'는 Don't + 동사원형으로 써요.",
    "ref": "2. 부정 명령문 — Don't (더 강한 금지는 Never)"
@@ -299,9 +299,9 @@
   {
    "id": "1-07-b03",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>방과 후에 축구하자.<br>____ ____ soccer after school.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>먼저 숙제를 하자.<br>____ ____ our homework first.",
    "ans": [
-    "Let's play"
+    "Let's do"
    ],
    "e": "'~하자'는 Let's + 동사원형으로 써요.",
    "ref": "3. Let's — 함께 하자고 제안"
@@ -320,7 +320,7 @@
   {
    "id": "1-07-b05",
    "type": "blank",
-   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>물을 낭비하지 말자.<br>____ ____ waste water.",
+   "q": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 쓰세요. (두 단어)<br>학교에 늦지 말자.<br>____ ____ be late for school.",
    "ans": [
     "Let's not"
    ],
@@ -440,14 +440,14 @@
   {
    "id": "1-07-a02",
    "type": "arrange",
-   "ko": "교실에서 뛰지 마라.",
+   "ko": "우산을 잊지 마라.",
    "words": [
-    "run",
+    "forget",
     "Don't",
-    "in the classroom"
+    "your umbrella"
    ],
    "ans": [
-    "Don't run in the classroom."
+    "Don't forget your umbrella."
    ],
    "e": "부정 명령문은 Don't + 동사원형 순서로 써요.",
    "ref": "2. 부정 명령문 — Don't (더 강한 금지는 Never)"
@@ -455,14 +455,14 @@
   {
    "id": "1-07-a03",
    "type": "arrange",
-   "ko": "공원에 가자.",
+   "ko": "눈사람을 만들자.",
    "words": [
-    "go",
+    "make",
     "Let's",
-    "to the park"
+    "a snowman"
    ],
    "ans": [
-    "Let's go to the park."
+    "Let's make a snowman."
    ],
    "e": "'~하자'는 Let's + 동사원형 순서로 써요.",
    "ref": "3. Let's — 함께 하자고 제안"
@@ -485,15 +485,15 @@
   {
    "id": "1-07-a05",
    "type": "arrange",
-   "ko": "물을 낭비하지 말자.",
+   "ko": "비닐봉지를 쓰지 말자.",
    "words": [
-    "waste",
+    "use",
     "not",
     "Let's",
-    "water"
+    "plastic bags"
    ],
    "ans": [
-    "Let's not waste water."
+    "Let's not use plastic bags."
    ],
    "e": "Let's 바로 뒤에 not을 쓰고, 그 뒤에 동사원형을 써요.",
    "ref": "3. Let's — 함께 하자고 제안"
