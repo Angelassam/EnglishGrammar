@@ -161,7 +161,7 @@
    "e":"can의 부정은 주어 + can't + 동사원형 순서예요.",
    "ref":"2. 부정문 · 의문문"},
   {"id":"1-05-a04","type":"arrange","ko":"나는 내년에 운전할 수 있을 것이다.",
-   "words":["be able to","will","I","drive","next year"],"ans":["I will be able to drive next year."],
+   "words":["be able to","will","I","drive","next year"],"ans":["I will be able to drive next year.","Next year I will be able to drive."],
    "e":"미래의 능력은 will + be able to + 동사원형 순서로 써요.",
    "ref":"3. can = be able to"},
   {"id":"1-05-a05","type":"arrange","ko":"너 자전거 탈 수 있니?",

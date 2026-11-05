@@ -39,7 +39,7 @@
    "q":"빈칸에 알맞은 말을 고르세요.<br>Look! The baby ____.",
    "ko":"봐! 아기가 자고 있어.",
    "o":["is sleeping","sleeps","sleep","is sleep","sleeping"],"a":0,
-   "e":"Look!은 지금 이 순간을 나타내는 힌트라서 진행형 is sleeping을 써요.",
+   "e":"Look!은 지금 이 순간을 나타내는 힌트라서 진행형 is sleeping을 써요. sleeps는 습관·사실을 말하는 현재형이라 '자고 있어'와 맞지 않아요.",
    "ref":"3. 현재형 vs 현재진행형"},
   {"id":"1-02-c08","type":"choice",
    "q":"우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르세요.<br>나는 개를 가지고 있다.<br>I ____ a dog.",
@@ -171,7 +171,7 @@
    "ref":"4. 진행형으로 쓰지 않는 동사 (상태동사)"},
   {"id":"1-02-a06","type":"arrange","ko":"그들은 지금 공원에서 달리고 있다.",
    "cond":"주어진 말을 이용하고, 필요하면 단어를 더하거나 형태를 바꾸세요.",
-   "words":["they","run","in the park","now"],"ans":["They are running in the park now.","They are now running in the park."],
+   "words":["they","run","in the park","now"],"ans":["They are running in the park now.","They are now running in the park.","Now they are running in the park."],
    "e":"주어 They에는 are를 쓰고, run은 n을 한 번 더 써서 running으로 바꿔요.",
    "ref":"1. -ing 붙이는 규칙"}
  ]
